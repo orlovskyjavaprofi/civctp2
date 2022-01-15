@@ -1,4 +1,4 @@
-This is a fork on opensource project maintained by Alexander Orlovsky CEO of Orlovsky Consulting GbR www.javaprofide.de
+This is a fork of opensource project maintained by Alexander Orlovsky CEO of Orlovsky Consulting GbR www.javaprofide.de
 
 [![Build Status](https://travis-ci.com/civctp2/civctp2.svg?branch=master)](https://travis-ci.com/civctp2/civctp2)
 
