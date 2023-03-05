@@ -16,15 +16,18 @@ https://github.com/civctp2/civctp2
 
 ## About
 This is the Apolyton version of the **Call to Power II** source code based on the released source code from Activision, that did not include the patch. 
+
 **The code has been stripped of comments, but is otherwise complete as far as Activision's code goes.**
-**It was originally built with Microsoft Visual Studio 6.0.**
 In the mean time the Apolyton code was modified so that it works with later versions.
-This version builds on Linux (i386 and x86_64), Ubuntu, Pandora, and Pyra.
+
+## It was originally built with Microsoft Visual Studio 6.0.
 
 **Note: currently this fork is maintained by Orlovsky Consulting GbR www.orlovskyconsulting.de**
 **Note that the game files are not included in this repository, you can get them from the original CD or from the [GoG version](https://www.gog.com/game/call_to_power_2).**
 
 ![Call to Power 2 Apolyton version](https://github.com/orlovskyjavaprofi/civctp2/blob/master/ctp2start-scr.png)
+
+**This version builds on Linux (i386 and x86_64), Ubuntu, Pandora, and Pyra.**
 
 ## Windows build
 https://github.com/orlovskyjavaprofi/civctp2/blob/master/readmeWindows.md
