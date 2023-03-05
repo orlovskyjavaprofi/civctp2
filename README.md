@@ -45,7 +45,7 @@ When everything is setup, simply go to the program folder, for example with `cd 
 There are a few command line option like `-fullscreen` that can be useful.
 
 ## Bugs reporting
-As it has been said here, my company Orlovsky Consulting GbR maintaince this project, but if you at some point try original apolyton version and find bugs , **well you should consider to contact them first : https://github.com/civctp2/civctp2/issues**
+As it has been said here, my company Orlovsky Consulting GbR does the maintaince of this project fork, but if you at some point **try original apolyton version** and find bugs , **well you should consider to contact them first : https://github.com/civctp2/civctp2/issues**
 
 **We try to stay in sync with the upstream**, but if we decide to do something differently and on our side the quality improve and well if you find bugs in our version of the game then you can report it via our **issues:** **https://github.com/orlovskyjavaprofi/civctp2/issues**
 
