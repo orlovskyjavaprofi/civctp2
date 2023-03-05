@@ -44,6 +44,9 @@ https://github.com/orlovskyjavaprofi/civctp2/blob/master/install.md
 When everything is setup, simply go to the program folder, for example with `cd ~/ctp2/ctp2_program/ctp` and launch the game with `./ctp2`. 
 There are a few command line option like `-fullscreen` that can be useful.
 
+## Game manual
+Read about structure of docu https://github.com/orlovskyjavaprofi/civctp2/blob/master/doc/README.txt , **you need skils in tex in order to compile it into pdf.** 
+
 ### Upstream news: converting old Linux save-games to new unified format
 The old format of Linux save-games was not compatible with that of windows save-games. 
 
