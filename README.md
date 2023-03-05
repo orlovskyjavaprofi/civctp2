@@ -1,4 +1,5 @@
-This is a fork of opensource project https://github.com/civctp2/civctp2 , this special fork  maintained by Alexander Orlovsky CEO of Orlovsky Consulting GbR www.javaprofide.de
+##This is a fork of opensource project https://github.com/civctp2/civctp2 
+**This special fork maintained by Alexander Orlovsky CEO of Orlovsky Consulting GbR www.javaprofide.de
 
 [![Build Status](https://travis-ci.com/civctp2/civctp2.svg?branch=master)](https://travis-ci.com/civctp2/civctp2)
 
@@ -14,14 +15,14 @@ This is a fork of opensource project https://github.com/civctp2/civctp2 , this s
 - [EULA Activision source code conditions and terms](https://github.com/orlovskyjavaprofi/civctp2/blob/master/Legal/EULA%20-%20Source%20Code%20for%20CTP2.rtf)
 
 ## About
-This is the Apolyton version of the *Call to Power II* source code based on the released source code from Activision, that did not include the patch. The code has been stripped of comments, but is otherwise complete as far as Activision's code goes. 
+This is the Apolyton version of the **Call to Power II** source code based on the released source code from Activision, that did not include the patch. The code has been stripped of comments, but is otherwise complete as far as Activision's code goes. 
 
 It was originally built with Microsoft Visual Studio 6.0. In the mean time the Apolyton code was modified so that it works with later versions.
 This version builds on Linux (i386 and x86_64), Ubuntu, Pandora, and Pyra.
 
-*Note: currently this fork is maintained by Orlovsky Consulting GbR www.orlovskyconsulting.de *
+**Note: currently this fork is maintained by Orlovsky Consulting GbR www.orlovskyconsulting.de**
 
-Note that the game files are not included in this repository, you can get them from the original CD or from the [GoG version](https://www.gog.com/game/call_to_power_2).
+**Note that the game files are not included in this repository, you can get them from the original CD or from the [GoG version](https://www.gog.com/game/call_to_power_2).**
 
 ![screenshot](screenshot.png "screenshot of CTP2 running on Linux")
 
