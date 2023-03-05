@@ -1,4 +1,4 @@
-##This is a fork of opensource project CIVCCTP2
+## This is a fork of opensource project CIVCCTP2
 https://github.com/civctp2/civctp2 
 **This special fork maintained by Alexander Orlovsky CEO of Orlovsky Consulting GbR www.javaprofide.de
 
