@@ -5,7 +5,7 @@ https://github.com/civctp2/civctp2
 
 [![Build Status](https://travis-ci.com/civctp2/civctp2.svg?branch=master)](https://travis-ci.com/civctp2/civctp2)
 
-#### CivCTP2
+#### CivCTP2 historical references
 - Git SVN import of http://ctp2.darkdust.net/anonsvn/
 - Originally hosted at: https://ctp2.darkdust.net/
 - Forums: https://apolyton.net/forum/other-games/call-to-power-2/ctp2-source-code-project
