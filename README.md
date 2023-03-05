@@ -1,6 +1,7 @@
-## This is a fork of opensource project CIVCCTP2
+## This is a fork of opensource project CivCTP2
 https://github.com/civctp2/civctp2 
-**This special fork maintained by Alexander Orlovsky CEO of Orlovsky Consulting GbR www.javaprofide.de
+
+#### This special fork maintained by Alexander Orlovsky CEO of Orlovsky Consulting GbR www.javaprofide.de
 
 [![Build Status](https://travis-ci.com/civctp2/civctp2.svg?branch=master)](https://travis-ci.com/civctp2/civctp2)
 
