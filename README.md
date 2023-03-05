@@ -3,8 +3,6 @@ https://github.com/civctp2/civctp2
 
 #### This special fork maintained by Alexander Orlovsky CEO of Orlovsky Consulting GbR www.javaprofide.de
 
-[![Build Status](https://travis-ci.com/civctp2/civctp2.svg?branch=master)](https://travis-ci.com/civctp2/civctp2)
-
 #### CivCTP2 historical references
 - Git SVN import of http://ctp2.darkdust.net/anonsvn/
 - Originally hosted at: https://ctp2.darkdust.net/
