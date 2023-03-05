@@ -55,7 +55,8 @@ ctp_ctp2_LDADD = \
 	sound/libsound.la \
 	$(CTP2_LIBANET_LDADD) \
 	$(CTP2_LIBOSNOWIN32_LDADD) \
-	$(CTP2_LIBTTF_LDADD)
+	$(CTP2_LIBTTF_LDADD) \
+	$(CTP2_LDADD)
 
 ctp_ctp2_LDFLAGS = \
 	$(CTP2_LDFLAGS)
@@ -137,7 +138,6 @@ ctp_ctp2_SOURCES = \
 	net/io/net_thread.cpp \
 	robot/utility/RandTest.cpp \
 	robot/utility/roboinit.cpp \
-	robot/pathing/A_Star_Heuristic_Cost.cpp \
 	robot/pathing/astar.cpp \
 	robot/pathing/AstarPnt.cpp \
 	robot/pathing/AVLHeap.cpp \
