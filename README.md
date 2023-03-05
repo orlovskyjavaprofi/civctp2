@@ -28,7 +28,7 @@ This version builds on Linux (i386 and x86_64), Ubuntu, Pandora, and Pyra.
 
 **Note that the game files are not included in this repository, you can get them from the original CD or from the [GoG version](https://www.gog.com/game/call_to_power_2).**
 
-![ctp2start-scr]( "Call to Power 2 Apolyton version")
+![Call to Power 2 Apolyton version](https://github.com/orlovskyjavaprofi/civctp2/blob/master/ctp2start-scr.png)
 
 ## Windows build
 https://github.com/orlovskyjavaprofi/civctp2/blob/master/readmeWindows.md
