@@ -41,3 +41,5 @@ If you have the GoG version, use `innoextract` to extract all the required files
 For example `innoextract -m -I app  setup_call_to_power2_2.0.0.13.exe` will extract the `app`folder that contains all the game files, which are in the same subfolders as in the CD version: `ctp2_data`, `ctp2_program` and `Scenarios`.
 
 Put those folder in you `home` path or anywhere else, for example `~/ctp2`
+
+Continue with installation -> https://github.com/orlovskyjavaprofi/civctp2/blob/master/README.md
