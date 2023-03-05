@@ -1,7 +1,10 @@
 ## This is a fork of opensource project CivCTP2
-https://github.com/civctp2/civctp2 
+**Origin:** https://github.com/civctp2/civctp2 
 
 #### This special fork of CivCTP2 maintained by Alexander Orlovsky CEO of Orlovsky Consulting GbR www.javaprofide.de
+
+## Orlovsk Consulting GbR goals for this project
+**Read more about our goals for the maintenance of this codebase** -> https://orlovskyjavaprofi.github.io/civctp2/
 
 ### Legal
 - [Activision CTP2 Source Code_Readme.htm](https://orlovskyjavaprofi.github.io/civctp2/Legal/Activision%20CTP2%20Source%20Code_Readme.htm)
