@@ -22,8 +22,10 @@ In the mean time the Apolyton code was modified so that it works with later vers
 
 ## It was originally built with Microsoft Visual Studio 6.0.
 
-**Note: currently this fork is maintained by Orlovsky Consulting GbR www.orlovskyconsulting.de**
-**Note that the game files are not included in this repository, you can get them from the original CD or from the [GoG version](https://www.gog.com/game/call_to_power_2).**
+## Please notice 
+Currently this fork is maintained by **Orlovsky Consulting GbR www.orlovskyconsulting.de**
+The game asset files are not included in this repository, you can get them from 
+**the original CD** or **from the [GoG version](https://www.gog.com/game/call_to_power_2).**
 
 ![Call to Power 2 Apolyton version](https://github.com/orlovskyjavaprofi/civctp2/blob/master/ctp2start-scr.png)
 
