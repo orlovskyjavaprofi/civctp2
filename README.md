@@ -22,6 +22,7 @@ Note that the game files are not included in this repository, you can get them f
 ![Advance-Graph](Advance-Graph/Advance_english.png "generated Advance-Graph as PNG, SVG and PDF")
 
 For Windows build refer to -> https://github.com/orlovskyjavaprofi/civctp2/blob/master/readmeWindows.md
+
 For Linux build refer to -> https://github.com/orlovskyjavaprofi/civctp2/blob/master/readmeLinux.md
 
 ### Install the Apolyton edition
