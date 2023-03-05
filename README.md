@@ -21,6 +21,8 @@ Note that the game files are not included in this repository, you can get them f
 ![screenshot](screenshot.png "screenshot of CTP2 running on Linux")
 ![Advance-Graph](Advance-Graph/Advance_english.png "generated Advance-Graph as PNG, SVG and PDF")
 
+For Windows build refer to -> https://github.com/orlovskyjavaprofi/civctp2/blob/master/readmeWindows.md
+For Linux build refer to -> https://github.com/orlovskyjavaprofi/civctp2/blob/master/readmeLinux.md
 
 ### Install the Apolyton edition
 Once you have the original game files, copy the updated files from this git over them. Simply `cp -r ctp2_data/* ~/ctp2/ctp2_data` should do that.
