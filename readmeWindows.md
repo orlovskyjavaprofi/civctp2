@@ -22,3 +22,5 @@ shell> for i in `ls /media/cdrom/Setup/data/Max/ctp2_data/default/videos/`; do m
 ```
 
 This will also copy the videos to that directory.
+
+Continue with installation -> https://github.com/orlovskyjavaprofi/civctp2/blob/master/README.md
