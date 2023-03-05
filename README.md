@@ -1,12 +1,7 @@
 ## This is a fork of opensource project CivCTP2
 https://github.com/civctp2/civctp2 
 
-#### This special fork maintained by Alexander Orlovsky CEO of Orlovsky Consulting GbR www.javaprofide.de
-
-#### CivCTP2 historical references
-- Git SVN import of http://ctp2.darkdust.net/anonsvn/
-- Originally hosted at: https://ctp2.darkdust.net/
-- Forums: https://apolyton.net/forum/other-games/call-to-power-2/ctp2-source-code-project
+#### This special fork of CivCTP2 maintained by Alexander Orlovsky CEO of Orlovsky Consulting GbR www.javaprofide.de
 
 ### Legal
 - [Activision CTP2 Source Code_Readme.htm](https://orlovskyjavaprofi.github.io/civctp2/Legal/Activision%20CTP2%20Source%20Code_Readme.htm)
@@ -29,6 +24,7 @@ The game asset files are not included in this repository, you can get them from
 
 ![Call to Power 2 Apolyton version](https://github.com/orlovskyjavaprofi/civctp2/blob/master/ctp2start-scr.png)
 
+## Building the game from sourcecode
 **This version builds on Linux (i386 and x86_64), Ubuntu, Pandora, and Pyra.**
 
 ## Windows build
@@ -52,5 +48,8 @@ However, due to this, old Linux save-games need to be converted to the new forma
 
 A [game-converter-version](https://github.com/civctp2/civctp2/releases/tag/GameConverter) was created for this purpose (see, [#77](https://github.com/civctp2/civctp2/pull/77)), which can load the old format but saves games to the new format.
 
-## Contributing to this projects
-Read more about -> https://github.com/orlovskyjavaprofi/civctp2/blob/master/CONTRIBUTING.md
+#### CivCTP2 historical references
+- Git SVN import of http://ctp2.darkdust.net/anonsvn/
+- Originally hosted at: https://ctp2.darkdust.net/
+- Forums: https://apolyton.net/forum/other-games/call-to-power-2/ctp2-source-code-project
+
