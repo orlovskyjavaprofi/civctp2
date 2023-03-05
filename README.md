@@ -8,8 +8,8 @@ This is a fork of opensource project https://github.com/civctp2/civctp2 , this s
 - Forums: https://apolyton.net/forum/other-games/call-to-power-2/ctp2-source-code-project
 
 ### Legal
-- [Activision CTP2 Source Code_Readme.txt](https://github.com/orlovskyjavaprofi/civctp2/blob/master/Legal/Activision%20CTP2%20Source%20Code_Readme.htm)
-- [Activision CTP2 Source Code_Readme.htm](https://github.com/orlovskyjavaprofi/civctp2/blob/master/Legal/Activision%20CTP2%20Source%20Code_Readme.txt)
+- [Activision CTP2 Source Code_Readme.htm](https://github.com/orlovskyjavaprofi/civctp2/blob/master/Legal/Activision%20CTP2%20Source%20Code_Readme.htm)
+- [Activision CTP2 Source Code_Readme.txt](https://github.com/orlovskyjavaprofi/civctp2/blob/master/Legal/Activision%20CTP2%20Source%20Code_Readme.txt)
 - [Apolyton CTP2 Source Code_Readme.txt](https://github.com/orlovskyjavaprofi/civctp2/blob/master/Legal/Apolyton%20CTP2%20Source%20Code_Readme.txt)
 - [EULA Activision source code conditions and terms](https://github.com/orlovskyjavaprofi/civctp2/blob/master/Legal/EULA%20-%20Source%20Code%20for%20CTP2.rtf)
 
