@@ -7,9 +7,11 @@ This is a fork of opensource project https://github.com/civctp2/civctp2 , this s
 - Originally hosted at: https://ctp2.darkdust.net/
 - Forums: https://apolyton.net/forum/other-games/call-to-power-2/ctp2-source-code-project
 
-### Original readme files
-- [Activision CTP2 Source Code_Readme.txt](https://github.com/civctp2/civctp2/blob/master/Activision%20CTP2%20Source%20Code_Readme.txt)
-- [Apolyton CTP2 Source Code_Readme.txt](https://github.com/civctp2/civctp2/blob/master/Apolyton%20CTP2%20Source%20Code_Readme.txt)
+### Legal
+- [Activision CTP2 Source Code_Readme.txt](https://github.com/orlovskyjavaprofi/civctp2/blob/master/Legal/Activision%20CTP2%20Source%20Code_Readme.htm)
+- [Activision CTP2 Source Code_Readme.htm](https://github.com/orlovskyjavaprofi/civctp2/blob/master/Legal/Activision%20CTP2%20Source%20Code_Readme.txt)
+- [Apolyton CTP2 Source Code_Readme.txt](https://github.com/orlovskyjavaprofi/civctp2/blob/master/Legal/Apolyton%20CTP2%20Source%20Code_Readme.txt)
+- [EULA Activision source code conditions and terms](https://github.com/orlovskyjavaprofi/civctp2/blob/master/Legal/EULA%20-%20Source%20Code%20for%20CTP2.rtf)
 
 ## About
 
@@ -43,3 +45,5 @@ When everything is setup, simply go to the program folder, for example with `cd 
 ### Converting old Linux save-games to new unified format
 The old format of Linux save-games was not compatible with that of windows save-games. The format is now unified such that each OS can open save-games from the other. However, due to this, old Linux save-games need to be converted to the new format if you want to continue with those under the new ctp2 version (after [22dd1804804](https://github.com/civctp2/civctp2/commit/22dd180480445561bbbcd3efc60f08d2fe5c53e5)). A [game-converter-version](https://github.com/civctp2/civctp2/releases/tag/GameConverter) was created for this purpose (see, [#77](https://github.com/civctp2/civctp2/pull/77)), which can load the old format but saves games to the new format.
 
+## Contributing to this projects
+Read more about -> https://github.com/orlovskyjavaprofi/civctp2/blob/master/CONTRIBUTING.md
