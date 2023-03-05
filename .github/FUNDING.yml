@@ -6,12 +6,8 @@ open_collective: # Replace with a single Open Collective username
 ko_fi: # Replace with a single Ko-fi username
 tidelift: # Replace with a single Tidelift platform-name/package-name e.g., npm/babel
 community_bridge: # Replace with a single Community Bridge project-name e.g., cloud-foundry
-liberapay: # Replace with a single Liberapay username
-issuehunt: # Replace with a single IssueHunt username
-otechie: # Replace with a single Otechie username
-lfx_crowdfunding: # Replace with a single LFX Crowdfunding project-name e.g., cloud-foundry
-custom: https://www.paypal.com/donate?token=N3trfZsFQ0x4UAW_5DVaPppoZ4HXAtHCIxf037PXQzyZBfNJiQcHoDKFnF4-BCSalsc8_B2ieiNqPSyW&locale.x=EN
 custom: BTC bc1qjf8gs2g8cz9ky8faw2kp8lmmnuxvpx5v88wg5j
 custom: ETH 0x89895850C2346EBE3a0d693be8c7d9a52A58f15E
 custom: Matic 0xF51f5708437ae542DA080b1E84b140247ddc7701
 custom: Buy me a coffe https://www.buymeacoffee.com/aorlovsky
+custom: https://www.paypal.com/donate?token=N3trfZsFQ0x4UAW_5DVaPppoZ4HXAtHCIxf037PXQzyZBfNJiQcHoDKFnF4-BCSalsc8_B2ieiNqPSyW&locale.x=EN
