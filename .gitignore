@@ -268,6 +268,9 @@ ctp2_code/libs/freetype-1.3.1/test/fttimer
 ctp2_code/libs/freetype-1.3.1/test/ftview
 ctp2_code/libs/freetype-1.3.1/test/ftzoom
 ctp2_code/ctp/ctp2
+ctp2_data/default/videos/
+ctp2_data/default/music/
+ctp2_program/ctp/music/
 ctp2_data/default/graphics/cursors/UC001.tga
 ctp2_data/default/graphics/cursors/UC002.tga
 ctp2_data/default/graphics/cursors/UC003.tga
