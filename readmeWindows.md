@@ -38,15 +38,15 @@ CTP2 was originally built on Windows with Visual Studio 6.
 Today, the **code compiles on  2022** and probably also later. 
 The code has not been compiled on Windows with any other compiler than the Visual Studio compiler. Beside a version of Visual Studio you need:
 
-## IF you need h and cpp files generated use meson!
-**pip install meson its php command after that , you should be able to get all those special h files!**
+## IF you need h and cpp files for "special record classes" your only option to generate them via upstream version . there you mus use meson!
+**pip install meson its php command after that , you should be able to get all those special h and cpp files with following command:**
 **Then inside upstream version do meson.exe setup build**
 
 ## DirectX very important setup for Visual Studio:
 1. Add  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include in Additional Include Directories
 of the ctp2 project!
 
-2. Download the package from here https://www.microsoft.com/en-us/download/details.aspx?id=6812
+2. [Download the package from here , directly from microsoft] (https://www.microsoft.com/en-us/download/details.aspx?id=6812)
 this must be add in include for the ctp2 project: C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include
 
 ## Historic reference about the original project state
@@ -96,5 +96,8 @@ And also this.
 I assume you have done this. Bit unrelated, what is DevStudio.
 
 Well, for the rest VS2019 may still refuse to compile something, usually when I upgraded from one version to another there was always some stuff that did not compile, but that can also be fixed. I only used VS2017, even so I have VS2019 installed.
+
+# Summary
+Devs of apolyton done good job for keeping project somehow in working state, but its time for **Orlovsky Consulting GbR** to take this opportunity and show we capable of, that you can trust us and we deliver good quality!
 
 Continue with installation -> https://github.com/orlovskyjavaprofi/civctp2/blob/master/README.md
