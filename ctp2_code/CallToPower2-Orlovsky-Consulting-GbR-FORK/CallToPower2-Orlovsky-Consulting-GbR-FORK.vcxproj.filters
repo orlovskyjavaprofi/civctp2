@@ -1153,6 +1153,63 @@
     <ClInclude Include="ui\slic_debug\watchlist.h">
       <Filter>ui\slic_debug</Filter>
     </ClInclude>
+    <ClInclude Include="sound\civsound.h">
+      <Filter>sound</Filter>
+    </ClInclude>
+    <ClInclude Include="sound\ear.h">
+      <Filter>sound</Filter>
+    </ClInclude>
+    <ClInclude Include="sound\ear_util.h">
+      <Filter>sound</Filter>
+    </ClInclude>
+    <ClInclude Include="sound\gamesounds.h">
+      <Filter>sound</Filter>
+    </ClInclude>
+    <ClInclude Include="sound\soundevent.h">
+      <Filter>sound</Filter>
+    </ClInclude>
+    <ClInclude Include="sound\soundmanager.h">
+      <Filter>sound</Filter>
+    </ClInclude>
+    <ClInclude Include="sound\soundutils.h">
+      <Filter>sound</Filter>
+    </ClInclude>
+    <ClInclude Include="robot\utility\RoboInit.h">
+      <Filter>robot\utility</Filter>
+    </ClInclude>
+    <ClInclude Include="robot\pathing\Astar.h">
+      <Filter>robot\pathing</Filter>
+    </ClInclude>
+    <ClInclude Include="robot\pathing\astarpnt.h">
+      <Filter>robot\pathing</Filter>
+    </ClInclude>
+    <ClInclude Include="robot\pathing\AstarQ.h">
+      <Filter>robot\pathing</Filter>
+    </ClInclude>
+    <ClInclude Include="robot\pathing\AVLHeap.h">
+      <Filter>robot\pathing</Filter>
+    </ClInclude>
+    <ClInclude Include="robot\pathing\BFS.h">
+      <Filter>robot\pathing</Filter>
+    </ClInclude>
+    <ClInclude Include="robot\pathing\CityAstar.h">
+      <Filter>robot\pathing</Filter>
+    </ClInclude>
+    <ClInclude Include="robot\pathing\Path.h">
+      <Filter>robot\pathing</Filter>
+    </ClInclude>
+    <ClInclude Include="robot\pathing\robotastar2.h">
+      <Filter>robot\pathing</Filter>
+    </ClInclude>
+    <ClInclude Include="robot\pathing\TestP.h">
+      <Filter>robot\pathing</Filter>
+    </ClInclude>
+    <ClInclude Include="robot\pathing\TradeAstar.h">
+      <Filter>robot\pathing</Filter>
+    </ClInclude>
+    <ClInclude Include="robot\pathing\UnitAstar.h">
+      <Filter>robot\pathing</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="ui\aui_common\aui_action.cpp">
@@ -2274,6 +2331,66 @@
     <ClCompile Include="ui\slic_debug\watchlist.cpp">
       <Filter>ui\slic_debug</Filter>
     </ClCompile>
+    <ClCompile Include="sound\civsound.cpp">
+      <Filter>sound</Filter>
+    </ClCompile>
+    <ClCompile Include="sound\ear_proc.cpp">
+      <Filter>sound</Filter>
+    </ClCompile>
+    <ClCompile Include="sound\ear_util.cpp">
+      <Filter>sound</Filter>
+    </ClCompile>
+    <ClCompile Include="sound\gamesounds.cpp">
+      <Filter>sound</Filter>
+    </ClCompile>
+    <ClCompile Include="sound\soundevent.cpp">
+      <Filter>sound</Filter>
+    </ClCompile>
+    <ClCompile Include="sound\soundmanager.cpp">
+      <Filter>sound</Filter>
+    </ClCompile>
+    <ClCompile Include="sound\soundutils.cpp">
+      <Filter>sound</Filter>
+    </ClCompile>
+    <ClCompile Include="robot\utility\RandTest.cpp">
+      <Filter>robot\utility</Filter>
+    </ClCompile>
+    <ClCompile Include="robot\utility\roboinit.cpp">
+      <Filter>robot\utility</Filter>
+    </ClCompile>
+    <ClCompile Include="robot\pathing\astar.cpp">
+      <Filter>robot\pathing</Filter>
+    </ClCompile>
+    <ClCompile Include="robot\pathing\AstarPnt.cpp">
+      <Filter>robot\pathing</Filter>
+    </ClCompile>
+    <ClCompile Include="robot\pathing\AstarQ.cpp">
+      <Filter>robot\pathing</Filter>
+    </ClCompile>
+    <ClCompile Include="robot\pathing\AVLHeap.cpp">
+      <Filter>robot\pathing</Filter>
+    </ClCompile>
+    <ClCompile Include="robot\pathing\BFS.cpp">
+      <Filter>robot\pathing</Filter>
+    </ClCompile>
+    <ClCompile Include="robot\pathing\CityAstar.cpp">
+      <Filter>robot\pathing</Filter>
+    </ClCompile>
+    <ClCompile Include="robot\pathing\Path.cpp">
+      <Filter>robot\pathing</Filter>
+    </ClCompile>
+    <ClCompile Include="robot\pathing\robotastar2.cpp">
+      <Filter>robot\pathing</Filter>
+    </ClCompile>
+    <ClCompile Include="robot\pathing\TestP.cpp">
+      <Filter>robot\pathing</Filter>
+    </ClCompile>
+    <ClCompile Include="robot\pathing\TradeAstar.cpp">
+      <Filter>robot\pathing</Filter>
+    </ClCompile>
+    <ClCompile Include="robot\pathing\unitastar.cpp">
+      <Filter>robot\pathing</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="ui">
@@ -2311,6 +2428,15 @@
     </Filter>
     <Filter Include="sound">
       <UniqueIdentifier>{fd68a5bb-1282-4544-9f3c-34798f879666}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="robot">
+      <UniqueIdentifier>{4f0bd5af-2736-4d8f-8d01-53acda210c9c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="robot\utility">
+      <UniqueIdentifier>{d973bd73-f4ba-454e-8192-5c48f6a9d1f1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="robot\pathing">
+      <UniqueIdentifier>{a811947e-af46-4719-a2a4-5e1db6b0fef8}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>

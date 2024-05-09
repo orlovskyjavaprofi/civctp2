@@ -130,6 +130,25 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="robot\pathing\Astar.h" />
+    <ClInclude Include="robot\pathing\astarpnt.h" />
+    <ClInclude Include="robot\pathing\AstarQ.h" />
+    <ClInclude Include="robot\pathing\AVLHeap.h" />
+    <ClInclude Include="robot\pathing\BFS.h" />
+    <ClInclude Include="robot\pathing\CityAstar.h" />
+    <ClInclude Include="robot\pathing\Path.h" />
+    <ClInclude Include="robot\pathing\robotastar2.h" />
+    <ClInclude Include="robot\pathing\TestP.h" />
+    <ClInclude Include="robot\pathing\TradeAstar.h" />
+    <ClInclude Include="robot\pathing\UnitAstar.h" />
+    <ClInclude Include="robot\utility\RoboInit.h" />
+    <ClInclude Include="sound\civsound.h" />
+    <ClInclude Include="sound\ear.h" />
+    <ClInclude Include="sound\ear_util.h" />
+    <ClInclude Include="sound\gamesounds.h" />
+    <ClInclude Include="sound\soundevent.h" />
+    <ClInclude Include="sound\soundmanager.h" />
+    <ClInclude Include="sound\soundutils.h" />
     <ClInclude Include="ui\aui_common\aui.h" />
     <ClInclude Include="ui\aui_common\auicfg.h" />
     <ClInclude Include="ui\aui_common\auidebug.h" />
@@ -516,6 +535,26 @@
     <ClInclude Include="ui\slic_debug\watchlist.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="robot\pathing\astar.cpp" />
+    <ClCompile Include="robot\pathing\AstarPnt.cpp" />
+    <ClCompile Include="robot\pathing\AstarQ.cpp" />
+    <ClCompile Include="robot\pathing\AVLHeap.cpp" />
+    <ClCompile Include="robot\pathing\BFS.cpp" />
+    <ClCompile Include="robot\pathing\CityAstar.cpp" />
+    <ClCompile Include="robot\pathing\Path.cpp" />
+    <ClCompile Include="robot\pathing\robotastar2.cpp" />
+    <ClCompile Include="robot\pathing\TestP.cpp" />
+    <ClCompile Include="robot\pathing\TradeAstar.cpp" />
+    <ClCompile Include="robot\pathing\unitastar.cpp" />
+    <ClCompile Include="robot\utility\RandTest.cpp" />
+    <ClCompile Include="robot\utility\roboinit.cpp" />
+    <ClCompile Include="sound\civsound.cpp" />
+    <ClCompile Include="sound\ear_proc.cpp" />
+    <ClCompile Include="sound\ear_util.cpp" />
+    <ClCompile Include="sound\gamesounds.cpp" />
+    <ClCompile Include="sound\soundevent.cpp" />
+    <ClCompile Include="sound\soundmanager.cpp" />
+    <ClCompile Include="sound\soundutils.cpp" />
     <ClCompile Include="ui\aui_common\aui_action.cpp" />
     <ClCompile Include="ui\aui_common\aui_animate.cpp" />
     <ClCompile Include="ui\aui_common\aui_audiomanager.cpp" />
