@@ -52,4 +52,53 @@ The executables these configurations generate are in [your source path]/ctp2_cod
 
 CTP2 can directly be run from Visual Studio, to do so press F5 if you want to run it on the debugger, which will be slow and does not make sense for a Final version. To run without debugging, press Ctrl F5. If necessary, CTP2 will be built, first. Some of the map plugins may fail to build the first time in a clean project. Just try compile those again.
 
+## DirectX
+I am not sure where you are now in this list. And keep in mind I don't follow these instructions too often, ether.
+
+    Make sure you add the Include and Lib and BaseClasses directories from this SDK to Tools->Options->Directories from Visual Studio, if they are not there already. If you installed them to default locations, that means you need to add e.g. for DirectX 9.0:
+
+    C:\DXSDK\Include
+    C:\DXSDK\Samples\C++\DirectShow\BaseClasses
+
+    to your include directories path, and
+
+    C:\DXSDK\Lib
+    C:\DXSDK\Samples\C++\DirectShow\BaseClasses\Debug_Unicode
+
+    to your lib directories path.
+
+You only need Include and Lib, the stuff from Samples has been removed from the SDK and wasn't actually used, it was just included.
+
+    If you are using Visual Studio C++ 6.0 you need to add the following line to the list of include directories in front of the Microsoft standart directories, since MSVSC++ 6.0 comes with a defect standart library.
+
+    C:<your CTP2 directory>\ctp2_code\compiler\msvc6\stlfixes
+
+That's obsolete.
+
+    In order to build, you need an environment variable named CDKDIR on your computer. In Windows XP/2000, go to Control
+    Panel->System->Environment Variables, and add it, with it's value set to /ctp2/bin, the directory with bison, flex, and other miscellaneous utilities in it.
+    In Windows 9X/ME add to your autoexec.bat the following line:
+
+    SET CDKDIR=\CTP2\bin
+
+    Note that you must not add spaces between the environment variable name and the equal sign. The same holds for the path name and the equal sign.
+
+You must do this.
+
+    You have also to create a tmp directory on the harddrive you have the code, e.g.: C:\tmp
+
+And also this.
+
+    Lastly, YOU NEED THE DATA DIRECTORY FROM THE ORIGINAL SHIPPING GAME. All the graphics, sounds, and other data files needed to actually run the game are not included here. Place the ctp2_data directory from the game install directory at the same directory level as ctp2_code in this archive to run an executable built from DevStudio. For instance if your ctp2_data directory has the path:
+
+    C:<your CTP2 directory>\ctp2_data\
+
+    then your ctp2_code directory should have the path:
+
+    C:<your CTP2 directory>\ctp2_code\
+
+I assume you have done this. Bit unrelated, what is DevStudio.
+
+Well, for the rest VS2019 may still refuse to compile something, usually when I upgraded from one version to another there was always some stuff that did not compile, but that can also be fixed. I only used VS2017, even so I have VS2019 installed.
+
 Continue with installation -> https://github.com/orlovskyjavaprofi/civctp2/blob/master/README.md
