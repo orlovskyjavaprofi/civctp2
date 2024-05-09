@@ -1,3 +1,4 @@
+## Copy movies and music to your windows directory
 The Windows version supports CD audio music, and the Linux version supports ripped CD music files compressed as ogg (like found in the GoG version). The Audio tracks in the GoG version are named `Track02.ogg` to `Track11.ogg`.
 
 The **ctp2_program/ctp/music** folder, which should be copied to **ctp2_code/ctp/music**, if you want to use them in your working copy.
@@ -101,5 +102,48 @@ And also this.
 I assume you have done this. Bit unrelated, what is DevStudio.
 
 Well, for the rest VS2019 may still refuse to compile something, usually when I upgraded from one version to another there was always some stuff that did not compile, but that can also be fixed. I only used VS2017, even so I have VS2019 installed.
+
+## Very important setup for Visual Studio:
+**1. Set civctp2 as startup project**
+
+2. Add  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include in Additional Include Directories
+of the ctp2 project!
+
+This step must be done for all running profiles!
+
+4. Download the package from here https://www.microsoft.com/en-us/download/details.aspx?id=6812
+this must be add in include for the ctp2 project: C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include
+
+6. It some cases it would **make sense** to provide not relative but full path to directories in ctp2_code\gs\ !
+**5. Do the same for dbgen ! Open project setting and point directly to the libs where your h files exist!**
+   
+8. Same goes for Crater project!
+   
+9. Same goes for fault project!
+    
+10. Same goes for geometric project!
+    
+11. Same goes for Plasma2 project!
+   
+12. If you found include which does not exist in your code repository , well then delete it!
+    
+13. There some changes must be made civctp.vcxproj
+
+$(ProjectDir)..\gs\newdb\
+$(ProjectDir)..\gs\slic\
+$(ProjectDir)..\ui
+<ClCompile Include="..\ui\
+<ClInclude Include="..\gs\newdb\
+<ClInclude Include="..\gs\slic\
+<ClInclude Include="..\ui\ldl\
+<CustomBuild Include="..\gs\newdb\
+<CustomBuild Include="..\gs\slic\
+<CustomBuild Include="..\ui\ldl\
+<CustomBuild Include="..\gs\newdb\
+<CustomBuild Include="..\ui\ldl\
+<CustomBuild Include="..\ui\ldl\
+
+observe this values! they are important
+
 
 Continue with installation -> https://github.com/orlovskyjavaprofi/civctp2/blob/master/README.md
