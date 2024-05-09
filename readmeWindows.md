@@ -1,5 +1,6 @@
+The Windows version supports CD audio music, and the Linux version supports ripped CD music files compressed as ogg (like found in the GoG version). The Audio tracks in the GoG version are named `Track02.ogg` to `Track11.ogg` and in the ctp2_program/ctp/music folder, which should be copied to ctp2_code/ctp/music, if you want to use them in your working copy.
 
-The Windows version supports CD audio music, and the Linux version supports ripped CD music files compressed as ogg (like found in the GoG version). The Audio tracks should be named `Track02.ogg` to `Track11.ogg` and be in the `ctp2_program/ctp/music` folder.
+The music and the videos are not needed for the playing CTP2. However, if you want to use them you can just use the CD on Windows. However, the GoG audio tracks are not supported on Windows, but you can play them in anther player such as VLC, while playing the game.
 
 As the Linux version does not support direct play from the CD-ROM, you need to rip the music-files from the CD and put them on your disk. The music-files can be ripped with `crip` (http://bach.dynet.com/crip/) or `cdparanoia`.
 
