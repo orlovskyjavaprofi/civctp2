@@ -1,4 +1,4 @@
-## This is a fork of opensource project CivCTP2
+## This is a fork of opensource project CivCTP2 our codebase basicly "Remaded" for Windows
 **Origin:** https://github.com/civctp2/civctp2 
 
 ## We take donations!
