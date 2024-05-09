@@ -32,6 +32,9 @@ Your start from here **civctp2\ctp2_code\ctp** , there you will find **civctp.sl
 
 CTP2 was originally built on Windows with Visual Studio 6. Today, the code compiles on Visual Studio 2017 and 2019 and probably also later. The code has not been compiled on Windows with any other compiler than the Visual Studio compiler. Beside a version of Visual Studio you need:
 
+## IF you need h and cpp files generated use meson!
+**pip install meson its php command after that , you should be able to get all those special h files!**
+
     The Windows SDK installed on your computer for DirectX support
     An environment variable named CDKDIR on your computer. In Windows XP/2000, go to Control Panel->System->Environment Variables, and add it, with it's value set to [your source path]/ctp2/bin, the directory with bison, flex, and other tools in it. On Windows 10 it is Control Panel->System->Advanced System Settings->Environment Variables or PC Settings->Info->Advanced System Settings->Environment Variables or press Windows+Pause ->Advanced System Settings->Environment Variables
     A tmp directory in the root directory of the hard drive where the code is. If your source code working copy is on drive C: then create C:\tmp. If you have the code on another drive such as E: than it is E:\tmp.
