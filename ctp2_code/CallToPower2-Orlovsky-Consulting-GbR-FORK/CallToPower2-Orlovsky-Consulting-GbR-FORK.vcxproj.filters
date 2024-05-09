@@ -2309,6 +2309,9 @@
     <Filter Include="ui\slic_debug">
       <UniqueIdentifier>{0c6ab52f-e0ed-4c3b-95b3-5952c3c7b033}</UniqueIdentifier>
     </Filter>
+    <Filter Include="sound">
+      <UniqueIdentifier>{fd68a5bb-1282-4544-9f3c-34798f879666}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <None Include="ui\freetype\announce">
