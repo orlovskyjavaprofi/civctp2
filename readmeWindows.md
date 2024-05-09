@@ -1,4 +1,4 @@
-## Our Version is FORK!! This means we do develop our own branch with goal and target platform Windows only!
+## Our version is FORK!! This means we do develop our own branch with goal and target platform Windows only!
 
 ## Copy movies and music to your windows directory
 The Windows version supports CD audio music, and the Linux version supports ripped CD music files compressed as ogg (like found in the GoG version). The Audio tracks in the GoG version are named `Track02.ogg` to `Track11.ogg`.
