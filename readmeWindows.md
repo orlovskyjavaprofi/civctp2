@@ -1,3 +1,4 @@
+## Copy movies and music to your windows directory
 The Windows version supports CD audio music, and the Linux version supports ripped CD music files compressed as ogg (like found in the GoG version). The Audio tracks in the GoG version are named `Track02.ogg` to `Track11.ogg`.
 
 The **ctp2_program/ctp/music** folder, which should be copied to **ctp2_code/ctp/music**, if you want to use them in your working copy.
