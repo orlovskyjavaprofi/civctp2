@@ -18,6 +18,9 @@
 ## About
 This is the Apolyton version of the **Call to Power II** source code based on the released source code from Activision, that did not include the patch. 
 
+[Here you can watch me Alexander Orlovsky playing the original game , so you know what to expect!](https://rumble.com/v1fllu7-lets-play-call-to-power-2-original-activision-version-part-1.html)
+
+
 **The code has been stripped of comments, but is otherwise complete as far as Activision's code goes.**
 In the mean time the Apolyton code was modified so that it works with later versions.
 
