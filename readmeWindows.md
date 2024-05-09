@@ -103,7 +103,7 @@ I assume you have done this. Bit unrelated, what is DevStudio.
 
 Well, for the rest VS2019 may still refuse to compile something, usually when I upgraded from one version to another there was always some stuff that did not compile, but that can also be fixed. I only used VS2017, even so I have VS2019 installed.
 
-##Very important setup for Visual Studio:
+## Very important setup for Visual Studio:
 **1. Set civctp2 as startup project**
 2. Add  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include in Additional Include Directories
 of the ctp2 project!
