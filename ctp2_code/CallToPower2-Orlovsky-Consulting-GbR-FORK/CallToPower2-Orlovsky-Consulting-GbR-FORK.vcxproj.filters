@@ -1246,6 +1246,240 @@
     <ClInclude Include="os\nowin32\windows.h">
       <Filter>os\nowin32</Filter>
     </ClInclude>
+    <ClInclude Include="os\include\config_win32.h">
+      <Filter>os\include</Filter>
+    </ClInclude>
+    <ClInclude Include="os\include\ctp2_config.h">
+      <Filter>os\include</Filter>
+    </ClInclude>
+    <ClInclude Include="os\include\ctp2_inttypes.h">
+      <Filter>os\include</Filter>
+    </ClInclude>
+    <ClInclude Include="os\include\noCOMBase.h">
+      <Filter>os\include</Filter>
+    </ClInclude>
+    <ClInclude Include="net\io\net_anet.h">
+      <Filter>net\io</Filter>
+    </ClInclude>
+    <ClInclude Include="net\io\net_array.h">
+      <Filter>net\io</Filter>
+    </ClInclude>
+    <ClInclude Include="net\io\net_debug.h">
+      <Filter>net\io</Filter>
+    </ClInclude>
+    <ClInclude Include="net\io\net_error.h">
+      <Filter>net\io</Filter>
+    </ClInclude>
+    <ClInclude Include="net\io\net_io.h">
+      <Filter>net\io</Filter>
+    </ClInclude>
+    <ClInclude Include="net\io\net_list.h">
+      <Filter>net\io</Filter>
+    </ClInclude>
+    <ClInclude Include="net\io\net_thread.h">
+      <Filter>net\io</Filter>
+    </ClInclude>
+    <ClInclude Include="net\io\net_types.h">
+      <Filter>net\io</Filter>
+    </ClInclude>
+    <ClInclude Include="net\io\net_util.h">
+      <Filter>net\io</Filter>
+    </ClInclude>
+    <ClInclude Include="net\general\chatlist.h">
+      <Filter>net\general</Filter>
+    </ClInclude>
+    <ClInclude Include="net\general\net_achievement.h">
+      <Filter>net\general</Filter>
+    </ClInclude>
+    <ClInclude Include="net\general\net_action.h">
+      <Filter>net\general</Filter>
+    </ClInclude>
+    <ClInclude Include="net\general\net_agreement.h">
+      <Filter>net\general</Filter>
+    </ClInclude>
+    <ClInclude Include="net\general\net_army.h">
+      <Filter>net\general</Filter>
+    </ClInclude>
+    <ClInclude Include="net\general\net_cell.h">
+      <Filter>net\general</Filter>
+    </ClInclude>
+    <ClInclude Include="net\general\net_chat.h">
+      <Filter>net\general</Filter>
+    </ClInclude>
+    <ClInclude Include="net\general\net_cheat.h">
+      <Filter>net\general</Filter>
+    </ClInclude>
+    <ClInclude Include="net\general\net_city.h">
+      <Filter>net\general</Filter>
+    </ClInclude>
+    <ClInclude Include="net\general\net_civ.h">
+      <Filter>net\general</Filter>
+    </ClInclude>
+    <ClInclude Include="net\general\net_const.h">
+      <Filter>net\general</Filter>
+    </ClInclude>
+    <ClInclude Include="net\general\net_crc.h">
+      <Filter>net\general</Filter>
+    </ClInclude>
+    <ClInclude Include="net\general\net_diff.h">
+      <Filter>net\general</Filter>
+    </ClInclude>
+    <ClInclude Include="net\general\net_diplomacy.h">
+      <Filter>net\general</Filter>
+    </ClInclude>
+    <ClInclude Include="net\general\net_endgame.h">
+      <Filter>net\general</Filter>
+    </ClInclude>
+    <ClInclude Include="net\general\net_exclusions.h">
+      <Filter>net\general</Filter>
+    </ClInclude>
+    <ClInclude Include="net\general\net_feat.h">
+      <Filter>net\general</Filter>
+    </ClInclude>
+    <ClInclude Include="net\general\net_gameobj.h">
+      <Filter>net\general</Filter>
+    </ClInclude>
+    <ClInclude Include="net\general\net_gamesettings.h">
+      <Filter>net\general</Filter>
+    </ClInclude>
+    <ClInclude Include="net\general\net_guid.h">
+      <Filter>net\general</Filter>
+    </ClInclude>
+    <ClInclude Include="net\general\net_happy.h">
+      <Filter>net\general</Filter>
+    </ClInclude>
+    <ClInclude Include="net\general\net_hash.h">
+      <Filter>net\general</Filter>
+    </ClInclude>
+    <ClInclude Include="net\general\net_info.h">
+      <Filter>net\general</Filter>
+    </ClInclude>
+    <ClInclude Include="net\general\net_installation.h">
+      <Filter>net\general</Filter>
+    </ClInclude>
+    <ClInclude Include="net\general\net_keys.h">
+      <Filter>net\general</Filter>
+    </ClInclude>
+    <ClInclude Include="net\general\net_message.h">
+      <Filter>net\general</Filter>
+    </ClInclude>
+    <ClInclude Include="net\general\net_order.h">
+      <Filter>net\general</Filter>
+    </ClInclude>
+    <ClInclude Include="net\general\net_packet.h">
+      <Filter>net\general</Filter>
+    </ClInclude>
+    <ClInclude Include="net\general\net_player.h">
+      <Filter>net\general</Filter>
+    </ClInclude>
+    <ClInclude Include="net\general\net_playerdata.h">
+      <Filter>net\general</Filter>
+    </ClInclude>
+    <ClInclude Include="net\general\net_pollution.h">
+      <Filter>net\general</Filter>
+    </ClInclude>
+    <ClInclude Include="net\general\net_rand.h">
+      <Filter>net\general</Filter>
+    </ClInclude>
+    <ClInclude Include="net\general\net_ready.h">
+      <Filter>net\general</Filter>
+    </ClInclude>
+    <ClInclude Include="net\general\net_report.h">
+      <Filter>net\general</Filter>
+    </ClInclude>
+    <ClInclude Include="net\general\net_research.h">
+      <Filter>net\general</Filter>
+    </ClInclude>
+    <ClInclude Include="net\general\net_strengths.h">
+      <Filter>net\general</Filter>
+    </ClInclude>
+    <ClInclude Include="net\general\net_terrain.h">
+      <Filter>net\general</Filter>
+    </ClInclude>
+    <ClInclude Include="net\general\net_tradeoffer.h">
+      <Filter>net\general</Filter>
+    </ClInclude>
+    <ClInclude Include="net\general\net_traderoute.h">
+      <Filter>net\general</Filter>
+    </ClInclude>
+    <ClInclude Include="net\general\net_unit.h">
+      <Filter>net\general</Filter>
+    </ClInclude>
+    <ClInclude Include="net\general\net_vision.h">
+      <Filter>net\general</Filter>
+    </ClInclude>
+    <ClInclude Include="net\general\net_wonder.h">
+      <Filter>net\general</Filter>
+    </ClInclude>
+    <ClInclude Include="net\general\net_world.h">
+      <Filter>net\general</Filter>
+    </ClInclude>
+    <ClInclude Include="net\general\network.h">
+      <Filter>net\general</Filter>
+    </ClInclude>
+    <ClInclude Include="net\general\networkevent.h">
+      <Filter>net\general</Filter>
+    </ClInclude>
+    <ClInclude Include="mapgen\Crater.h">
+      <Filter>mapgen</Filter>
+    </ClInclude>
+    <ClInclude Include="mapgen\FaultGen.h">
+      <Filter>mapgen</Filter>
+    </ClInclude>
+    <ClInclude Include="mapgen\Geometric.h">
+      <Filter>mapgen</Filter>
+    </ClInclude>
+    <ClInclude Include="mapgen\IMapGen.h">
+      <Filter>mapgen</Filter>
+    </ClInclude>
+    <ClInclude Include="mapgen\PlasmaGen1.h">
+      <Filter>mapgen</Filter>
+    </ClInclude>
+    <ClInclude Include="mapgen\PlasmaGen2.h">
+      <Filter>mapgen</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\zlib\zconf.h">
+      <Filter>libs\zlib</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\zlib\zlib.h">
+      <Filter>libs\zlib</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\tiff\tiff.h">
+      <Filter>libs\tiff</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\tiff\tiffconf.h">
+      <Filter>libs\tiff</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\tiff\tiffio.h">
+      <Filter>libs\tiff</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\tiff\tiffvers.h">
+      <Filter>libs\tiff</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\miles\mss.h">
+      <Filter>libs\miles</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\freetype-1.3.1\test\arabic.h">
+      <Filter>libs\freetype-1.3.1\test</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\freetype-1.3.1\test\blitter.h">
+      <Filter>libs\freetype-1.3.1\test</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\freetype-1.3.1\test\common.h">
+      <Filter>libs\freetype-1.3.1\test</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\freetype-1.3.1\test\display.h">
+      <Filter>libs\freetype-1.3.1\test</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\freetype-1.3.1\test\gdriver.h">
+      <Filter>libs\freetype-1.3.1\test</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\freetype-1.3.1\test\gevents.h">
+      <Filter>libs\freetype-1.3.1\test</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\freetype-1.3.1\test\gmain.h">
+      <Filter>libs\freetype-1.3.1\test</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="ui\aui_common\aui_action.cpp">
@@ -2436,6 +2670,210 @@
     <ClCompile Include="os\nowin32\nowin32.cpp">
       <Filter>os\nowin32</Filter>
     </ClCompile>
+    <ClCompile Include="net\io\net_anet.cpp">
+      <Filter>net\io</Filter>
+    </ClCompile>
+    <ClCompile Include="net\io\net_debug.cpp">
+      <Filter>net\io</Filter>
+    </ClCompile>
+    <ClCompile Include="net\io\net_io.cpp">
+      <Filter>net\io</Filter>
+    </ClCompile>
+    <ClCompile Include="net\io\net_thread.cpp">
+      <Filter>net\io</Filter>
+    </ClCompile>
+    <ClCompile Include="net\general\net_achievement.cpp">
+      <Filter>net\general</Filter>
+    </ClCompile>
+    <ClCompile Include="net\general\net_action.cpp">
+      <Filter>net\general</Filter>
+    </ClCompile>
+    <ClCompile Include="net\general\net_agreement.cpp">
+      <Filter>net\general</Filter>
+    </ClCompile>
+    <ClCompile Include="net\general\net_army.cpp">
+      <Filter>net\general</Filter>
+    </ClCompile>
+    <ClCompile Include="net\general\net_cell.cpp">
+      <Filter>net\general</Filter>
+    </ClCompile>
+    <ClCompile Include="net\general\net_chat.cpp">
+      <Filter>net\general</Filter>
+    </ClCompile>
+    <ClCompile Include="net\general\net_cheat.cpp">
+      <Filter>net\general</Filter>
+    </ClCompile>
+    <ClCompile Include="net\general\net_city.cpp">
+      <Filter>net\general</Filter>
+    </ClCompile>
+    <ClCompile Include="net\general\net_civ.cpp">
+      <Filter>net\general</Filter>
+    </ClCompile>
+    <ClCompile Include="net\general\net_crc.cpp">
+      <Filter>net\general</Filter>
+    </ClCompile>
+    <ClCompile Include="net\general\net_diff.cpp">
+      <Filter>net\general</Filter>
+    </ClCompile>
+    <ClCompile Include="net\general\net_diplomacy.cpp">
+      <Filter>net\general</Filter>
+    </ClCompile>
+    <ClCompile Include="net\general\net_endgame.cpp">
+      <Filter>net\general</Filter>
+    </ClCompile>
+    <ClCompile Include="net\general\net_exclusions.cpp">
+      <Filter>net\general</Filter>
+    </ClCompile>
+    <ClCompile Include="net\general\net_feat.cpp">
+      <Filter>net\general</Filter>
+    </ClCompile>
+    <ClCompile Include="net\general\net_gameobj.cpp">
+      <Filter>net\general</Filter>
+    </ClCompile>
+    <ClCompile Include="net\general\net_gamesettings.cpp">
+      <Filter>net\general</Filter>
+    </ClCompile>
+    <ClCompile Include="net\general\net_guid.cpp">
+      <Filter>net\general</Filter>
+    </ClCompile>
+    <ClCompile Include="net\general\net_happy.cpp">
+      <Filter>net\general</Filter>
+    </ClCompile>
+    <ClCompile Include="net\general\net_info.cpp">
+      <Filter>net\general</Filter>
+    </ClCompile>
+    <ClCompile Include="net\general\net_installation.cpp">
+      <Filter>net\general</Filter>
+    </ClCompile>
+    <ClCompile Include="net\general\net_keys.cpp">
+      <Filter>net\general</Filter>
+    </ClCompile>
+    <ClCompile Include="net\general\net_message.cpp">
+      <Filter>net\general</Filter>
+    </ClCompile>
+    <ClCompile Include="net\general\net_order.cpp">
+      <Filter>net\general</Filter>
+    </ClCompile>
+    <ClCompile Include="net\general\net_player.cpp">
+      <Filter>net\general</Filter>
+    </ClCompile>
+    <ClCompile Include="net\general\net_pollution.cpp">
+      <Filter>net\general</Filter>
+    </ClCompile>
+    <ClCompile Include="net\general\net_rand.cpp">
+      <Filter>net\general</Filter>
+    </ClCompile>
+    <ClCompile Include="net\general\net_ready.cpp">
+      <Filter>net\general</Filter>
+    </ClCompile>
+    <ClCompile Include="net\general\net_report.cpp">
+      <Filter>net\general</Filter>
+    </ClCompile>
+    <ClCompile Include="net\general\net_research.cpp">
+      <Filter>net\general</Filter>
+    </ClCompile>
+    <ClCompile Include="net\general\net_strengths.cpp">
+      <Filter>net\general</Filter>
+    </ClCompile>
+    <ClCompile Include="net\general\net_terrain.cpp">
+      <Filter>net\general</Filter>
+    </ClCompile>
+    <ClCompile Include="net\general\net_tradeoffer.cpp">
+      <Filter>net\general</Filter>
+    </ClCompile>
+    <ClCompile Include="net\general\net_traderoute.cpp">
+      <Filter>net\general</Filter>
+    </ClCompile>
+    <ClCompile Include="net\general\net_unit.cpp">
+      <Filter>net\general</Filter>
+    </ClCompile>
+    <ClCompile Include="net\general\net_vision.cpp">
+      <Filter>net\general</Filter>
+    </ClCompile>
+    <ClCompile Include="net\general\net_wonder.cpp">
+      <Filter>net\general</Filter>
+    </ClCompile>
+    <ClCompile Include="net\general\net_world.cpp">
+      <Filter>net\general</Filter>
+    </ClCompile>
+    <ClCompile Include="net\general\network.cpp">
+      <Filter>net\general</Filter>
+    </ClCompile>
+    <ClCompile Include="net\general\networkevent.cpp">
+      <Filter>net\general</Filter>
+    </ClCompile>
+    <ClCompile Include="mapgen\Crater.cpp">
+      <Filter>mapgen</Filter>
+    </ClCompile>
+    <ClCompile Include="mapgen\FaultGen.cpp">
+      <Filter>mapgen</Filter>
+    </ClCompile>
+    <ClCompile Include="mapgen\Geometric.cpp">
+      <Filter>mapgen</Filter>
+    </ClCompile>
+    <ClCompile Include="mapgen\PlasmaGen1.cpp">
+      <Filter>mapgen</Filter>
+    </ClCompile>
+    <ClCompile Include="mapgen\PlasmaGen2.cpp">
+      <Filter>mapgen</Filter>
+    </ClCompile>
+    <ClCompile Include="libs\freetype-1.3.1\test\arabic.c">
+      <Filter>libs\freetype-1.3.1\test</Filter>
+    </ClCompile>
+    <ClCompile Include="libs\freetype-1.3.1\test\blitter.c">
+      <Filter>libs\freetype-1.3.1\test</Filter>
+    </ClCompile>
+    <ClCompile Include="libs\freetype-1.3.1\test\common.c">
+      <Filter>libs\freetype-1.3.1\test</Filter>
+    </ClCompile>
+    <ClCompile Include="libs\freetype-1.3.1\test\display.c">
+      <Filter>libs\freetype-1.3.1\test</Filter>
+    </ClCompile>
+    <ClCompile Include="libs\freetype-1.3.1\test\fdebug.c">
+      <Filter>libs\freetype-1.3.1\test</Filter>
+    </ClCompile>
+    <ClCompile Include="libs\freetype-1.3.1\test\ftdump.c">
+      <Filter>libs\freetype-1.3.1\test</Filter>
+    </ClCompile>
+    <ClCompile Include="libs\freetype-1.3.1\test\fterror.c">
+      <Filter>libs\freetype-1.3.1\test</Filter>
+    </ClCompile>
+    <ClCompile Include="libs\freetype-1.3.1\test\ftlint.c">
+      <Filter>libs\freetype-1.3.1\test</Filter>
+    </ClCompile>
+    <ClCompile Include="libs\freetype-1.3.1\test\ftmetric.c">
+      <Filter>libs\freetype-1.3.1\test</Filter>
+    </ClCompile>
+    <ClCompile Include="libs\freetype-1.3.1\test\ftsbit.c">
+      <Filter>libs\freetype-1.3.1\test</Filter>
+    </ClCompile>
+    <ClCompile Include="libs\freetype-1.3.1\test\ftstring.c">
+      <Filter>libs\freetype-1.3.1\test</Filter>
+    </ClCompile>
+    <ClCompile Include="libs\freetype-1.3.1\test\ftstrpnm.c">
+      <Filter>libs\freetype-1.3.1\test</Filter>
+    </ClCompile>
+    <ClCompile Include="libs\freetype-1.3.1\test\ftstrtto.c">
+      <Filter>libs\freetype-1.3.1\test</Filter>
+    </ClCompile>
+    <ClCompile Include="libs\freetype-1.3.1\test\fttimer.c">
+      <Filter>libs\freetype-1.3.1\test</Filter>
+    </ClCompile>
+    <ClCompile Include="libs\freetype-1.3.1\test\ftview.c">
+      <Filter>libs\freetype-1.3.1\test</Filter>
+    </ClCompile>
+    <ClCompile Include="libs\freetype-1.3.1\test\ftzoom.c">
+      <Filter>libs\freetype-1.3.1\test</Filter>
+    </ClCompile>
+    <ClCompile Include="libs\freetype-1.3.1\test\gmain.c">
+      <Filter>libs\freetype-1.3.1\test</Filter>
+    </ClCompile>
+    <ClCompile Include="libs\freetype-1.3.1\test\arch\win16\gw_win16.c">
+      <Filter>libs\freetype-1.3.1\test\arch\win16</Filter>
+    </ClCompile>
+    <ClCompile Include="libs\freetype-1.3.1\test\arch\win32\gw_win32.c">
+      <Filter>libs\freetype-1.3.1\test\arch\win32</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="ui">
@@ -2492,6 +2930,72 @@
     <Filter Include="os\nowin32">
       <UniqueIdentifier>{6cc60201-42b6-47b5-98b2-bf9484b7558c}</UniqueIdentifier>
     </Filter>
+    <Filter Include="os\include">
+      <UniqueIdentifier>{af33b2e2-6ff2-4d6b-8a85-3deed0e0279a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="os\autoconf">
+      <UniqueIdentifier>{4fdcb080-8ae1-4dfe-8ea0-96be72b87525}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="net">
+      <UniqueIdentifier>{2b204164-7af4-4e95-9cda-452285a7bf70}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="net\io">
+      <UniqueIdentifier>{dc16d11b-52c1-4d87-8d7b-21a83230902f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="net\general">
+      <UniqueIdentifier>{bc520b79-b551-452b-bcf6-6f1db505f3d2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="mapgen">
+      <UniqueIdentifier>{6fc4317a-62fb-4905-8aa2-e0e5995e8495}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libs">
+      <UniqueIdentifier>{a6c33f10-9651-4daa-9e71-720857b2b520}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libs\zlib">
+      <UniqueIdentifier>{25f24aa9-4476-466e-9094-ea8c8b793e04}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libs\tiff">
+      <UniqueIdentifier>{4d517a7c-4ed0-441a-a370-74154ea745ed}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libs\miles">
+      <UniqueIdentifier>{6af1d94a-61b0-4744-b082-1bc7a6a80ed1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libs\freetype-1.3.1">
+      <UniqueIdentifier>{4007b39e-1d45-4263-9dc5-d172d18729e0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libs\anet">
+      <UniqueIdentifier>{73ba7902-9637-4dd4-bb4f-7bac0dcce48a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libs\freetype-1.3.1\test">
+      <UniqueIdentifier>{889c2873-ad91-41d4-ac96-d22da94e6ef1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libs\freetype-1.3.1\po">
+      <UniqueIdentifier>{40a4701d-6ab7-4840-8ed5-8388f12f3fc3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libs\freetype-1.3.1\pascal">
+      <UniqueIdentifier>{fabfc577-6d83-4b85-9d9b-fc5bf6fb4e79}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libs\freetype-1.3.1\lib">
+      <UniqueIdentifier>{3f7ac2aa-67dc-462b-8d62-1bcaf2b9ff7f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libs\freetype-1.3.1\howto">
+      <UniqueIdentifier>{eca07e2a-e586-4697-b32a-d992f6fd3bfa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libs\freetype-1.3.1\docs">
+      <UniqueIdentifier>{93a73210-696f-46a3-8c8d-fa21daeeab3a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libs\freetype-1.3.1\contrib">
+      <UniqueIdentifier>{90502a21-7e34-4f76-b36d-a749929d34a7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libs\freetype-1.3.1\test\arch">
+      <UniqueIdentifier>{4cf5a0b7-6715-4b01-bc1e-d7b76ff66192}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libs\freetype-1.3.1\test\arch\win16">
+      <UniqueIdentifier>{a46b1cb8-fc3f-4771-90e7-7b07e77e4cfd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libs\freetype-1.3.1\test\arch\win32">
+      <UniqueIdentifier>{ab965e2f-b0de-4ded-b25c-50260563d442}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <None Include="ui\freetype\announce">
@@ -2512,6 +3016,168 @@
     <None Include="ui\ldl\ldl.y">
       <Filter>ui\ldl</Filter>
     </None>
+    <None Include="os\autoconf\ax_cxx_compile_stdcxx.m4">
+      <Filter>os\autoconf</Filter>
+    </None>
+    <None Include="os\autoconf\ax_cxx_compile_stdcxx_11.m4">
+      <Filter>os\autoconf</Filter>
+    </None>
+    <None Include="os\autoconf\ax_subdirs_configure.m4">
+      <Filter>os\autoconf</Filter>
+    </None>
+    <None Include="os\autoconf\Makefile.common">
+      <Filter>os\autoconf</Filter>
+    </None>
+    <None Include="os\autoconf\os_defs.m4">
+      <Filter>os\autoconf</Filter>
+    </None>
+    <None Include="os\autoconf\pathnames.m4">
+      <Filter>os\autoconf</Filter>
+    </None>
+    <None Include="os\autoconf\sdl.m4">
+      <Filter>os\autoconf</Filter>
+    </None>
+    <None Include="os\autoconf\sdl_ffmpeg.m4">
+      <Filter>os\autoconf</Filter>
+    </None>
+    <None Include="os\autoconf\win32_directx.m4">
+      <Filter>os\autoconf</Filter>
+    </None>
+    <None Include="os\autoconf\win32_dxmedia.m4">
+      <Filter>os\autoconf</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\.cvsignore">
+      <Filter>libs\freetype-1.3.1</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\aclocal.m4">
+      <Filter>libs\freetype-1.3.1</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\announce">
+      <Filter>libs\freetype-1.3.1</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\config.guess">
+      <Filter>libs\freetype-1.3.1</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\config.sub">
+      <Filter>libs\freetype-1.3.1</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\configure">
+      <Filter>libs\freetype-1.3.1</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\configure.in">
+      <Filter>libs\freetype-1.3.1</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\FILES">
+      <Filter>libs\freetype-1.3.1</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\freetype.spec">
+      <Filter>libs\freetype-1.3.1</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\ft_conf.h.in">
+      <Filter>libs\freetype-1.3.1</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\INSTALL">
+      <Filter>libs\freetype-1.3.1</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\install-sh">
+      <Filter>libs\freetype-1.3.1</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\ltconfig">
+      <Filter>libs\freetype-1.3.1</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\ltmain.sh">
+      <Filter>libs\freetype-1.3.1</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\Makefile.in">
+      <Filter>libs\freetype-1.3.1</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\MakeSub.in">
+      <Filter>libs\freetype-1.3.1</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\mkinstalldirs">
+      <Filter>libs\freetype-1.3.1</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\net.m4">
+      <Filter>libs\freetype-1.3.1</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\PATENTS">
+      <Filter>libs\freetype-1.3.1</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\README">
+      <Filter>libs\freetype-1.3.1</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\readme.1st">
+      <Filter>libs\freetype-1.3.1</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\test\.cvsignore">
+      <Filter>libs\freetype-1.3.1\test</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\test\README">
+      <Filter>libs\freetype-1.3.1\test</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\test\arch\win16\depend.win">
+      <Filter>libs\freetype-1.3.1\test\arch\win16</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\test\arch\win16\makedep">
+      <Filter>libs\freetype-1.3.1\test\arch\win16</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\test\arch\win16\Makefile.BC">
+      <Filter>libs\freetype-1.3.1\test\arch\win16</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\test\arch\win16\Makefile.MS">
+      <Filter>libs\freetype-1.3.1\test\arch\win16</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\test\arch\win16\Makefile.VC">
+      <Filter>libs\freetype-1.3.1\test\arch\win16</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\test\arch\win32\depend.win">
+      <Filter>libs\freetype-1.3.1\test\arch\win32</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\test\arch\win32\makedep">
+      <Filter>libs\freetype-1.3.1\test\arch\win32</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\test\arch\win32\Makefile.BC">
+      <Filter>libs\freetype-1.3.1\test\arch\win32</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\test\arch\win32\Makefile.CL">
+      <Filter>libs\freetype-1.3.1\test\arch\win32</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\test\arch\win32\Makefile.gcc">
+      <Filter>libs\freetype-1.3.1\test\arch\win32</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\test\arch\win32\Makefile.Min">
+      <Filter>libs\freetype-1.3.1\test\arch\win32</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\po\.cvsignore">
+      <Filter>libs\freetype-1.3.1\po</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\po\cs.po">
+      <Filter>libs\freetype-1.3.1\po</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\po\de.po">
+      <Filter>libs\freetype-1.3.1\po</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\po\es.po">
+      <Filter>libs\freetype-1.3.1\po</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\po\fr.po">
+      <Filter>libs\freetype-1.3.1\po</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\po\freetype.pot">
+      <Filter>libs\freetype-1.3.1\po</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\po\Makefile.in">
+      <Filter>libs\freetype-1.3.1\po</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\po\Makefile.in.in">
+      <Filter>libs\freetype-1.3.1\po</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\po\nl.po">
+      <Filter>libs\freetype-1.3.1\po</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\po\POTFILES.in">
+      <Filter>libs\freetype-1.3.1\po</Filter>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <Library Include="ui\freetype\freetype.lib">
@@ -2520,10 +3186,22 @@
     <Library Include="ui\netshell\netf.lib">
       <Filter>ui\netshell</Filter>
     </Library>
+    <Library Include="libs\zlib\zlib.lib">
+      <Filter>libs\zlib</Filter>
+    </Library>
+    <Library Include="libs\tiff\libtiff.lib">
+      <Filter>libs\tiff</Filter>
+    </Library>
+    <Library Include="libs\miles\mss32.lib">
+      <Filter>libs\miles</Filter>
+    </Library>
   </ItemGroup>
   <ItemGroup>
     <Text Include="ui\freetype\license.txt">
       <Filter>ui\freetype</Filter>
+    </Text>
+    <Text Include="libs\freetype-1.3.1\license.txt">
+      <Filter>libs\freetype-1.3.1</Filter>
     </Text>
   </ItemGroup>
 </Project>
