@@ -11,4 +11,4 @@
 
 **Buy me a coffe https://www.buymeacoffee.com/aorlovsky**
 
-**Continue further -> https://github.com/orlovskyjavaprofi/civctp2/blob/master/README.md**
+**Continue further -> https://github.com/orlovskyjavaprofi/civctp2**
