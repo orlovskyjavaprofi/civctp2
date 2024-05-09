@@ -40,9 +40,6 @@ https://github.com/orlovskyjavaprofi/civctp2/blob/master/how_to_get_content_orig
 ## Windows build
 https://github.com/orlovskyjavaprofi/civctp2/blob/master/readmeWindows.md
 
-## Linux build 
-https://github.com/orlovskyjavaprofi/civctp2/blob/master/readmeLinux.md
-
 ## Installation steps 
 https://github.com/orlovskyjavaprofi/civctp2/blob/master/install.md
 
