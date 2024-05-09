@@ -64,9 +64,9 @@ First we need to make sure, **that game runs stable**, if you really think about
 ## Game manual
 Read about structure of docu https://github.com/orlovskyjavaprofi/civctp2/blob/master/doc/README.txt , **you need skils in tex in order to compile it into pdf.** 
 
-### Upstream news: converting old Linux save-games to new unified format
+### Upstream news: visit the github site of the original source of the game Call to power Apolyton version
 
-[Original game UPSTREAM](https://github.com/civctp2/) 
+**[Original game UPSTREAM](https://github.com/civctp2/)**
 
 #### CivCTP2 historical references
 - Git SVN import of http://ctp2.darkdust.net/anonsvn/
