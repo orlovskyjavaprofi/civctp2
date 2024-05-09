@@ -36,7 +36,9 @@ This is **a fork** , which maintained by **Orlovsky Consulting GbR www.orlovskyc
 
 ## Building the game from sourcecode
 **This version of Call to Power 2 Apolyton, works only on Windows!**
-**You need for this version of Call to Power 2 a **Visual Studio Community edition** up from 2022 and **Microsoft DirectX SDK (June 2010)**  lib **(See section Windows build)**
+**You need following:**
+
+This version of Call to Power 2 must be compiled with **Visual Studio Community edition** up from 2022 and **Microsoft DirectX SDK (June 2010)**  lib **(See section Windows build)**
 
 ## How to get videos and music from original game and copy it to the apolyton version
 https://github.com/orlovskyjavaprofi/civctp2/blob/master/how_to_get_content_original_game.md
@@ -48,14 +50,14 @@ https://github.com/orlovskyjavaprofi/civctp2/blob/master/readmeWindows.md
 https://github.com/orlovskyjavaprofi/civctp2/blob/master/install.md
 
 ## Running
-Simple **use the installer**, or if its all prepackaged you run you game where give executable, **stay tuned for more info!**
-Steam or GOG, well ok then there game would be available for free, but this would be done only **Microsoft\Activision** sign theirs permission for such realease.
+Simple **use the installer**, or if its all already prepackaged you run you game where  executable exists, **stay tuned for more info!**
+Steam or GOG, well ok then, there game would **be available for free**, but this would be done only if **Microsoft\Activision** sign theirs permission for such realease, we dont violate theirs copyright rights, especially when the original game is sold on the GOG and Steam platform, but i hope they realize , that ***there even more possibilites!**
 
 ## Bugs reporting
-As it has been said here, my company Orlovsky Consulting GbR does the maintaince of this project fork, but if you at some point **try original apolyton version** and find bugs , **well you should consider to contact them first : https://github.com/civctp2/civctp2/issues**
+As it has been said here, my company Orlovsky Consulting GbR does only the maintaince of this project fork, but if you at some point **try original apolyton version** and find bugs , **well you should then contact them first : https://github.com/civctp2/civctp2/issues** . At the momene our codebase different  we at Orlovsky Consulting GbR concentrate for doing **windows only version**, and other original devs they do mostly Linux, **which is not bad**, but different from our goals.
 
 ## Feature request
-First we need to make sure, **that game runs stable**, if you really think about feature, well you can file a github issue , **but dont expect that we implement it** , the game is old and we only interested in maintaining of it.
+First we need to make sure, **that game runs stable**, if you really think about new features, well you can file a github issue , **but dont expect that we implement it** , **the game is old** and we only interested in **maintaining of it, so it can be played on newer windows**.
 
 **We try to stay in sync with the upstream**, but if we decide to do something differently and on our side the quality improve and well if you find bugs in our version of the game then you can report it via our **issues:** **https://github.com/orlovskyjavaprofi/civctp2/issues**
 
@@ -63,12 +65,8 @@ First we need to make sure, **that game runs stable**, if you really think about
 Read about structure of docu https://github.com/orlovskyjavaprofi/civctp2/blob/master/doc/README.txt , **you need skils in tex in order to compile it into pdf.** 
 
 ### Upstream news: converting old Linux save-games to new unified format
-The old format of Linux save-games was not compatible with that of windows save-games. 
 
-The format is now unified such that each OS can open save-games from the other. 
-However, due to this, old Linux save-games need to be converted to the new format if you want to continue with those under the new ctp2 version (after [22dd1804804](https://github.com/civctp2/civctp2/commit/22dd180480445561bbbcd3efc60f08d2fe5c53e5)). 
-
-A [game-converter-version](https://github.com/civctp2/civctp2/releases/tag/GameConverter) was created for this purpose (see, [#77](https://github.com/civctp2/civctp2/pull/77)), which can load the old format but saves games to the new format.
+[Original game UPSTREAM](https://github.com/civctp2/) 
 
 #### CivCTP2 historical references
 - Git SVN import of http://ctp2.darkdust.net/anonsvn/
