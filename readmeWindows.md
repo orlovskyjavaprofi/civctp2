@@ -30,34 +30,26 @@ shell> for i in `ls /media/cdrom/Setup/data/Max/ctp2_data/default/videos/`; do m
 This will also copy the videos to that directory.
 
 **NOTICE FOR DEVELOPERS**
-Your start from here **civctp2\ctp2_code\ctp** , there you will find **civctp.sln** , open in your Visual Studio and hopefully everything would work as expected.
 
-CTP2 was originally built on Windows with Visual Studio 6. Today, the code compiles on Visual Studio 2017 and 2019 and probably also later. The code has not been compiled on Windows with any other compiler than the Visual Studio compiler. Beside a version of Visual Studio you need:
+CTP2 was originally built on Windows with Visual Studio 6. 
+
+Today, the **code compiles on  2022** and probably also later. 
+The code has not been compiled on Windows with any other compiler than the Visual Studio compiler. Beside a version of Visual Studio you need:
 
 ## IF you need h and cpp files generated use meson!
 **pip install meson its php command after that , you should be able to get all those special h files!**
+**Then inside upstream version do meson.exe setup build**
 
-## Very important setup for Visual Studio:
-**1. Set civctp2 as startup project**
-
-2. Add  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include in Additional Include Directories
+## DirectX very important setup for Visual Studio:
+1. Add  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include in Additional Include Directories
 of the ctp2 project!
 
-This step must be done for all running profiles!
-
-4. Download the package from here https://www.microsoft.com/en-us/download/details.aspx?id=6812
+2. Download the package from here https://www.microsoft.com/en-us/download/details.aspx?id=6812
 this must be add in include for the ctp2 project: C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include
 
-## DirectX
-    The Windows SDK installed on your computer for DirectX support
-    An environment variable named CDKDIR on your computer. In Windows XP/2000, go to Control Panel->System->Environment Variables, and add it, with it's value set to [your source path]/ctp2/bin, the directory with bison, flex, and other tools in it. On Windows 10 it is Control Panel->System->Advanced System Settings->Environment Variables or PC Settings->Info->Advanced System Settings->Environment Variables or press Windows+Pause ->Advanced System Settings->Environment Variables
-    A tmp directory in the root directory of the hard drive where the code is. If your source code working copy is on drive C: then create C:\tmp. If you have the code on another drive such as E: than it is E:\tmp.
+## Historic reference about the original project state
 
-## Historic reference about the original project
-
-I am not sure where you are now in this list. And keep in mind I don't follow these instructions too often, ether.
-
-    Make sure you add the Include and Lib and BaseClasses directories from this SDK to Tools->Options->Directories from Visual Studio, if they are not there already. If you installed them to default locations, that means you need to add e.g. for DirectX 9.0:
+ Make sure you add the Include and Lib and BaseClasses directories from this SDK to Tools->Options->Directories from Visual Studio, if they are not there already. If you installed them to default locations, that means you need to add e.g. for DirectX 9.0:
 
     C:\DXSDK\Include
     C:\DXSDK\Samples\C++\DirectShow\BaseClasses
@@ -102,6 +94,5 @@ And also this.
 I assume you have done this. Bit unrelated, what is DevStudio.
 
 Well, for the rest VS2019 may still refuse to compile something, usually when I upgraded from one version to another there was always some stuff that did not compile, but that can also be fixed. I only used VS2017, even so I have VS2019 installed.
-
 
 Continue with installation -> https://github.com/orlovskyjavaprofi/civctp2/blob/master/README.md
