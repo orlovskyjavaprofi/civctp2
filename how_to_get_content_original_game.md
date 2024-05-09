@@ -24,4 +24,4 @@ If you have the GoG version, use innoextract to extract all the required files (
 The folder ctp2_program is a stripped down version of ctp2_code without the source code and is the version that was shipped with the game. It is not needed for compiling and running the game. If it is an from a previous installation and you have some save games you want to use in your working copy then copy the folder /ctp2_program/ctp/save/ and all its content to /ctp2_code/ctp/save/.
 
 ## Back to main page
-https://github.com/orlovskyjavaprofi/civctp2/
+https://github.com/orlovskyjavaprofi/civctp2
