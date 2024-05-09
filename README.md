@@ -44,8 +44,7 @@ https://github.com/orlovskyjavaprofi/civctp2/blob/master/readmeWindows.md
 https://github.com/orlovskyjavaprofi/civctp2/blob/master/install.md
 
 ## Running
-When everything is setup, simply go to the program folder, for example with `cd ~/ctp2/ctp2_program/ctp` and launch the game with `./ctp2`. 
-There are a few command line option like `-fullscreen` that can be useful.
+Simple use the installer, or if its all prepackaged you run you game where give executable, **stay tuned for more info!**
 
 ## Bugs reporting
 As it has been said here, my company Orlovsky Consulting GbR does the maintaince of this project fork, but if you at some point **try original apolyton version** and find bugs , **well you should consider to contact them first : https://github.com/civctp2/civctp2/issues**
