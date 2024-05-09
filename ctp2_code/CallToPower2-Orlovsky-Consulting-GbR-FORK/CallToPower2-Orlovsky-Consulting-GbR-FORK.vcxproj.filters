@@ -1480,6 +1480,1296 @@
     <ClInclude Include="libs\freetype-1.3.1\test\gmain.h">
       <Filter>libs\freetype-1.3.1\test</Filter>
     </ClInclude>
+    <ClInclude Include="libs\freetype-1.3.1\lib\freetype.h">
+      <Filter>libs\freetype-1.3.1\lib</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\freetype-1.3.1\lib\fterrid.h">
+      <Filter>libs\freetype-1.3.1\lib</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\freetype-1.3.1\lib\ftnameid.h">
+      <Filter>libs\freetype-1.3.1\lib</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\freetype-1.3.1\lib\header.h">
+      <Filter>libs\freetype-1.3.1\lib</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\freetype-1.3.1\lib\ttcache.h">
+      <Filter>libs\freetype-1.3.1\lib</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\freetype-1.3.1\lib\ttcalc.h">
+      <Filter>libs\freetype-1.3.1\lib</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\freetype-1.3.1\lib\ttcmap.h">
+      <Filter>libs\freetype-1.3.1\lib</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\freetype-1.3.1\lib\ttconfig.h">
+      <Filter>libs\freetype-1.3.1\lib</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\freetype-1.3.1\lib\ttdebug.h">
+      <Filter>libs\freetype-1.3.1\lib</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\freetype-1.3.1\lib\ttengine.h">
+      <Filter>libs\freetype-1.3.1\lib</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\freetype-1.3.1\lib\ttextend.h">
+      <Filter>libs\freetype-1.3.1\lib</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\freetype-1.3.1\lib\ttfile.h">
+      <Filter>libs\freetype-1.3.1\lib</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\freetype-1.3.1\lib\ttgload.h">
+      <Filter>libs\freetype-1.3.1\lib</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\freetype-1.3.1\lib\ttinterp.h">
+      <Filter>libs\freetype-1.3.1\lib</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\freetype-1.3.1\lib\ttload.h">
+      <Filter>libs\freetype-1.3.1\lib</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\freetype-1.3.1\lib\ttmemory.h">
+      <Filter>libs\freetype-1.3.1\lib</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\freetype-1.3.1\lib\ttmutex.h">
+      <Filter>libs\freetype-1.3.1\lib</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\freetype-1.3.1\lib\ttobjs.h">
+      <Filter>libs\freetype-1.3.1\lib</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\freetype-1.3.1\lib\ttraster.h">
+      <Filter>libs\freetype-1.3.1\lib</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\freetype-1.3.1\lib\tttables.h">
+      <Filter>libs\freetype-1.3.1\lib</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\freetype-1.3.1\lib\tttags.h">
+      <Filter>libs\freetype-1.3.1\lib</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\freetype-1.3.1\lib\tttypes.h">
+      <Filter>libs\freetype-1.3.1\lib</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\freetype-1.3.1\lib\extend\ftxcmap.h">
+      <Filter>libs\freetype-1.3.1\lib\extend</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\freetype-1.3.1\lib\extend\ftxerr18.h">
+      <Filter>libs\freetype-1.3.1\lib\extend</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\freetype-1.3.1\lib\extend\ftxgasp.h">
+      <Filter>libs\freetype-1.3.1\lib\extend</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\freetype-1.3.1\lib\extend\ftxgdef.h">
+      <Filter>libs\freetype-1.3.1\lib\extend</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\freetype-1.3.1\lib\extend\ftxgpos.h">
+      <Filter>libs\freetype-1.3.1\lib\extend</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\freetype-1.3.1\lib\extend\ftxgsub.h">
+      <Filter>libs\freetype-1.3.1\lib\extend</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\freetype-1.3.1\lib\extend\ftxkern.h">
+      <Filter>libs\freetype-1.3.1\lib\extend</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\freetype-1.3.1\lib\extend\ftxopen.h">
+      <Filter>libs\freetype-1.3.1\lib\extend</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\freetype-1.3.1\lib\extend\ftxopenf.h">
+      <Filter>libs\freetype-1.3.1\lib\extend</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\freetype-1.3.1\lib\extend\ftxpost.h">
+      <Filter>libs\freetype-1.3.1\lib\extend</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\freetype-1.3.1\lib\extend\ftxsbit.h">
+      <Filter>libs\freetype-1.3.1\lib\extend</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\freetype-1.3.1\lib\extend\ftxwidth.h">
+      <Filter>libs\freetype-1.3.1\lib\extend</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\freetype-1.3.1\lib\arch\win16\ft_conf.h">
+      <Filter>libs\freetype-1.3.1\lib\arch\win16</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\freetype-1.3.1\lib\arch\win32\ft_conf.h">
+      <Filter>libs\freetype-1.3.1\lib\arch\win32</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\freetype-1.3.1\contrib\win32\resource.h">
+      <Filter>libs\freetype-1.3.1\contrib\win32</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\freetype-1.3.1\contrib\win32\stdafx.h">
+      <Filter>libs\freetype-1.3.1\contrib\win32</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\freetype-1.3.1\contrib\win32\testw32.h">
+      <Filter>libs\freetype-1.3.1\contrib\win32</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\freetype-1.3.1\contrib\win32\testw32dlg.h">
+      <Filter>libs\freetype-1.3.1\contrib\win32</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\freetype-1.3.1\contrib\ttfbanner\ttfbanner.h">
+      <Filter>libs\freetype-1.3.1\contrib\ttfbanner</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\freetype-1.3.1\contrib\ttf2pk\case.h">
+      <Filter>libs\freetype-1.3.1\contrib\ttf2pk</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\freetype-1.3.1\contrib\ttf2pk\c-auto.h">
+      <Filter>libs\freetype-1.3.1\contrib\ttf2pk</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\freetype-1.3.1\contrib\ttf2pk\emdir.h">
+      <Filter>libs\freetype-1.3.1\contrib\ttf2pk</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\freetype-1.3.1\contrib\ttf2pk\emtexdir.h">
+      <Filter>libs\freetype-1.3.1\contrib\ttf2pk</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\freetype-1.3.1\contrib\ttf2pk\errormsg.h">
+      <Filter>libs\freetype-1.3.1\contrib\ttf2pk</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\freetype-1.3.1\contrib\ttf2pk\filesrch.h">
+      <Filter>libs\freetype-1.3.1\contrib\ttf2pk</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\freetype-1.3.1\contrib\ttf2pk\ligkern.h">
+      <Filter>libs\freetype-1.3.1\contrib\ttf2pk</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\freetype-1.3.1\contrib\ttf2pk\newobj.h">
+      <Filter>libs\freetype-1.3.1\contrib\ttf2pk</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\freetype-1.3.1\contrib\ttf2pk\parse.h">
+      <Filter>libs\freetype-1.3.1\contrib\ttf2pk</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\freetype-1.3.1\contrib\ttf2pk\pklib.h">
+      <Filter>libs\freetype-1.3.1\contrib\ttf2pk</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\freetype-1.3.1\contrib\ttf2pk\subfont.h">
+      <Filter>libs\freetype-1.3.1\contrib\ttf2pk</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\freetype-1.3.1\contrib\ttf2pk\texenc.h">
+      <Filter>libs\freetype-1.3.1\contrib\ttf2pk</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\freetype-1.3.1\contrib\ttf2pk\tfmaux.h">
+      <Filter>libs\freetype-1.3.1\contrib\ttf2pk</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\freetype-1.3.1\contrib\ttf2pk\ttf2tfm.h">
+      <Filter>libs\freetype-1.3.1\contrib\ttf2pk</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\freetype-1.3.1\contrib\ttf2pk\ttfaux.h">
+      <Filter>libs\freetype-1.3.1\contrib\ttf2pk</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\freetype-1.3.1\contrib\ttf2pk\ttfenc.h">
+      <Filter>libs\freetype-1.3.1\contrib\ttf2pk</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\freetype-1.3.1\contrib\ttf2pk\ttflib.h">
+      <Filter>libs\freetype-1.3.1\contrib\ttf2pk</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\freetype-1.3.1\contrib\ttf2pk\vplaux.h">
+      <Filter>libs\freetype-1.3.1\contrib\ttf2pk</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\freetype-1.3.1\contrib\ttf2bdf\remap.h">
+      <Filter>libs\freetype-1.3.1\contrib\ttf2bdf</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\freetype-1.3.1\contrib\ftos2\ifi\ftifi.h">
+      <Filter>libs\freetype-1.3.1\contrib\ftos2\ifi</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\freetype-1.3.1\contrib\ftos2\ifi\32pmifi.h">
+      <Filter>libs\freetype-1.3.1\contrib\ftos2\ifi</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\freetype-1.3.1\contrib\ftos2\ifi\32ifimet.h">
+      <Filter>libs\freetype-1.3.1\contrib\ftos2\ifi</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\freetype-1.3.1\contrib\ftos2\ifi\32fdstrc.h">
+      <Filter>libs\freetype-1.3.1\contrib\ftos2\ifi</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\freetype-1.3.1\contrib\ftos2\ifi\32fddef.h">
+      <Filter>libs\freetype-1.3.1\contrib\ftos2\ifi</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\anet\h\anet.h">
+      <Filter>libs\anet\h</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\anet\h\aneterr.h">
+      <Filter>libs\anet\h</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\anet\h\assoctab.h">
+      <Filter>libs\anet\h</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\anet\h\commapi.h">
+      <Filter>libs\anet\h</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\anet\h\commerr.h">
+      <Filter>libs\anet\h</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\anet\h\contract.h">
+      <Filter>libs\anet\h</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\anet\h\delay.h">
+      <Filter>libs\anet\h</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\anet\h\dictset.h">
+      <Filter>libs\anet\h</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\anet\h\dp.h">
+      <Filter>libs\anet\h</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\anet\h\dp2.h">
+      <Filter>libs\anet\h</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\anet\h\dpcompat.h">
+      <Filter>libs\anet\h</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\anet\h\dpdll.h">
+      <Filter>libs\anet\h</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\anet\h\dpexcept.h">
+      <Filter>libs\anet\h</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\anet\h\dpio.h">
+      <Filter>libs\anet\h</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\anet\h\dplang.h">
+      <Filter>libs\anet\h</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\anet\h\dpmem.h">
+      <Filter>libs\anet\h</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\anet\h\dppack1.h">
+      <Filter>libs\anet\h</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\anet\h\dppackn.h">
+      <Filter>libs\anet\h</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\anet\h\dppkt.h">
+      <Filter>libs\anet\h</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\anet\h\dppv.h">
+      <Filter>libs\anet\h</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\anet\h\dprint.h">
+      <Filter>libs\anet\h</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\anet\h\dptab.h">
+      <Filter>libs\anet\h</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\anet\h\dpturn.h">
+      <Filter>libs\anet\h</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\anet\h\dpunpack.h">
+      <Filter>libs\anet\h</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\anet\h\dynatab.h">
+      <Filter>libs\anet\h</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\anet\h\eclock.h">
+      <Filter>libs\anet\h</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\anet\h\enumapps.h">
+      <Filter>libs\anet\h</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\anet\h\enumserv.h">
+      <Filter>libs\anet\h</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\anet\h\hkeytab.h">
+      <Filter>libs\anet\h</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\anet\h\ini.h">
+      <Filter>libs\anet\h</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\anet\h\launchparams.h">
+      <Filter>libs\anet\h</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\anet\h\portable.h">
+      <Filter>libs\anet\h</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\anet\h\q.h">
+      <Filter>libs\anet\h</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\anet\h\types.h">
+      <Filter>libs\anet\h</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\database\DB.h">
+      <Filter>gs\database</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\database\dbtypes.h">
+      <Filter>gs\database</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\database\EndGameDB.h">
+      <Filter>gs\database</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\database\EndGameRecord.h">
+      <Filter>gs\database</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\database\EndGameToken.h">
+      <Filter>gs\database</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\database\filenamedb.h">
+      <Filter>gs\database</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\database\highscoredb.h">
+      <Filter>gs\database</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\database\moviedb.h">
+      <Filter>gs\database</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\database\PlayListDB.h">
+      <Filter>gs\database</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\database\profileDB.h">
+      <Filter>gs\database</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\database\Rec.h">
+      <Filter>gs\database</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\database\StrDB.h">
+      <Filter>gs\database</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\database\StrRec.h">
+      <Filter>gs\database</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\database\thronedb.h">
+      <Filter>gs\database</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\database\UVDB.h">
+      <Filter>gs\database</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\database\UVRecord.h">
+      <Filter>gs\database</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\dbgen\ctpdb.h">
+      <Filter>gs\dbgen</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\dbgen\Datum.h">
+      <Filter>gs\dbgen</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\dbgen\MemberClass.h">
+      <Filter>gs\dbgen</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\dbgen\RecordDescription.h">
+      <Filter>gs\dbgen</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\events\GameEvent.h">
+      <Filter>gs\events</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\events\GameEventArgList.h">
+      <Filter>gs\events</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\events\GameEventArgument.h">
+      <Filter>gs\events</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\events\GameEventDescription.h">
+      <Filter>gs\events</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\events\GameEventHook.h">
+      <Filter>gs\events</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\events\GameEventManager.h">
+      <Filter>gs\events</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\events\GameEventTypes.h">
+      <Filter>gs\events</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\events\GameEventUser.h">
+      <Filter>gs\events</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\fileio\CivPaths.h">
+      <Filter>gs\fileio</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\fileio\civscenarios.h">
+      <Filter>gs\fileio</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\fileio\gamefile.h">
+      <Filter>gs\fileio</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\fileio\prjfile.h">
+      <Filter>gs\fileio</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\fileio\StartingPosition.h">
+      <Filter>gs\fileio</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\fileio\Token.h">
+      <Filter>gs\fileio</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\gameobj\AchievementTracker.h">
+      <Filter>gs\gameobj</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\gameobj\Advances.h">
+      <Filter>gs\gameobj</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\gameobj\advanceutil.h">
+      <Filter>gs\gameobj</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\gameobj\Agreement.h">
+      <Filter>gs\gameobj</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\gameobj\AgreementData.h">
+      <Filter>gs\gameobj</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\gameobj\AgreementPool.h">
+      <Filter>gs\gameobj</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\gameobj\AgreementTypes.h">
+      <Filter>gs\gameobj</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\gameobj\Army.h">
+      <Filter>gs\gameobj</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\gameobj\ArmyData.h">
+      <Filter>gs\gameobj</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\gameobj\ArmyEvent.h">
+      <Filter>gs\gameobj</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\gameobj\ArmyPool.h">
+      <Filter>gs\gameobj</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\gameobj\Barbarians.h">
+      <Filter>gs\gameobj</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\gameobj\BldQue.h">
+      <Filter>gs\gameobj</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\gameobj\buildingutil.h">
+      <Filter>gs\gameobj</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\gameobj\citydata.h">
+      <Filter>gs\gameobj</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\gameobj\CityEvent.h">
+      <Filter>gs\gameobj</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\gameobj\CityInfluenceIterator.h">
+      <Filter>gs\gameobj</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\gameobj\CityRadius.h">
+      <Filter>gs\gameobj</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\gameobj\Civilisation.h">
+      <Filter>gs\gameobj</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\gameobj\CivilisationData.h">
+      <Filter>gs\gameobj</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\gameobj\CivilisationPool.h">
+      <Filter>gs\gameobj</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\gameobj\combatevent.h">
+      <Filter>gs\gameobj</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\gameobj\CreateUnit.h">
+      <Filter>gs\gameobj</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\gameobj\CriticalMessagesPrefs.h">
+      <Filter>gs\gameobj</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\gameobj\CTP2Combat.h">
+      <Filter>gs\gameobj</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\gameobj\Diffcly.h">
+      <Filter>gs\gameobj</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\gameobj\Diplomacy_Log.h">
+      <Filter>gs\gameobj</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\gameobj\DiplomacyOffer.h">
+      <Filter>gs\gameobj</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\gameobj\DiplomaticRequest.h">
+      <Filter>gs\gameobj</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\gameobj\DiplomaticRequestData.h">
+      <Filter>gs\gameobj</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\gameobj\DiplomaticRequestPool.h">
+      <Filter>gs\gameobj</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\gameobj\DiplomaticTypes.h">
+      <Filter>gs\gameobj</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\gameobj\EmptyTile.h">
+      <Filter>gs\gameobj</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\gameobj\EndGame.h">
+      <Filter>gs\gameobj</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\gameobj\Events.h">
+      <Filter>gs\gameobj</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\gameobj\EventTracker.h">
+      <Filter>gs\gameobj</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\gameobj\Exclusions.h">
+      <Filter>gs\gameobj</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\gameobj\FeatTracker.h">
+      <Filter>gs\gameobj</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\gameobj\gaiacontroller.h">
+      <Filter>gs\gameobj</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\gameobj\GameObj.h">
+      <Filter>gs\gameobj</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\gameobj\GameObj_types.h">
+      <Filter>gs\gameobj</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\gameobj\GameOver.h">
+      <Filter>gs\gameobj</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\gameobj\GameSettings.h">
+      <Filter>gs\gameobj</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\gameobj\Gold.h">
+      <Filter>gs\gameobj</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\gameobj\GoodyHuts.h">
+      <Filter>gs\gameobj</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\gameobj\GSLogs.h">
+      <Filter>gs\gameobj</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\gameobj\Happy.h">
+      <Filter>gs\gameobj</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\gameobj\HappyTracker.h">
+      <Filter>gs\gameobj</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\gameobj\ID.h">
+      <Filter>gs\gameobj</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\gameobj\improvementevent.h">
+      <Filter>gs\gameobj</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\gameobj\installation.h">
+      <Filter>gs\gameobj</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\gameobj\installationdata.h">
+      <Filter>gs\gameobj</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\gameobj\installationpool.h">
+      <Filter>gs\gameobj</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\gameobj\installationtree.h">
+      <Filter>gs\gameobj</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\gameobj\LineDance.h">
+      <Filter>gs\gameobj</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\gameobj\MaterialPool.h">
+      <Filter>gs\gameobj</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\gameobj\message.h">
+      <Filter>gs\gameobj</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\gameobj\MessageData.h">
+      <Filter>gs\gameobj</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\gameobj\MessagePool.h">
+      <Filter>gs\gameobj</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\gameobj\ObjPool.h">
+      <Filter>gs\gameobj</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\gameobj\Order.h">
+      <Filter>gs\gameobj</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\gameobj\player.h">
+      <Filter>gs\gameobj</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\gameobj\PlayerEvent.h">
+      <Filter>gs\gameobj</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\gameobj\PlayHap.h">
+      <Filter>gs\gameobj</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\gameobj\pollution.h">
+      <Filter>gs\gameobj</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\gameobj\PollutionConst.h">
+      <Filter>gs\gameobj</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\gameobj\Readiness.h">
+      <Filter>gs\gameobj</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\gameobj\Regard.h">
+      <Filter>gs\gameobj</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\gameobj\Resources.h">
+      <Filter>gs\gameobj</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\gameobj\Sci.h">
+      <Filter>gs\gameobj</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\gameobj\Score.h">
+      <Filter>gs\gameobj</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\gameobj\Strengths.h">
+      <Filter>gs\gameobj</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\gameobj\TaxRate.h">
+      <Filter>gs\gameobj</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\gameobj\terrainutil.h">
+      <Filter>gs\gameobj</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\gameobj\TerrImprove.h">
+      <Filter>gs\gameobj</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\gameobj\TerrImproveData.h">
+      <Filter>gs\gameobj</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\gameobj\TerrImprovePool.h">
+      <Filter>gs\gameobj</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\gameobj\TileVal.h">
+      <Filter>gs\gameobj</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\gameobj\TopTen.h">
+      <Filter>gs\gameobj</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\gameobj\TradeBids.h">
+      <Filter>gs\gameobj</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\gameobj\tradeevent.h">
+      <Filter>gs\gameobj</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\gameobj\TradeOffer.h">
+      <Filter>gs\gameobj</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\gameobj\TradeOfferData.h">
+      <Filter>gs\gameobj</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\gameobj\TradeOfferPool.h">
+      <Filter>gs\gameobj</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\gameobj\TradePool.h">
+      <Filter>gs\gameobj</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\gameobj\TradeRoute.h">
+      <Filter>gs\gameobj</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\gameobj\TradeRouteData.h">
+      <Filter>gs\gameobj</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\gameobj\tradeutil.h">
+      <Filter>gs\gameobj</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\gameobj\Unit.h">
+      <Filter>gs\gameobj</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\gameobj\UnitData.h">
+      <Filter>gs\gameobj</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\gameobj\UnitEvent.h">
+      <Filter>gs\gameobj</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\gameobj\UnitPool.h">
+      <Filter>gs\gameobj</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\gameobj\UnitTypes.h">
+      <Filter>gs\gameobj</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\gameobj\unitutil.h">
+      <Filter>gs\gameobj</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\gameobj\UnoccupiedTiles.h">
+      <Filter>gs\gameobj</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\gameobj\Vision.h">
+      <Filter>gs\gameobj</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\gameobj\WonderTracker.h">
+      <Filter>gs\gameobj</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\gameobj\wonderutil.h">
+      <Filter>gs\gameobj</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\gameobj\Wormhole.h">
+      <Filter>gs\gameobj</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\gameobj\XY_Coordinates.h">
+      <Filter>gs\gameobj</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\newdb\BitArray.h">
+      <Filter>gs\newdb</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\newdb\CTPDatabase.h">
+      <Filter>gs\newdb</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\newdb\CTPRecord.h">
+      <Filter>gs\newdb</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\newdb\DBLexer.h">
+      <Filter>gs\newdb</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\newdb\DBTokens.h">
+      <Filter>gs\newdb</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\newdb\UnitRec.h">
+      <Filter>gs\newdb</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\outcom\AICause.h">
+      <Filter>gs\outcom</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\outcom\C3Rand.h">
+      <Filter>gs\outcom</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\outcom\Ic3CivArchive.h">
+      <Filter>gs\outcom</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\outcom\IC3Rand.h">
+      <Filter>gs\outcom</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\slic\QuickSlic.h">
+      <Filter>gs\slic</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\slic\scyaccdefs.h">
+      <Filter>gs\slic</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\slic\SlicArray.h">
+      <Filter>gs\slic</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\slic\SlicBuiltin.h">
+      <Filter>gs\slic</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\slic\SlicBuiltinEnum.h">
+      <Filter>gs\slic</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\slic\SlicButton.h">
+      <Filter>gs\slic</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\slic\sliccmd.h">
+      <Filter>gs\slic</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\slic\SlicConditional.h">
+      <Filter>gs\slic</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\slic\SlicConst.h">
+      <Filter>gs\slic</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\slic\SlicContext.h">
+      <Filter>gs\slic</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\slic\SlicDBConduit.h">
+      <Filter>gs\slic</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\slic\SlicEngine.h">
+      <Filter>gs\slic</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\slic\SlicError.h">
+      <Filter>gs\slic</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\slic\SlicEyePoint.h">
+      <Filter>gs\slic</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\slic\SlicFrame.h">
+      <Filter>gs\slic</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\slic\SlicFunc.h">
+      <Filter>gs\slic</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\slic\slicfuncai.h">
+      <Filter>gs\slic</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\slic\slicif.h">
+      <Filter>gs\slic</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\slic\slicif_sym.h">
+      <Filter>gs\slic</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\slic\SlicModFuncEnum.h">
+      <Filter>gs\slic</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\slic\SlicModFunction.h">
+      <Filter>gs\slic</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\slic\SlicNamedSymbol.h">
+      <Filter>gs\slic</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\slic\SlicObject.h">
+      <Filter>gs\slic</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\slic\SlicRecord.h">
+      <Filter>gs\slic</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\slic\SlicSegment.h">
+      <Filter>gs\slic</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\slic\SlicStack.h">
+      <Filter>gs\slic</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\slic\SlicStruct.h">
+      <Filter>gs\slic</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\slic\SlicSymbol.h">
+      <Filter>gs\slic</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\slic\SlicSymTab.h">
+      <Filter>gs\slic</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\slic\SlicTriggerLists.h">
+      <Filter>gs\slic</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\slic\StringHash.h">
+      <Filter>gs\slic</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\utility\AgreementDynArr.h">
+      <Filter>gs\utility</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\utility\Checksum.h">
+      <Filter>gs\utility</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\utility\CivDynArr.h">
+      <Filter>gs\utility</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\utility\clock.h">
+      <Filter>gs\utility</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\utility\DataCheck.h">
+      <Filter>gs\utility</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\utility\DiplDynArr.h">
+      <Filter>gs\utility</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\utility\directions.h">
+      <Filter>gs\utility</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\utility\ErrMsg.h">
+      <Filter>gs\utility</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\utility\gameinit.h">
+      <Filter>gs\utility</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\utility\Globals.h">
+      <Filter>gs\utility</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\utility\gstypes.h">
+      <Filter>gs\utility</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\utility\japanese.h">
+      <Filter>gs\utility</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\utility\MapFile.h">
+      <Filter>gs\utility</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\utility\MoveFlags.h">
+      <Filter>gs\utility</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\utility\MsgDynArr.h">
+      <Filter>gs\utility</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\utility\newturncount.h">
+      <Filter>gs\utility</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\utility\PQueue.h">
+      <Filter>gs\utility</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\utility\QuadTree.h">
+      <Filter>gs\utility</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\utility\RandGen.h">
+      <Filter>gs\utility</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\utility\SimpleDynArr.h">
+      <Filter>gs\utility</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\utility\stringutils.h">
+      <Filter>gs\utility</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\utility\TradeDynArr.h">
+      <Filter>gs\utility</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\utility\TurnCnt.h">
+      <Filter>gs\utility</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\utility\TurnCntEvent.h">
+      <Filter>gs\utility</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\utility\UnitDynArr.h">
+      <Filter>gs\utility</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\world\Cell.h">
+      <Filter>gs\world</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\world\cellunitlist.h">
+      <Filter>gs\world</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\world\MapPoint.h">
+      <Filter>gs\world</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\world\UnseenCell.h">
+      <Filter>gs\world</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\world\UnseenCellQuadTree.h">
+      <Filter>gs\world</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\world\World.h">
+      <Filter>gs\world</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\world\WorldDistance.h">
+      <Filter>gs\world</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\world\worldevent.h">
+      <Filter>gs\world</Filter>
+    </ClInclude>
+    <ClInclude Include="gs\world\worldutils.h">
+      <Filter>gs\world</Filter>
+    </ClInclude>
+    <ClInclude Include="gfx\gfx_utils\arproces.h">
+      <Filter>gfx\gfx_utils</Filter>
+    </ClInclude>
+    <ClInclude Include="gfx\gfx_utils\colorset.h">
+      <Filter>gfx\gfx_utils</Filter>
+    </ClInclude>
+    <ClInclude Include="gfx\gfx_utils\gfx_options.h">
+      <Filter>gfx\gfx_utils</Filter>
+    </ClInclude>
+    <ClInclude Include="gfx\gfx_utils\pixeltypes.h">
+      <Filter>gfx\gfx_utils</Filter>
+    </ClInclude>
+    <ClInclude Include="gfx\gfx_utils\pixelutils.h">
+      <Filter>gfx\gfx_utils</Filter>
+    </ClInclude>
+    <ClInclude Include="gfx\gfx_utils\Queue.h">
+      <Filter>gfx\gfx_utils</Filter>
+    </ClInclude>
+    <ClInclude Include="gfx\gfx_utils\rimutils.h">
+      <Filter>gfx\gfx_utils</Filter>
+    </ClInclude>
+    <ClInclude Include="gfx\gfx_utils\targautils.h">
+      <Filter>gfx\gfx_utils</Filter>
+    </ClInclude>
+    <ClInclude Include="gfx\gfx_utils\tiffutils.h">
+      <Filter>gfx\gfx_utils</Filter>
+    </ClInclude>
+    <ClInclude Include="gfx\gfx_utils\videoutils.h">
+      <Filter>gfx\gfx_utils</Filter>
+    </ClInclude>
+    <ClInclude Include="gfx\layers\citylayer.h">
+      <Filter>gfx\layers</Filter>
+    </ClInclude>
+    <ClInclude Include="gfx\spritesys\Action.h">
+      <Filter>gfx\spritesys</Filter>
+    </ClInclude>
+    <ClInclude Include="gfx\spritesys\Actor.h">
+      <Filter>gfx\spritesys</Filter>
+    </ClInclude>
+    <ClInclude Include="gfx\spritesys\ActorPath.h">
+      <Filter>gfx\spritesys</Filter>
+    </ClInclude>
+    <ClInclude Include="gfx\spritesys\Anim.h">
+      <Filter>gfx\spritesys</Filter>
+    </ClInclude>
+    <ClInclude Include="gfx\spritesys\battleviewactor.h">
+      <Filter>gfx\spritesys</Filter>
+    </ClInclude>
+    <ClInclude Include="gfx\spritesys\CitySpriteGroup.h">
+      <Filter>gfx\spritesys</Filter>
+    </ClInclude>
+    <ClInclude Include="gfx\spritesys\director.h">
+      <Filter>gfx\spritesys</Filter>
+    </ClInclude>
+    <ClInclude Include="gfx\spritesys\EffectActor.h">
+      <Filter>gfx\spritesys</Filter>
+    </ClInclude>
+    <ClInclude Include="gfx\spritesys\EffectSpriteGroup.h">
+      <Filter>gfx\spritesys</Filter>
+    </ClInclude>
+    <ClInclude Include="gfx\spritesys\FacedSprite.h">
+      <Filter>gfx\spritesys</Filter>
+    </ClInclude>
+    <ClInclude Include="gfx\spritesys\FacedSpriteWshadow.h">
+      <Filter>gfx\spritesys</Filter>
+    </ClInclude>
+    <ClInclude Include="gfx\spritesys\GoodActor.h">
+      <Filter>gfx\spritesys</Filter>
+    </ClInclude>
+    <ClInclude Include="gfx\spritesys\GoodSpriteGroup.h">
+      <Filter>gfx\spritesys</Filter>
+    </ClInclude>
+    <ClInclude Include="gfx\spritesys\screenmanager.h">
+      <Filter>gfx\spritesys</Filter>
+    </ClInclude>
+    <ClInclude Include="gfx\spritesys\Sprite.h">
+      <Filter>gfx\spritesys</Filter>
+    </ClInclude>
+    <ClInclude Include="gfx\spritesys\SpriteFile.h">
+      <Filter>gfx\spritesys</Filter>
+    </ClInclude>
+    <ClInclude Include="gfx\spritesys\SpriteGroup.h">
+      <Filter>gfx\spritesys</Filter>
+    </ClInclude>
+    <ClInclude Include="gfx\spritesys\SpriteGroupList.h">
+      <Filter>gfx\spritesys</Filter>
+    </ClInclude>
+    <ClInclude Include="gfx\spritesys\SpriteList.h">
+      <Filter>gfx\spritesys</Filter>
+    </ClInclude>
+    <ClInclude Include="gfx\spritesys\SpriteState.h">
+      <Filter>gfx\spritesys</Filter>
+    </ClInclude>
+    <ClInclude Include="gfx\spritesys\SpriteStateDB.h">
+      <Filter>gfx\spritesys</Filter>
+    </ClInclude>
+    <ClInclude Include="gfx\spritesys\spriteutils.h">
+      <Filter>gfx\spritesys</Filter>
+    </ClInclude>
+    <ClInclude Include="gfx\spritesys\TradeActor.h">
+      <Filter>gfx\spritesys</Filter>
+    </ClInclude>
+    <ClInclude Include="gfx\spritesys\UnitActor.h">
+      <Filter>gfx\spritesys</Filter>
+    </ClInclude>
+    <ClInclude Include="gfx\spritesys\UnitSpriteGroup.h">
+      <Filter>gfx\spritesys</Filter>
+    </ClInclude>
+    <ClInclude Include="gfx\spritesys\workeractor.h">
+      <Filter>gfx\spritesys</Filter>
+    </ClInclude>
+    <ClInclude Include="gfx\tilesys\BaseTile.h">
+      <Filter>gfx\tilesys</Filter>
+    </ClInclude>
+    <ClInclude Include="gfx\tilesys\maputils.h">
+      <Filter>gfx\tilesys</Filter>
+    </ClInclude>
+    <ClInclude Include="gfx\tilesys\resourcemap.h">
+      <Filter>gfx\tilesys</Filter>
+    </ClInclude>
+    <ClInclude Include="gfx\tilesys\tiledmap.h">
+      <Filter>gfx\tilesys</Filter>
+    </ClInclude>
+    <ClInclude Include="gfx\tilesys\TileDrawRoad.h">
+      <Filter>gfx\tilesys</Filter>
+    </ClInclude>
+    <ClInclude Include="gfx\tilesys\TileInfo.h">
+      <Filter>gfx\tilesys</Filter>
+    </ClInclude>
+    <ClInclude Include="gfx\tilesys\tileset.h">
+      <Filter>gfx\tilesys</Filter>
+    </ClInclude>
+    <ClInclude Include="gfx\tilesys\tileutils.h">
+      <Filter>gfx\tilesys</Filter>
+    </ClInclude>
+    <ClInclude Include="gfx\tilesys\workmap.h">
+      <Filter>gfx\tilesys</Filter>
+    </ClInclude>
+    <ClInclude Include="ctp\c3.h">
+      <Filter>ctp</Filter>
+    </ClInclude>
+    <ClInclude Include="ctp\c3types.h">
+      <Filter>ctp</Filter>
+    </ClInclude>
+    <ClInclude Include="ctp\cifm.h">
+      <Filter>ctp</Filter>
+    </ClInclude>
+    <ClInclude Include="ctp\civ3_main.h">
+      <Filter>ctp</Filter>
+    </ClInclude>
+    <ClInclude Include="ctp\civapp.h">
+      <Filter>ctp</Filter>
+    </ClInclude>
+    <ClInclude Include="ctp\display.h">
+      <Filter>ctp</Filter>
+    </ClInclude>
+    <ClInclude Include="ctp\ctp2_rsrc\resource.h">
+      <Filter>ctp\ctp2_rsrc</Filter>
+    </ClInclude>
+    <ClInclude Include="ctp\ctp2_utils\tracklen.h">
+      <Filter>ctp\ctp2_utils</Filter>
+    </ClInclude>
+    <ClInclude Include="ctp\ctp2_utils\pointerlist.h">
+      <Filter>ctp\ctp2_utils</Filter>
+    </ClInclude>
+    <ClInclude Include="ctp\ctp2_utils\netconsole.h">
+      <Filter>ctp\ctp2_utils</Filter>
+    </ClInclude>
+    <ClInclude Include="ctp\ctp2_utils\minmax.h">
+      <Filter>ctp\ctp2_utils</Filter>
+    </ClInclude>
+    <ClInclude Include="ctp\ctp2_utils\ddhelp.h">
+      <Filter>ctp\ctp2_utils</Filter>
+    </ClInclude>
+    <ClInclude Include="ctp\ctp2_utils\ctpregistry.h">
+      <Filter>ctp\ctp2_utils</Filter>
+    </ClInclude>
+    <ClInclude Include="ctp\ctp2_utils\command.h">
+      <Filter>ctp\ctp2_utils</Filter>
+    </ClInclude>
+    <ClInclude Include="ctp\ctp2_utils\cheatkey.h">
+      <Filter>ctp\ctp2_utils</Filter>
+    </ClInclude>
+    <ClInclude Include="ctp\ctp2_utils\c3math.h">
+      <Filter>ctp\ctp2_utils</Filter>
+    </ClInclude>
+    <ClInclude Include="ctp\ctp2_utils\c3files.h">
+      <Filter>ctp\ctp2_utils</Filter>
+    </ClInclude>
+    <ClInclude Include="ctp\ctp2_utils\c3errors.h">
+      <Filter>ctp\ctp2_utils</Filter>
+    </ClInclude>
+    <ClInclude Include="ctp\ctp2_utils\c3debugstl.h">
+      <Filter>ctp\ctp2_utils</Filter>
+    </ClInclude>
+    <ClInclude Include="ctp\ctp2_utils\c3debug.h">
+      <Filter>ctp\ctp2_utils</Filter>
+    </ClInclude>
+    <ClInclude Include="ctp\ctp2_utils\c3cpu.h">
+      <Filter>ctp\ctp2_utils</Filter>
+    </ClInclude>
+    <ClInclude Include="ctp\ctp2_utils\c3cmdline.h">
+      <Filter>ctp\ctp2_utils</Filter>
+    </ClInclude>
+    <ClInclude Include="ctp\ctp2_utils\BitMask.h">
+      <Filter>ctp\ctp2_utils</Filter>
+    </ClInclude>
+    <ClInclude Include="ctp\ctp2_utils\AvlTree.h">
+      <Filter>ctp\ctp2_utils</Filter>
+    </ClInclude>
+    <ClInclude Include="ctp\ctp2_utils\appstrings.h">
+      <Filter>ctp\ctp2_utils</Filter>
+    </ClInclude>
+    <ClInclude Include="ctp\debugtools\Timer.h">
+      <Filter>ctp\debugtools</Filter>
+    </ClInclude>
+    <ClInclude Include="ctp\debugtools\log_on.h">
+      <Filter>ctp\debugtools</Filter>
+    </ClInclude>
+    <ClInclude Include="ctp\debugtools\log_off.h">
+      <Filter>ctp\debugtools</Filter>
+    </ClInclude>
+    <ClInclude Include="ctp\debugtools\log.h">
+      <Filter>ctp\debugtools</Filter>
+    </ClInclude>
+    <ClInclude Include="ctp\debugtools\debugmemory.h">
+      <Filter>ctp\debugtools</Filter>
+    </ClInclude>
+    <ClInclude Include="ctp\debugtools\debugexception.h">
+      <Filter>ctp\debugtools</Filter>
+    </ClInclude>
+    <ClInclude Include="ctp\debugtools\debugcallstack.h">
+      <Filter>ctp\debugtools</Filter>
+    </ClInclude>
+    <ClInclude Include="ctp\debugtools\debugassert.h">
+      <Filter>ctp\debugtools</Filter>
+    </ClInclude>
+    <ClInclude Include="ctp\debugtools\debug.h">
+      <Filter>ctp\debugtools</Filter>
+    </ClInclude>
+    <ClInclude Include="ctp\debugtools\breakpoint.h">
+      <Filter>ctp\debugtools</Filter>
+    </ClInclude>
+    <ClInclude Include="ctp\fingerprint\verify.h">
+      <Filter>ctp\fingerprint</Filter>
+    </ClInclude>
+    <ClInclude Include="ctp\fingerprint\shroud.h">
+      <Filter>ctp\fingerprint</Filter>
+    </ClInclude>
+    <ClInclude Include="ctp\fingerprint\ctp_finger.h">
+      <Filter>ctp\fingerprint</Filter>
+    </ClInclude>
+    <ClInclude Include="ai\profileai.h">
+      <Filter>ai</Filter>
+    </ClInclude>
+    <ClInclude Include="ai\ctpaidebug.h">
+      <Filter>ai</Filter>
+    </ClInclude>
+    <ClInclude Include="ai\ctpai.h">
+      <Filter>ai</Filter>
+    </ClInclude>
+    <ClInclude Include="ai\diplomacy\ThreatResponseEvent.h">
+      <Filter>ai\diplomacy</Filter>
+    </ClInclude>
+    <ClInclude Include="ai\diplomacy\SStateEvent.h">
+      <Filter>ai\diplomacy</Filter>
+    </ClInclude>
+    <ClInclude Include="ai\diplomacy\ResponseEvent.h">
+      <Filter>ai\diplomacy</Filter>
+    </ClInclude>
+    <ClInclude Include="ai\diplomacy\RejectResponseEvent.h">
+      <Filter>ai\diplomacy</Filter>
+    </ClInclude>
+    <ClInclude Include="ai\diplomacy\RegardEvent.h">
+      <Filter>ai\diplomacy</Filter>
+    </ClInclude>
+    <ClInclude Include="ai\diplomacy\reactevent.h">
+      <Filter>ai\diplomacy</Filter>
+    </ClInclude>
+    <ClInclude Include="ai\diplomacy\ProposalResponseEvent.h">
+      <Filter>ai\diplomacy</Filter>
+    </ClInclude>
+    <ClInclude Include="ai\diplomacy\ProposalAnalysis.h">
+      <Filter>ai\diplomacy</Filter>
+    </ClInclude>
+    <ClInclude Include="ai\diplomacy\NProposalEvent.h">
+      <Filter>ai\diplomacy</Filter>
+    </ClInclude>
+    <ClInclude Include="ai\diplomacy\MotivationEvent.h">
+      <Filter>ai\diplomacy</Filter>
+    </ClInclude>
+    <ClInclude Include="ai\diplomacy\Foreigner.h">
+      <Filter>ai\diplomacy</Filter>
+    </ClInclude>
+    <ClInclude Include="ai\diplomacy\DStateEvent.h">
+      <Filter>ai\diplomacy</Filter>
+    </ClInclude>
+    <ClInclude Include="ai\diplomacy\diplomattypes.h">
+      <Filter>ai\diplomacy</Filter>
+    </ClInclude>
+    <ClInclude Include="ai\diplomacy\Diplomat.h">
+      <Filter>ai\diplomacy</Filter>
+    </ClInclude>
+    <ClInclude Include="ai\diplomacy\diplomacyutil.h">
+      <Filter>ai\diplomacy</Filter>
+    </ClInclude>
+    <ClInclude Include="ai\diplomacy\CounterResponseEvent.h">
+      <Filter>ai\diplomacy</Filter>
+    </ClInclude>
+    <ClInclude Include="ai\diplomacy\AgreementMatrix.h">
+      <Filter>ai\diplomacy</Filter>
+    </ClInclude>
+    <ClInclude Include="ai\ctp2\ldl_strings.h">
+      <Filter>ai\ctp2</Filter>
+    </ClInclude>
+    <ClInclude Include="ai\ctp2\ctp_types.h">
+      <Filter>ai\ctp2</Filter>
+    </ClInclude>
+    <ClInclude Include="ai\ctp2\ctp_debug.h">
+      <Filter>ai\ctp2</Filter>
+    </ClInclude>
+    <ClInclude Include="ai\ctp2\ctp2.h">
+      <Filter>ai\ctp2</Filter>
+    </ClInclude>
+    <ClInclude Include="ai\CityManagement\governor.h">
+      <Filter>ai\CityManagement</Filter>
+    </ClInclude>
+    <ClInclude Include="ai\strategy\agents\agent.h">
+      <Filter>ai\strategy\agents</Filter>
+    </ClInclude>
+    <ClInclude Include="ai\strategy\goals\Goal.h">
+      <Filter>ai\strategy\goals</Filter>
+    </ClInclude>
+    <ClInclude Include="ai\strategy\scheduler\scheduler_types.h">
+      <Filter>ai\strategy\scheduler</Filter>
+    </ClInclude>
+    <ClInclude Include="ai\strategy\scheduler\Scheduler.h">
+      <Filter>ai\strategy\scheduler</Filter>
+    </ClInclude>
+    <ClInclude Include="ai\strategy\scheduler\Plan.h">
+      <Filter>ai\strategy\scheduler</Filter>
+    </ClInclude>
+    <ClInclude Include="ai\strategy\scheduler\Goal_And_Squad_Types.h">
+      <Filter>ai\strategy\scheduler</Filter>
+    </ClInclude>
+    <ClInclude Include="ai\strategy\squads\squad_Strength.h">
+      <Filter>ai\strategy\squads</Filter>
+    </ClInclude>
+    <ClInclude Include="ai\personality\aip2.h">
+      <Filter>ai\personality</Filter>
+    </ClInclude>
+    <ClInclude Include="ai\diplomacy_test\diptest\stdafx.h">
+      <Filter>ai\diplomacy_test\diptest</Filter>
+    </ClInclude>
+    <ClInclude Include="ai\mapanalysis\boundingrect.h">
+      <Filter>ai\mapanalysis</Filter>
+    </ClInclude>
+    <ClInclude Include="ai\mapanalysis\mapanalysis.h">
+      <Filter>ai\mapanalysis</Filter>
+    </ClInclude>
+    <ClInclude Include="ai\mapanalysis\mapgrid.h">
+      <Filter>ai\mapanalysis</Filter>
+    </ClInclude>
+    <ClInclude Include="ai\mapanalysis\settlemap.h">
+      <Filter>ai\mapanalysis</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="ui\aui_common\aui_action.cpp">
@@ -2874,6 +4164,1071 @@
     <ClCompile Include="libs\freetype-1.3.1\test\arch\win32\gw_win32.c">
       <Filter>libs\freetype-1.3.1\test\arch\win32</Filter>
     </ClCompile>
+    <ClCompile Include="libs\freetype-1.3.1\lib\ttapi.c">
+      <Filter>libs\freetype-1.3.1\lib</Filter>
+    </ClCompile>
+    <ClCompile Include="libs\freetype-1.3.1\lib\ttcache.c">
+      <Filter>libs\freetype-1.3.1\lib</Filter>
+    </ClCompile>
+    <ClCompile Include="libs\freetype-1.3.1\lib\ttcalc.c">
+      <Filter>libs\freetype-1.3.1\lib</Filter>
+    </ClCompile>
+    <ClCompile Include="libs\freetype-1.3.1\lib\ttcmap.c">
+      <Filter>libs\freetype-1.3.1\lib</Filter>
+    </ClCompile>
+    <ClCompile Include="libs\freetype-1.3.1\lib\ttdebug.c">
+      <Filter>libs\freetype-1.3.1\lib</Filter>
+    </ClCompile>
+    <ClCompile Include="libs\freetype-1.3.1\lib\ttextend.c">
+      <Filter>libs\freetype-1.3.1\lib</Filter>
+    </ClCompile>
+    <ClCompile Include="libs\freetype-1.3.1\lib\ttfile.c">
+      <Filter>libs\freetype-1.3.1\lib</Filter>
+    </ClCompile>
+    <ClCompile Include="libs\freetype-1.3.1\lib\ttgload.c">
+      <Filter>libs\freetype-1.3.1\lib</Filter>
+    </ClCompile>
+    <ClCompile Include="libs\freetype-1.3.1\lib\ttinterp.c">
+      <Filter>libs\freetype-1.3.1\lib</Filter>
+    </ClCompile>
+    <ClCompile Include="libs\freetype-1.3.1\lib\ttload.c">
+      <Filter>libs\freetype-1.3.1\lib</Filter>
+    </ClCompile>
+    <ClCompile Include="libs\freetype-1.3.1\lib\ttmemory.c">
+      <Filter>libs\freetype-1.3.1\lib</Filter>
+    </ClCompile>
+    <ClCompile Include="libs\freetype-1.3.1\lib\ttmutex.c">
+      <Filter>libs\freetype-1.3.1\lib</Filter>
+    </ClCompile>
+    <ClCompile Include="libs\freetype-1.3.1\lib\ttobjs.c">
+      <Filter>libs\freetype-1.3.1\lib</Filter>
+    </ClCompile>
+    <ClCompile Include="libs\freetype-1.3.1\lib\ttraster.c">
+      <Filter>libs\freetype-1.3.1\lib</Filter>
+    </ClCompile>
+    <ClCompile Include="libs\freetype-1.3.1\lib\extend\ftxcmap.c">
+      <Filter>libs\freetype-1.3.1\lib\extend</Filter>
+    </ClCompile>
+    <ClCompile Include="libs\freetype-1.3.1\lib\extend\ftxerr18.c">
+      <Filter>libs\freetype-1.3.1\lib\extend</Filter>
+    </ClCompile>
+    <ClCompile Include="libs\freetype-1.3.1\lib\extend\ftxgasp.c">
+      <Filter>libs\freetype-1.3.1\lib\extend</Filter>
+    </ClCompile>
+    <ClCompile Include="libs\freetype-1.3.1\lib\extend\ftxgdef.c">
+      <Filter>libs\freetype-1.3.1\lib\extend</Filter>
+    </ClCompile>
+    <ClCompile Include="libs\freetype-1.3.1\lib\extend\ftxgpos.c">
+      <Filter>libs\freetype-1.3.1\lib\extend</Filter>
+    </ClCompile>
+    <ClCompile Include="libs\freetype-1.3.1\lib\extend\ftxgsub.c">
+      <Filter>libs\freetype-1.3.1\lib\extend</Filter>
+    </ClCompile>
+    <ClCompile Include="libs\freetype-1.3.1\lib\extend\ftxkern.c">
+      <Filter>libs\freetype-1.3.1\lib\extend</Filter>
+    </ClCompile>
+    <ClCompile Include="libs\freetype-1.3.1\lib\extend\ftxopen.c">
+      <Filter>libs\freetype-1.3.1\lib\extend</Filter>
+    </ClCompile>
+    <ClCompile Include="libs\freetype-1.3.1\lib\extend\ftxpost.c">
+      <Filter>libs\freetype-1.3.1\lib\extend</Filter>
+    </ClCompile>
+    <ClCompile Include="libs\freetype-1.3.1\lib\extend\ftxsbit.c">
+      <Filter>libs\freetype-1.3.1\lib\extend</Filter>
+    </ClCompile>
+    <ClCompile Include="libs\freetype-1.3.1\lib\extend\ftxwidth.c">
+      <Filter>libs\freetype-1.3.1\lib\extend</Filter>
+    </ClCompile>
+    <ClCompile Include="libs\freetype-1.3.1\lib\arch\win16\freetype.c">
+      <Filter>libs\freetype-1.3.1\lib\arch\win16</Filter>
+    </ClCompile>
+    <ClCompile Include="libs\freetype-1.3.1\lib\arch\win16\hugefile.c">
+      <Filter>libs\freetype-1.3.1\lib\arch\win16</Filter>
+    </ClCompile>
+    <ClCompile Include="libs\freetype-1.3.1\lib\arch\win16\hugemem.c">
+      <Filter>libs\freetype-1.3.1\lib\arch\win16</Filter>
+    </ClCompile>
+    <ClCompile Include="libs\freetype-1.3.1\lib\arch\win32\freetype.c">
+      <Filter>libs\freetype-1.3.1\lib\arch\win32</Filter>
+    </ClCompile>
+    <ClCompile Include="libs\freetype-1.3.1\contrib\win32\driver32.c">
+      <Filter>libs\freetype-1.3.1\contrib\win32</Filter>
+    </ClCompile>
+    <ClCompile Include="libs\freetype-1.3.1\contrib\win32\hack_common.c">
+      <Filter>libs\freetype-1.3.1\contrib\win32</Filter>
+    </ClCompile>
+    <ClCompile Include="libs\freetype-1.3.1\contrib\win32\hack_ftdump.c">
+      <Filter>libs\freetype-1.3.1\contrib\win32</Filter>
+    </ClCompile>
+    <ClCompile Include="libs\freetype-1.3.1\contrib\win32\hack_ftlint.c">
+      <Filter>libs\freetype-1.3.1\contrib\win32</Filter>
+    </ClCompile>
+    <ClCompile Include="libs\freetype-1.3.1\contrib\win32\hack_ftstring.c">
+      <Filter>libs\freetype-1.3.1\contrib\win32</Filter>
+    </ClCompile>
+    <ClCompile Include="libs\freetype-1.3.1\contrib\win32\hack_fttimer.c">
+      <Filter>libs\freetype-1.3.1\contrib\win32</Filter>
+    </ClCompile>
+    <ClCompile Include="libs\freetype-1.3.1\contrib\win32\hack_ftview.c">
+      <Filter>libs\freetype-1.3.1\contrib\win32</Filter>
+    </ClCompile>
+    <ClCompile Include="libs\freetype-1.3.1\contrib\win32\stdafx.cpp">
+      <Filter>libs\freetype-1.3.1\contrib\win32</Filter>
+    </ClCompile>
+    <ClCompile Include="libs\freetype-1.3.1\contrib\win32\testw32.cpp">
+      <Filter>libs\freetype-1.3.1\contrib\win32</Filter>
+    </ClCompile>
+    <ClCompile Include="libs\freetype-1.3.1\contrib\win32\testw32dlg.cpp">
+      <Filter>libs\freetype-1.3.1\contrib\win32</Filter>
+    </ClCompile>
+    <ClCompile Include="libs\freetype-1.3.1\contrib\ttfbanner\ttfbanner.c">
+      <Filter>libs\freetype-1.3.1\contrib\ttfbanner</Filter>
+    </ClCompile>
+    <ClCompile Include="libs\freetype-1.3.1\contrib\ttf2pk\case.c">
+      <Filter>libs\freetype-1.3.1\contrib\ttf2pk</Filter>
+    </ClCompile>
+    <ClCompile Include="libs\freetype-1.3.1\contrib\ttf2pk\emdir.c">
+      <Filter>libs\freetype-1.3.1\contrib\ttf2pk</Filter>
+    </ClCompile>
+    <ClCompile Include="libs\freetype-1.3.1\contrib\ttf2pk\emtexdir.c">
+      <Filter>libs\freetype-1.3.1\contrib\ttf2pk</Filter>
+    </ClCompile>
+    <ClCompile Include="libs\freetype-1.3.1\contrib\ttf2pk\errormsg.c">
+      <Filter>libs\freetype-1.3.1\contrib\ttf2pk</Filter>
+    </ClCompile>
+    <ClCompile Include="libs\freetype-1.3.1\contrib\ttf2pk\filesrch.c">
+      <Filter>libs\freetype-1.3.1\contrib\ttf2pk</Filter>
+    </ClCompile>
+    <ClCompile Include="libs\freetype-1.3.1\contrib\ttf2pk\ligkern.c">
+      <Filter>libs\freetype-1.3.1\contrib\ttf2pk</Filter>
+    </ClCompile>
+    <ClCompile Include="libs\freetype-1.3.1\contrib\ttf2pk\newobj.c">
+      <Filter>libs\freetype-1.3.1\contrib\ttf2pk</Filter>
+    </ClCompile>
+    <ClCompile Include="libs\freetype-1.3.1\contrib\ttf2pk\parse.c">
+      <Filter>libs\freetype-1.3.1\contrib\ttf2pk</Filter>
+    </ClCompile>
+    <ClCompile Include="libs\freetype-1.3.1\contrib\ttf2pk\pklib.c">
+      <Filter>libs\freetype-1.3.1\contrib\ttf2pk</Filter>
+    </ClCompile>
+    <ClCompile Include="libs\freetype-1.3.1\contrib\ttf2pk\subfont.c">
+      <Filter>libs\freetype-1.3.1\contrib\ttf2pk</Filter>
+    </ClCompile>
+    <ClCompile Include="libs\freetype-1.3.1\contrib\ttf2pk\texenc.c">
+      <Filter>libs\freetype-1.3.1\contrib\ttf2pk</Filter>
+    </ClCompile>
+    <ClCompile Include="libs\freetype-1.3.1\contrib\ttf2pk\tfmaux.c">
+      <Filter>libs\freetype-1.3.1\contrib\ttf2pk</Filter>
+    </ClCompile>
+    <ClCompile Include="libs\freetype-1.3.1\contrib\ttf2pk\ttf2pk.c">
+      <Filter>libs\freetype-1.3.1\contrib\ttf2pk</Filter>
+    </ClCompile>
+    <ClCompile Include="libs\freetype-1.3.1\contrib\ttf2pk\ttf2tfm.c">
+      <Filter>libs\freetype-1.3.1\contrib\ttf2pk</Filter>
+    </ClCompile>
+    <ClCompile Include="libs\freetype-1.3.1\contrib\ttf2pk\ttfaux.c">
+      <Filter>libs\freetype-1.3.1\contrib\ttf2pk</Filter>
+    </ClCompile>
+    <ClCompile Include="libs\freetype-1.3.1\contrib\ttf2pk\ttfenc.c">
+      <Filter>libs\freetype-1.3.1\contrib\ttf2pk</Filter>
+    </ClCompile>
+    <ClCompile Include="libs\freetype-1.3.1\contrib\ttf2pk\ttflib.c">
+      <Filter>libs\freetype-1.3.1\contrib\ttf2pk</Filter>
+    </ClCompile>
+    <ClCompile Include="libs\freetype-1.3.1\contrib\ttf2pk\vplaux.c">
+      <Filter>libs\freetype-1.3.1\contrib\ttf2pk</Filter>
+    </ClCompile>
+    <ClCompile Include="libs\freetype-1.3.1\contrib\ttf2pfb\ttf2pfb.c">
+      <Filter>libs\freetype-1.3.1\contrib\ttf2pfb</Filter>
+    </ClCompile>
+    <ClCompile Include="libs\freetype-1.3.1\contrib\ttf2pfb\t1asm.c">
+      <Filter>libs\freetype-1.3.1\contrib\ttf2pfb</Filter>
+    </ClCompile>
+    <ClCompile Include="libs\freetype-1.3.1\contrib\ttf2bdf\ttf2bdf.c">
+      <Filter>libs\freetype-1.3.1\contrib\ttf2bdf</Filter>
+    </ClCompile>
+    <ClCompile Include="libs\freetype-1.3.1\contrib\ttf2bdf\remap.c">
+      <Filter>libs\freetype-1.3.1\contrib\ttf2bdf</Filter>
+    </ClCompile>
+    <ClCompile Include="libs\freetype-1.3.1\contrib\ftos2\uninst.c">
+      <Filter>libs\freetype-1.3.1\contrib\ftos2</Filter>
+    </ClCompile>
+    <ClCompile Include="libs\freetype-1.3.1\contrib\ftos2\ifi\test.c">
+      <Filter>libs\freetype-1.3.1\contrib\ftos2\ifi</Filter>
+    </ClCompile>
+    <ClCompile Include="libs\freetype-1.3.1\contrib\ftos2\ifi\ftmem.c">
+      <Filter>libs\freetype-1.3.1\contrib\ftos2\ifi</Filter>
+    </ClCompile>
+    <ClCompile Include="libs\freetype-1.3.1\contrib\ftos2\ifi\ftifi.c">
+      <Filter>libs\freetype-1.3.1\contrib\ftos2\ifi</Filter>
+    </ClCompile>
+    <ClCompile Include="libs\freetype-1.3.1\contrib\ftos2\lib\ttmemory.c">
+      <Filter>libs\freetype-1.3.1\contrib\ftos2\lib</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\database\DB.cpp">
+      <Filter>gs\database</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\database\EndGameDB.cpp">
+      <Filter>gs\database</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\database\EndGameRecord.cpp">
+      <Filter>gs\database</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\database\filenamedb.cpp">
+      <Filter>gs\database</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\database\highscoredb.cpp">
+      <Filter>gs\database</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\database\moviedb.cpp">
+      <Filter>gs\database</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\database\PlayListDB.cpp">
+      <Filter>gs\database</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\database\profileDB.cpp">
+      <Filter>gs\database</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\database\Rec.cpp">
+      <Filter>gs\database</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\database\StrDB.cpp">
+      <Filter>gs\database</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\database\StrRec.cpp">
+      <Filter>gs\database</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\database\thronedb.cpp">
+      <Filter>gs\database</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\database\UVDB.cpp">
+      <Filter>gs\database</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\database\UVRecord.cpp">
+      <Filter>gs\database</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\dbgen\ctpdb.cpp">
+      <Filter>gs\dbgen</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\dbgen\Datum.cpp">
+      <Filter>gs\dbgen</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\dbgen\MemberClass.cpp">
+      <Filter>gs\dbgen</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\dbgen\RecordDescription.cpp">
+      <Filter>gs\dbgen</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\events\GameEvent.cpp">
+      <Filter>gs\events</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\events\GameEventArgList.cpp">
+      <Filter>gs\events</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\events\GameEventArgument.cpp">
+      <Filter>gs\events</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\events\GameEventDescription.cpp">
+      <Filter>gs\events</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\events\GameEventHook.cpp">
+      <Filter>gs\events</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\events\GameEventManager.cpp">
+      <Filter>gs\events</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\fileio\CivPaths.cpp">
+      <Filter>gs\fileio</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\fileio\civscenarios.cpp">
+      <Filter>gs\fileio</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\fileio\GameFile.cpp">
+      <Filter>gs\fileio</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\fileio\prjfile.cpp">
+      <Filter>gs\fileio</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\fileio\Token.cpp">
+      <Filter>gs\fileio</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\gameobj\AchievementTracker.cpp">
+      <Filter>gs\gameobj</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\gameobj\Advances.cpp">
+      <Filter>gs\gameobj</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\gameobj\advanceutil.cpp">
+      <Filter>gs\gameobj</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\gameobj\Agreement.cpp">
+      <Filter>gs\gameobj</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\gameobj\AgreementData.cpp">
+      <Filter>gs\gameobj</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\gameobj\AgreementPool.cpp">
+      <Filter>gs\gameobj</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\gameobj\Army.cpp">
+      <Filter>gs\gameobj</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\gameobj\ArmyData.cpp">
+      <Filter>gs\gameobj</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\gameobj\armyevent.cpp">
+      <Filter>gs\gameobj</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\gameobj\ArmyPool.cpp">
+      <Filter>gs\gameobj</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\gameobj\barbarians.cpp">
+      <Filter>gs\gameobj</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\gameobj\bldque.cpp">
+      <Filter>gs\gameobj</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\gameobj\buildingutil.cpp">
+      <Filter>gs\gameobj</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\gameobj\CityData.cpp">
+      <Filter>gs\gameobj</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\gameobj\CityEvent.cpp">
+      <Filter>gs\gameobj</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\gameobj\CityInfluenceIterator.cpp">
+      <Filter>gs\gameobj</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\gameobj\CityRadius.cpp">
+      <Filter>gs\gameobj</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\gameobj\Civilisation.cpp">
+      <Filter>gs\gameobj</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\gameobj\CivilisationData.cpp">
+      <Filter>gs\gameobj</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\gameobj\civilisationpool.cpp">
+      <Filter>gs\gameobj</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\gameobj\combatevent.cpp">
+      <Filter>gs\gameobj</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\gameobj\CriticalMessagesPrefs.cpp">
+      <Filter>gs\gameobj</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\gameobj\CTP2Combat.cpp">
+      <Filter>gs\gameobj</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\gameobj\Diffcly.cpp">
+      <Filter>gs\gameobj</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\gameobj\Diplomacy_Log.cpp">
+      <Filter>gs\gameobj</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\gameobj\DiplomaticRequest.cpp">
+      <Filter>gs\gameobj</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\gameobj\DiplomaticRequestData.cpp">
+      <Filter>gs\gameobj</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\gameobj\DiplomaticRequestPool.cpp">
+      <Filter>gs\gameobj</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\gameobj\EmptyTile.cpp">
+      <Filter>gs\gameobj</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\gameobj\endgame.cpp">
+      <Filter>gs\gameobj</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\gameobj\Events.cpp">
+      <Filter>gs\gameobj</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\gameobj\EventTracker.cpp">
+      <Filter>gs\gameobj</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\gameobj\Exclusions.cpp">
+      <Filter>gs\gameobj</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\gameobj\FeatTracker.cpp">
+      <Filter>gs\gameobj</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\gameobj\gaiacontroller.cpp">
+      <Filter>gs\gameobj</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\gameobj\GameObj.cpp">
+      <Filter>gs\gameobj</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\gameobj\GameSettings.cpp">
+      <Filter>gs\gameobj</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\gameobj\Gold.cpp">
+      <Filter>gs\gameobj</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\gameobj\GoodyHuts.cpp">
+      <Filter>gs\gameobj</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\gameobj\GSLogs.cpp">
+      <Filter>gs\gameobj</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\gameobj\Happy.cpp">
+      <Filter>gs\gameobj</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\gameobj\happytracker.cpp">
+      <Filter>gs\gameobj</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\gameobj\ID.cpp">
+      <Filter>gs\gameobj</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\gameobj\improvementevent.cpp">
+      <Filter>gs\gameobj</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\gameobj\installation.cpp">
+      <Filter>gs\gameobj</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\gameobj\installationdata.cpp">
+      <Filter>gs\gameobj</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\gameobj\installationpool.cpp">
+      <Filter>gs\gameobj</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\gameobj\LineDance.cpp">
+      <Filter>gs\gameobj</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\gameobj\MaterialPool.cpp">
+      <Filter>gs\gameobj</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\gameobj\Message.cpp">
+      <Filter>gs\gameobj</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\gameobj\messagedata.cpp">
+      <Filter>gs\gameobj</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\gameobj\MessagePool.cpp">
+      <Filter>gs\gameobj</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\gameobj\ObjPool.cpp">
+      <Filter>gs\gameobj</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\gameobj\Order.cpp">
+      <Filter>gs\gameobj</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\gameobj\Player.cpp">
+      <Filter>gs\gameobj</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\gameobj\PlayerEvent.cpp">
+      <Filter>gs\gameobj</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\gameobj\PlayerTurn.cpp">
+      <Filter>gs\gameobj</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\gameobj\PlayHap.cpp">
+      <Filter>gs\gameobj</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\gameobj\Pollution.cpp">
+      <Filter>gs\gameobj</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\gameobj\Readiness.cpp">
+      <Filter>gs\gameobj</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\gameobj\Regard.cpp">
+      <Filter>gs\gameobj</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\gameobj\Resources.cpp">
+      <Filter>gs\gameobj</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\gameobj\Sci.cpp">
+      <Filter>gs\gameobj</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\gameobj\Score.cpp">
+      <Filter>gs\gameobj</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\gameobj\Strengths.cpp">
+      <Filter>gs\gameobj</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\gameobj\TaxRate.cpp">
+      <Filter>gs\gameobj</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\gameobj\terrainutil.cpp">
+      <Filter>gs\gameobj</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\gameobj\TerrImprove.cpp">
+      <Filter>gs\gameobj</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\gameobj\TerrImproveData.cpp">
+      <Filter>gs\gameobj</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\gameobj\TerrImprovePool.cpp">
+      <Filter>gs\gameobj</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\gameobj\TopTen.cpp">
+      <Filter>gs\gameobj</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\gameobj\TradeBids.cpp">
+      <Filter>gs\gameobj</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\gameobj\tradeevent.cpp">
+      <Filter>gs\gameobj</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\gameobj\TradeOffer.cpp">
+      <Filter>gs\gameobj</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\gameobj\TradeOfferData.cpp">
+      <Filter>gs\gameobj</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\gameobj\TradeOfferPool.cpp">
+      <Filter>gs\gameobj</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\gameobj\TradePool.cpp">
+      <Filter>gs\gameobj</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\gameobj\TradeRoute.cpp">
+      <Filter>gs\gameobj</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\gameobj\TradeRouteData.cpp">
+      <Filter>gs\gameobj</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\gameobj\tradeutil.cpp">
+      <Filter>gs\gameobj</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\gameobj\Unit.cpp">
+      <Filter>gs\gameobj</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\gameobj\UnitData.cpp">
+      <Filter>gs\gameobj</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\gameobj\unitevent.cpp">
+      <Filter>gs\gameobj</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\gameobj\UnitPool.cpp">
+      <Filter>gs\gameobj</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\gameobj\unitutil.cpp">
+      <Filter>gs\gameobj</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\gameobj\UnoccupiedTiles.cpp">
+      <Filter>gs\gameobj</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\gameobj\Vision.cpp">
+      <Filter>gs\gameobj</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\gameobj\WonderTracker.cpp">
+      <Filter>gs\gameobj</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\gameobj\wonderutil.cpp">
+      <Filter>gs\gameobj</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\gameobj\Wormhole.cpp">
+      <Filter>gs\gameobj</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\gameobj\XY_Coordinates.cpp">
+      <Filter>gs\gameobj</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\newdb\CTPDatabase.cpp">
+      <Filter>gs\newdb</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\newdb\CTPRecord.cpp">
+      <Filter>gs\newdb</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\newdb\DBLexer.cpp">
+      <Filter>gs\newdb</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\outcom\c3rand.cpp">
+      <Filter>gs\outcom</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\slic\QuickSlic.cpp">
+      <Filter>gs\slic</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\slic\SlicArray.cpp">
+      <Filter>gs\slic</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\slic\SlicBuiltin.cpp">
+      <Filter>gs\slic</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\slic\SlicButton.cpp">
+      <Filter>gs\slic</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\slic\sliccmd.cpp">
+      <Filter>gs\slic</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\slic\SlicConditional.cpp">
+      <Filter>gs\slic</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\slic\SlicConst.cpp">
+      <Filter>gs\slic</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\slic\SlicContext.cpp">
+      <Filter>gs\slic</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\slic\SlicEngine.cpp">
+      <Filter>gs\slic</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\slic\SlicEyePoint.cpp">
+      <Filter>gs\slic</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\slic\SlicFrame.cpp">
+      <Filter>gs\slic</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\slic\slicfunc.cpp">
+      <Filter>gs\slic</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\slic\slicfuncai.cpp">
+      <Filter>gs\slic</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\slic\slicif.cpp">
+      <Filter>gs\slic</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\slic\sliciffile.cpp">
+      <Filter>gs\slic</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\slic\SlicModFunction.cpp">
+      <Filter>gs\slic</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\slic\SlicNamedSymbol.cpp">
+      <Filter>gs\slic</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\slic\slicobject.cpp">
+      <Filter>gs\slic</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\slic\SlicRecord.cpp">
+      <Filter>gs\slic</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\slic\SlicSegment.cpp">
+      <Filter>gs\slic</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\slic\SlicStack.cpp">
+      <Filter>gs\slic</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\slic\SlicStruct.cpp">
+      <Filter>gs\slic</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\slic\SlicSymbol.cpp">
+      <Filter>gs\slic</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\slic\SlicSymTab.cpp">
+      <Filter>gs\slic</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\utility\AgreementDynArr.cpp">
+      <Filter>gs\utility</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\utility\checksum.cpp">
+      <Filter>gs\utility</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\utility\CivDynArr.cpp">
+      <Filter>gs\utility</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\utility\clock.cpp">
+      <Filter>gs\utility</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\utility\DataCheck.cpp">
+      <Filter>gs\utility</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\utility\DiplDynArr.cpp">
+      <Filter>gs\utility</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\utility\ErrMsg.cpp">
+      <Filter>gs\utility</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\utility\gameinit.cpp">
+      <Filter>gs\utility</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\utility\MapFile.cpp">
+      <Filter>gs\utility</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\utility\MsgDynArr.cpp">
+      <Filter>gs\utility</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\utility\newturncount.cpp">
+      <Filter>gs\utility</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\utility\RandGen.cpp">
+      <Filter>gs\utility</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\utility\stringutils.cpp">
+      <Filter>gs\utility</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\utility\TradeDynArr.cpp">
+      <Filter>gs\utility</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\utility\TurnCnt.cpp">
+      <Filter>gs\utility</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\utility\TurnCntEvent.cpp">
+      <Filter>gs\utility</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\utility\UnitDynArr.cpp">
+      <Filter>gs\utility</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\world\Cell.cpp">
+      <Filter>gs\world</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\world\cellunitlist.cpp">
+      <Filter>gs\world</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\world\MapPoint.cpp">
+      <Filter>gs\world</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\world\UnseenCell.cpp">
+      <Filter>gs\world</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\world\wldgen.cpp">
+      <Filter>gs\world</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\world\WorldDistance.cpp">
+      <Filter>gs\world</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\world\worldevent.cpp">
+      <Filter>gs\world</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\world\worldutils.cpp">
+      <Filter>gs\world</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\world\WrldCity.cpp">
+      <Filter>gs\world</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\world\WrldCont.cpp">
+      <Filter>gs\world</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\world\WrldPoll.cpp">
+      <Filter>gs\world</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\world\WrlEnv.cpp">
+      <Filter>gs\world</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\world\WrlImprove.cpp">
+      <Filter>gs\world</Filter>
+    </ClCompile>
+    <ClCompile Include="gs\world\WrlUnit.cpp">
+      <Filter>gs\world</Filter>
+    </ClCompile>
+    <ClCompile Include="gfx\gfx_utils\arproces.cpp">
+      <Filter>gfx\gfx_utils</Filter>
+    </ClCompile>
+    <ClCompile Include="gfx\gfx_utils\ColorSet.cpp">
+      <Filter>gfx\gfx_utils</Filter>
+    </ClCompile>
+    <ClCompile Include="gfx\gfx_utils\gfx_options.cpp">
+      <Filter>gfx\gfx_utils</Filter>
+    </ClCompile>
+    <ClCompile Include="gfx\gfx_utils\pixelutils.cpp">
+      <Filter>gfx\gfx_utils</Filter>
+    </ClCompile>
+    <ClCompile Include="gfx\gfx_utils\targautils.cpp">
+      <Filter>gfx\gfx_utils</Filter>
+    </ClCompile>
+    <ClCompile Include="gfx\gfx_utils\tiffutils.cpp">
+      <Filter>gfx\gfx_utils</Filter>
+    </ClCompile>
+    <ClCompile Include="gfx\gfx_utils\videoutils.cpp">
+      <Filter>gfx\gfx_utils</Filter>
+    </ClCompile>
+    <ClCompile Include="gfx\layers\citylayer.cpp">
+      <Filter>gfx\layers</Filter>
+    </ClCompile>
+    <ClCompile Include="gfx\spritesys\action.cpp">
+      <Filter>gfx\spritesys</Filter>
+    </ClCompile>
+    <ClCompile Include="gfx\spritesys\Actor.cpp">
+      <Filter>gfx\spritesys</Filter>
+    </ClCompile>
+    <ClCompile Include="gfx\spritesys\ActorPath.cpp">
+      <Filter>gfx\spritesys</Filter>
+    </ClCompile>
+    <ClCompile Include="gfx\spritesys\Anim.cpp">
+      <Filter>gfx\spritesys</Filter>
+    </ClCompile>
+    <ClCompile Include="gfx\spritesys\battleviewactor.cpp">
+      <Filter>gfx\spritesys</Filter>
+    </ClCompile>
+    <ClCompile Include="gfx\spritesys\CitySpriteGroup.cpp">
+      <Filter>gfx\spritesys</Filter>
+    </ClCompile>
+    <ClCompile Include="gfx\spritesys\director.cpp">
+      <Filter>gfx\spritesys</Filter>
+    </ClCompile>
+    <ClCompile Include="gfx\spritesys\EffectActor.cpp">
+      <Filter>gfx\spritesys</Filter>
+    </ClCompile>
+    <ClCompile Include="gfx\spritesys\effectspritegroup.cpp">
+      <Filter>gfx\spritesys</Filter>
+    </ClCompile>
+    <ClCompile Include="gfx\spritesys\FacedSprite.cpp">
+      <Filter>gfx\spritesys</Filter>
+    </ClCompile>
+    <ClCompile Include="gfx\spritesys\FacedSpriteWshadow.cpp">
+      <Filter>gfx\spritesys</Filter>
+    </ClCompile>
+    <ClCompile Include="gfx\spritesys\GoodActor.cpp">
+      <Filter>gfx\spritesys</Filter>
+    </ClCompile>
+    <ClCompile Include="gfx\spritesys\GoodSpriteGroup.cpp">
+      <Filter>gfx\spritesys</Filter>
+    </ClCompile>
+    <ClCompile Include="gfx\spritesys\screenmanager.cpp">
+      <Filter>gfx\spritesys</Filter>
+    </ClCompile>
+    <ClCompile Include="gfx\spritesys\Sprite.cpp">
+      <Filter>gfx\spritesys</Filter>
+    </ClCompile>
+    <ClCompile Include="gfx\spritesys\spritefile.cpp">
+      <Filter>gfx\spritesys</Filter>
+    </ClCompile>
+    <ClCompile Include="gfx\spritesys\SpriteGroup.cpp">
+      <Filter>gfx\spritesys</Filter>
+    </ClCompile>
+    <ClCompile Include="gfx\spritesys\SpriteGroupList.cpp">
+      <Filter>gfx\spritesys</Filter>
+    </ClCompile>
+    <ClCompile Include="gfx\spritesys\SpriteHitTest.cpp">
+      <Filter>gfx\spritesys</Filter>
+    </ClCompile>
+    <ClCompile Include="gfx\spritesys\SpriteList.cpp">
+      <Filter>gfx\spritesys</Filter>
+    </ClCompile>
+    <ClCompile Include="gfx\spritesys\spritelow.cpp">
+      <Filter>gfx\spritesys</Filter>
+    </ClCompile>
+    <ClCompile Include="gfx\spritesys\SpriteLow555.cpp">
+      <Filter>gfx\spritesys</Filter>
+    </ClCompile>
+    <ClCompile Include="gfx\spritesys\SpriteLow565.cpp">
+      <Filter>gfx\spritesys</Filter>
+    </ClCompile>
+    <ClCompile Include="gfx\spritesys\SpriteState.cpp">
+      <Filter>gfx\spritesys</Filter>
+    </ClCompile>
+    <ClCompile Include="gfx\spritesys\SpriteStateDB.cpp">
+      <Filter>gfx\spritesys</Filter>
+    </ClCompile>
+    <ClCompile Include="gfx\spritesys\spriteutils.cpp">
+      <Filter>gfx\spritesys</Filter>
+    </ClCompile>
+    <ClCompile Include="gfx\spritesys\TradeActor.cpp">
+      <Filter>gfx\spritesys</Filter>
+    </ClCompile>
+    <ClCompile Include="gfx\spritesys\UnitActor.cpp">
+      <Filter>gfx\spritesys</Filter>
+    </ClCompile>
+    <ClCompile Include="gfx\spritesys\UnitSpriteGroup.cpp">
+      <Filter>gfx\spritesys</Filter>
+    </ClCompile>
+    <ClCompile Include="gfx\spritesys\workeractor.cpp">
+      <Filter>gfx\spritesys</Filter>
+    </ClCompile>
+    <ClCompile Include="gfx\tilesys\BaseTile.cpp">
+      <Filter>gfx\tilesys</Filter>
+    </ClCompile>
+    <ClCompile Include="gfx\tilesys\maputils.cpp">
+      <Filter>gfx\tilesys</Filter>
+    </ClCompile>
+    <ClCompile Include="gfx\tilesys\resourcemap.cpp">
+      <Filter>gfx\tilesys</Filter>
+    </ClCompile>
+    <ClCompile Include="gfx\tilesys\tiledmap.cpp">
+      <Filter>gfx\tilesys</Filter>
+    </ClCompile>
+    <ClCompile Include="gfx\tilesys\tiledraw.cpp">
+      <Filter>gfx\tilesys</Filter>
+    </ClCompile>
+    <ClCompile Include="gfx\tilesys\tiledrawroad.cpp">
+      <Filter>gfx\tilesys</Filter>
+    </ClCompile>
+    <ClCompile Include="gfx\tilesys\TileHighlight.cpp">
+      <Filter>gfx\tilesys</Filter>
+    </ClCompile>
+    <ClCompile Include="gfx\tilesys\TileInfo.cpp">
+      <Filter>gfx\tilesys</Filter>
+    </ClCompile>
+    <ClCompile Include="gfx\tilesys\tileset.cpp">
+      <Filter>gfx\tilesys</Filter>
+    </ClCompile>
+    <ClCompile Include="gfx\tilesys\tileutils.cpp">
+      <Filter>gfx\tilesys</Filter>
+    </ClCompile>
+    <ClCompile Include="gfx\tilesys\workmap.cpp">
+      <Filter>gfx\tilesys</Filter>
+    </ClCompile>
+    <ClCompile Include="ctp\c3.cpp">
+      <Filter>ctp</Filter>
+    </ClCompile>
+    <ClCompile Include="ctp\cifm.cpp">
+      <Filter>ctp</Filter>
+    </ClCompile>
+    <ClCompile Include="ctp\civ3_main.cpp">
+      <Filter>ctp</Filter>
+    </ClCompile>
+    <ClCompile Include="ctp\civapp.cpp">
+      <Filter>ctp</Filter>
+    </ClCompile>
+    <ClCompile Include="ctp\display.cpp">
+      <Filter>ctp</Filter>
+    </ClCompile>
+    <ClCompile Include="ctp\ctp2_utils\tracklen.cpp">
+      <Filter>ctp\ctp2_utils</Filter>
+    </ClCompile>
+    <ClCompile Include="ctp\ctp2_utils\netconsole.cpp">
+      <Filter>ctp\ctp2_utils</Filter>
+    </ClCompile>
+    <ClCompile Include="ctp\ctp2_utils\ddhelp.cpp">
+      <Filter>ctp\ctp2_utils</Filter>
+    </ClCompile>
+    <ClCompile Include="ctp\ctp2_utils\ctpregistry.cpp">
+      <Filter>ctp\ctp2_utils</Filter>
+    </ClCompile>
+    <ClCompile Include="ctp\ctp2_utils\command.cpp">
+      <Filter>ctp\ctp2_utils</Filter>
+    </ClCompile>
+    <ClCompile Include="ctp\ctp2_utils\cheatkey.cpp">
+      <Filter>ctp\ctp2_utils</Filter>
+    </ClCompile>
+    <ClCompile Include="ctp\ctp2_utils\c3mem.cpp">
+      <Filter>ctp\ctp2_utils</Filter>
+    </ClCompile>
+    <ClCompile Include="ctp\ctp2_utils\c3files.cpp">
+      <Filter>ctp\ctp2_utils</Filter>
+    </ClCompile>
+    <ClCompile Include="ctp\ctp2_utils\c3errors.cpp">
+      <Filter>ctp\ctp2_utils</Filter>
+    </ClCompile>
+    <ClCompile Include="ctp\ctp2_utils\c3debug.cpp">
+      <Filter>ctp\ctp2_utils</Filter>
+    </ClCompile>
+    <ClCompile Include="ctp\ctp2_utils\c3cpu.cpp">
+      <Filter>ctp\ctp2_utils</Filter>
+    </ClCompile>
+    <ClCompile Include="ctp\ctp2_utils\c3cmdline.cpp">
+      <Filter>ctp\ctp2_utils</Filter>
+    </ClCompile>
+    <ClCompile Include="ctp\ctp2_utils\appstrings.cpp">
+      <Filter>ctp\ctp2_utils</Filter>
+    </ClCompile>
+    <ClCompile Include="ctp\debugtools\Timer.cpp">
+      <Filter>ctp\debugtools</Filter>
+    </ClCompile>
+    <ClCompile Include="ctp\debugtools\main.cpp">
+      <Filter>ctp\debugtools</Filter>
+    </ClCompile>
+    <ClCompile Include="ctp\debugtools\log.cpp">
+      <Filter>ctp\debugtools</Filter>
+    </ClCompile>
+    <ClCompile Include="ctp\debugtools\debugmemory.cpp">
+      <Filter>ctp\debugtools</Filter>
+    </ClCompile>
+    <ClCompile Include="ctp\debugtools\debugexception.cpp">
+      <Filter>ctp\debugtools</Filter>
+    </ClCompile>
+    <ClCompile Include="ctp\debugtools\debugcallstack.cpp">
+      <Filter>ctp\debugtools</Filter>
+    </ClCompile>
+    <ClCompile Include="ctp\debugtools\debugassert.cpp">
+      <Filter>ctp\debugtools</Filter>
+    </ClCompile>
+    <ClCompile Include="ctp\debugtools\debug.c">
+      <Filter>ctp\debugtools</Filter>
+    </ClCompile>
+    <ClCompile Include="ctp\fingerprint\verify.c">
+      <Filter>ctp\fingerprint</Filter>
+    </ClCompile>
+    <ClCompile Include="ctp\fingerprint\shroud.c">
+      <Filter>ctp\fingerprint</Filter>
+    </ClCompile>
+    <ClCompile Include="ctp\fingerprint\endecode.c">
+      <Filter>ctp\fingerprint</Filter>
+    </ClCompile>
+    <ClCompile Include="ctp\fingerprint\ctp_finger.cpp">
+      <Filter>ctp\fingerprint</Filter>
+    </ClCompile>
+    <ClCompile Include="ai\ctpaidebug.cpp">
+      <Filter>ai</Filter>
+    </ClCompile>
+    <ClCompile Include="ai\ctpai.cpp">
+      <Filter>ai</Filter>
+    </ClCompile>
+    <ClCompile Include="ai\diplomacy\threatresponseevent.cpp">
+      <Filter>ai\diplomacy</Filter>
+    </ClCompile>
+    <ClCompile Include="ai\diplomacy\sstateevent.cpp">
+      <Filter>ai\diplomacy</Filter>
+    </ClCompile>
+    <ClCompile Include="ai\diplomacy\ResponseEvent.cpp">
+      <Filter>ai\diplomacy</Filter>
+    </ClCompile>
+    <ClCompile Include="ai\diplomacy\RejectResponseEvent.cpp">
+      <Filter>ai\diplomacy</Filter>
+    </ClCompile>
+    <ClCompile Include="ai\diplomacy\regardevent.cpp">
+      <Filter>ai\diplomacy</Filter>
+    </ClCompile>
+    <ClCompile Include="ai\diplomacy\ReactEvent.cpp">
+      <Filter>ai\diplomacy</Filter>
+    </ClCompile>
+    <ClCompile Include="ai\diplomacy\proposalresponseevent.cpp">
+      <Filter>ai\diplomacy</Filter>
+    </ClCompile>
+    <ClCompile Include="ai\diplomacy\proposalanalysis.cpp">
+      <Filter>ai\diplomacy</Filter>
+    </ClCompile>
+    <ClCompile Include="ai\diplomacy\nproposalevent.cpp">
+      <Filter>ai\diplomacy</Filter>
+    </ClCompile>
+    <ClCompile Include="ai\diplomacy\motivationevent.cpp">
+      <Filter>ai\diplomacy</Filter>
+    </ClCompile>
+    <ClCompile Include="ai\diplomacy\foreigner.cpp">
+      <Filter>ai\diplomacy</Filter>
+    </ClCompile>
+    <ClCompile Include="ai\diplomacy\dstateevent.cpp">
+      <Filter>ai\diplomacy</Filter>
+    </ClCompile>
+    <ClCompile Include="ai\diplomacy\diplomattypes.cpp">
+      <Filter>ai\diplomacy</Filter>
+    </ClCompile>
+    <ClCompile Include="ai\diplomacy\diplomat.cpp">
+      <Filter>ai\diplomacy</Filter>
+    </ClCompile>
+    <ClCompile Include="ai\diplomacy\diplomacyutil.cpp">
+      <Filter>ai\diplomacy</Filter>
+    </ClCompile>
+    <ClCompile Include="ai\diplomacy\counterresponseevent.cpp">
+      <Filter>ai\diplomacy</Filter>
+    </ClCompile>
+    <ClCompile Include="ai\diplomacy\agreementmatrix.cpp">
+      <Filter>ai\diplomacy</Filter>
+    </ClCompile>
+    <ClCompile Include="ai\CityManagement\governor.cpp">
+      <Filter>ai\CityManagement</Filter>
+    </ClCompile>
+    <ClCompile Include="ai\strategy\agents\agent.cpp">
+      <Filter>ai\strategy\agents</Filter>
+    </ClCompile>
+    <ClCompile Include="ai\strategy\goals\Goal.cpp">
+      <Filter>ai\strategy\goals</Filter>
+    </ClCompile>
+    <ClCompile Include="ai\strategy\scheduler\scheduler.cpp">
+      <Filter>ai\strategy\scheduler</Filter>
+    </ClCompile>
+    <ClCompile Include="ai\strategy\scheduler\Plan.cpp">
+      <Filter>ai\strategy\scheduler</Filter>
+    </ClCompile>
+    <ClCompile Include="ai\strategy\squads\squad_Strength.cpp">
+      <Filter>ai\strategy\squads</Filter>
+    </ClCompile>
+    <ClCompile Include="ai\diplomacy_test\diptest\diptest.cpp">
+      <Filter>ai\diplomacy_test\diptest</Filter>
+    </ClCompile>
+    <ClCompile Include="ai\diplomacy_test\diptest\stdafx.cpp">
+      <Filter>ai\diplomacy_test\diptest</Filter>
+    </ClCompile>
+    <ClCompile Include="ai\mapanalysis\boundingrect.cpp">
+      <Filter>ai\mapanalysis</Filter>
+    </ClCompile>
+    <ClCompile Include="ai\mapanalysis\mapanalysis.cpp">
+      <Filter>ai\mapanalysis</Filter>
+    </ClCompile>
+    <ClCompile Include="ai\mapanalysis\settlemap.cpp">
+      <Filter>ai\mapanalysis</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="ui">
@@ -2995,6 +5350,294 @@
     </Filter>
     <Filter Include="libs\freetype-1.3.1\test\arch\win32">
       <UniqueIdentifier>{ab965e2f-b0de-4ded-b25c-50260563d442}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libs\freetype-1.3.1\pascal\lib">
+      <UniqueIdentifier>{de2db3b6-b8e2-4d22-a1be-f89094e267b9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libs\freetype-1.3.1\pascal\test">
+      <UniqueIdentifier>{30c78f78-903c-4d9b-8223-ad4d63921b5c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libs\freetype-1.3.1\lib\arch">
+      <UniqueIdentifier>{62614e1f-8ed9-45d9-96d9-eb92f56ee3a0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libs\freetype-1.3.1\lib\extend">
+      <UniqueIdentifier>{75f3ba9a-4f00-463d-9c31-7da0defd3145}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libs\freetype-1.3.1\lib\arch\win16">
+      <UniqueIdentifier>{a505b074-473d-4c54-9ba0-58bec2fab1de}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libs\freetype-1.3.1\lib\arch\win32">
+      <UniqueIdentifier>{59ad911d-eb35-4b42-b71d-0ea80bc209f6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libs\freetype-1.3.1\docs\image">
+      <UniqueIdentifier>{a26a174b-b676-42c2-8bd6-47c555a9dd3e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libs\freetype-1.3.1\contrib\win32">
+      <UniqueIdentifier>{7bcc3170-3ea8-4baf-9906-912cc127da78}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libs\freetype-1.3.1\contrib\win32\res">
+      <UniqueIdentifier>{341db6df-b9c8-4744-ad1c-839c83d75e29}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libs\freetype-1.3.1\contrib\ttfbanner">
+      <UniqueIdentifier>{745d9171-550e-454e-8bb1-f64926cabf3e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libs\freetype-1.3.1\contrib\ttf2pk">
+      <UniqueIdentifier>{21432615-2ac6-4615-ac97-44f8653197f2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libs\freetype-1.3.1\contrib\ttf2pfb">
+      <UniqueIdentifier>{d6df6528-1210-4069-b7ad-6f8eac65db58}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libs\freetype-1.3.1\contrib\ttf2bdf">
+      <UniqueIdentifier>{289c7633-bce7-4fec-b0b2-21acfb8a3a1a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libs\freetype-1.3.1\contrib\ftos2">
+      <UniqueIdentifier>{de4f863c-d8c7-45b1-91ba-ecfeb12aa32b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libs\freetype-1.3.1\contrib\ttf2pk\scripts">
+      <UniqueIdentifier>{a21d23ed-490a-4b3c-a60e-350a58971176}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libs\freetype-1.3.1\contrib\ttf2pk\data">
+      <UniqueIdentifier>{8f8e410c-e18c-4122-9bbf-72a972b1380e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libs\freetype-1.3.1\contrib\ttf2pk\scripts\web2c-7.2">
+      <UniqueIdentifier>{8602bcdc-b8f2-45a6-ac48-1007366f4af8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libs\freetype-1.3.1\contrib\ttf2pk\scripts\web2c-7.1">
+      <UniqueIdentifier>{7eb11864-a882-414c-ab32-acce2f25fe2f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libs\freetype-1.3.1\contrib\ttf2pk\scripts\web2c-7.0">
+      <UniqueIdentifier>{7991776a-0b1e-40ab-a201-8a35a337da86}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libs\freetype-1.3.1\contrib\ttf2pk\scripts\web2c-6.1">
+      <UniqueIdentifier>{ac4ff2d4-aa60-44f7-9eb2-0086a45b2808}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libs\freetype-1.3.1\contrib\ttf2pk\scripts\teTeX-0.4">
+      <UniqueIdentifier>{c94201bf-0394-4b0c-a012-0e09f312d914}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libs\freetype-1.3.1\contrib\ttf2bdf\maps">
+      <UniqueIdentifier>{e6896f85-7216-4efd-a306-d80becd03b48}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libs\freetype-1.3.1\contrib\ttf2bdf\contrib">
+      <UniqueIdentifier>{fcee7524-3b69-4aa7-8ee4-69809617dcdd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libs\freetype-1.3.1\contrib\ftos2\ifi">
+      <UniqueIdentifier>{bae37abe-ff41-478d-ae3c-467a8db32374}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libs\freetype-1.3.1\contrib\ftos2\lib">
+      <UniqueIdentifier>{1e4efab9-92ee-411a-a70a-3a49eb8219d1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libs\anet\win">
+      <UniqueIdentifier>{c46107e8-87be-4486-b41e-895c06dd42d2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libs\anet\src">
+      <UniqueIdentifier>{41e4caf6-1694-4bf4-8706-7d4a98c27e24}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libs\anet\macros">
+      <UniqueIdentifier>{e22d6b29-fb34-46d8-aa20-30390f9339d4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libs\anet\h">
+      <UniqueIdentifier>{944bba8c-0751-44b3-a274-d6b7f12a65a8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libs\anet\doc">
+      <UniqueIdentifier>{bfbf6579-82b5-4474-998a-0177725b6b76}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libs\anet\demo">
+      <UniqueIdentifier>{324e1f9e-7922-4d5b-8b50-1d2f590718e3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libs\anet\win\bin">
+      <UniqueIdentifier>{fd039a16-9b71-480e-b301-2b3bc0dce0f5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libs\anet\win\dll">
+      <UniqueIdentifier>{385e8097-898e-420a-8600-99237fbc2f2b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libs\anet\win\lib">
+      <UniqueIdentifier>{022ac3f1-a919-4c6f-9abb-2a56e7004ccd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libs\anet\win\bin\chat">
+      <UniqueIdentifier>{5720c017-c73d-4d1e-9da4-474de941c642}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libs\anet\src\3rdparty">
+      <UniqueIdentifier>{b9fa071e-3c5f-4b19-8d3a-612d66255d89}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libs\anet\src\aeh">
+      <UniqueIdentifier>{8b61df03-60ec-4907-a684-723c745178d4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libs\anet\src\antp">
+      <UniqueIdentifier>{4c26c213-9469-44b0-b840-e237768f3f75}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libs\anet\src\bhttp">
+      <UniqueIdentifier>{6e89240a-4e84-47e3-8dac-7e819f3b2fc6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libs\anet\src\demo">
+      <UniqueIdentifier>{0276b036-4032-40fa-b2c7-0e14374c3fe7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libs\anet\src\doc">
+      <UniqueIdentifier>{05e027da-aced-4510-87e0-1debd3252689}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libs\anet\src\dp">
+      <UniqueIdentifier>{52e4968b-849a-46de-8087-110fccdebcac}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libs\anet\src\java">
+      <UniqueIdentifier>{9dae6710-1c46-4b77-9769-47da88d1ae09}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libs\anet\src\linux">
+      <UniqueIdentifier>{6e743aba-4715-4462-a36c-ef41c36fbc36}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libs\anet\src\mac">
+      <UniqueIdentifier>{c5257b32-4d9d-4d88-bc71-c08a4bbd5c8b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libs\anet\src\rembld">
+      <UniqueIdentifier>{d2640d8e-a409-4e33-925f-d2b2e66cfbab}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libs\anet\src\sbd">
+      <UniqueIdentifier>{8b6ba8d8-8fd1-4807-86a4-9ec45286ae28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libs\anet\src\score">
+      <UniqueIdentifier>{12900e32-3e89-424d-9e00-a0960ea6b586}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libs\anet\src\tca">
+      <UniqueIdentifier>{14996177-b591-4991-9efc-b0ac740df716}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libs\anet\src\test">
+      <UniqueIdentifier>{f6be8b37-7258-40af-ac86-287cd7d1599d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libs\anet\src\win">
+      <UniqueIdentifier>{0af717f3-8368-4bfc-90b0-4fedf0cdec20}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libs\anet\demo\band">
+      <UniqueIdentifier>{8775207f-55fb-4a45-9c91-2ed32c31fbb5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libs\anet\demo\chat">
+      <UniqueIdentifier>{549e1b5e-864f-4d18-9491-ac4215a6893d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libs\anet\demo\crash">
+      <UniqueIdentifier>{8b840224-9fd2-4119-940e-e0882725bdd6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libs\anet\demo\gtest">
+      <UniqueIdentifier>{0911f7b1-c252-413c-ad66-2dbf3d38187a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libs\anet\demo\porttest">
+      <UniqueIdentifier>{353bbf0d-bb71-4385-8296-3148c9e1c13c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libs\anet\demo\pvtest">
+      <UniqueIdentifier>{0728ea7b-9003-437f-982b-5b5276eae9a7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libs\anet\demo\stattest">
+      <UniqueIdentifier>{9205fe0b-700b-4c3e-9a2e-c896905a3dd1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libs\anet\demo\utils">
+      <UniqueIdentifier>{ca9d1e6f-0377-4e0c-97bc-191cf21220e1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="gs">
+      <UniqueIdentifier>{7e99936a-5d3e-42cc-be8e-67b4d245b600}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="gs\database">
+      <UniqueIdentifier>{7e1a7eea-8245-4424-973b-2c3f1cf001b5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="gs\dbgen">
+      <UniqueIdentifier>{9849550c-b2ac-4d16-b7d2-59b233632117}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="gs\events">
+      <UniqueIdentifier>{00aac18f-2263-4b72-9901-37d448d24da0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="gs\fileio">
+      <UniqueIdentifier>{6bb89d3a-8f33-4872-8b11-6a7182decac3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="gs\gameobj">
+      <UniqueIdentifier>{d69b2ad9-59a2-4b07-8778-04f2c9157148}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="gs\newdb">
+      <UniqueIdentifier>{e727c298-dc36-4ab5-b040-632ed7eb12f5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="gs\outcom">
+      <UniqueIdentifier>{afd2f009-7245-4633-aabe-d9daa6d1f8b2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="gs\slic">
+      <UniqueIdentifier>{b7781d2b-f044-4c79-bcd1-b887c9304d16}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="gs\utility">
+      <UniqueIdentifier>{4276ee43-1e36-4d7c-8508-f809ba504094}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="gs\world">
+      <UniqueIdentifier>{2b1a2de2-ae8d-41f7-9618-75941cfd3fae}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="gfx">
+      <UniqueIdentifier>{98241946-e124-4f7b-8b64-28392444570d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="gfx\gfx_utils">
+      <UniqueIdentifier>{0540d1ac-5e92-43af-ac93-d7c1de13fffe}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="gfx\layers">
+      <UniqueIdentifier>{9804f672-ea24-4e3f-a029-2cf94dfed11c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="gfx\spritesys">
+      <UniqueIdentifier>{91ac1213-6a0b-4526-bc36-d1f121b2788b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="gfx\tilesys">
+      <UniqueIdentifier>{5fc43285-89d6-4534-83c6-f1017b9dfd08}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ctp">
+      <UniqueIdentifier>{2e1ad9b7-d1e1-477e-8402-6659ed35837c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ctp\ctp2_rsrc">
+      <UniqueIdentifier>{eb494a8b-7ec3-4fac-a6b6-d003467dbd05}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ctp\ctp2_utils">
+      <UniqueIdentifier>{de98a51e-4e1f-4613-bc4e-430efc558b79}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ctp\debugtools">
+      <UniqueIdentifier>{4a8c3d9d-dba7-4e38-976f-54de5546705f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ctp\dll">
+      <UniqueIdentifier>{c19341b0-c47d-49a5-9a45-583be9879604}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ctp\fingerprint">
+      <UniqueIdentifier>{2d8aeeb0-7e55-4293-9925-39847e6abfdf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ctp\dll\util">
+      <UniqueIdentifier>{7edc1489-1b4c-49e2-a241-f4419d62f210}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ctp\dll\net">
+      <UniqueIdentifier>{0413fe51-ae1b-4ef2-82c2-18cd4db58abf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ai">
+      <UniqueIdentifier>{8a58601e-576e-4a84-8cb2-9fc996b65302}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ai\strategy">
+      <UniqueIdentifier>{712ec0d1-aba4-4400-8ffd-62a437e8b8a5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ai\personality">
+      <UniqueIdentifier>{2736be2a-17c4-4552-800a-7637dde24bce}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ai\mapanalysis">
+      <UniqueIdentifier>{fac6e255-8218-40d1-8c85-408ed4f353da}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ai\diplomacy_test">
+      <UniqueIdentifier>{dd0a16e3-db30-46d2-ad0c-040b0058075b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ai\diplomacy">
+      <UniqueIdentifier>{1c0bca19-9692-4841-801e-f26ed4d40681}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ai\ctp2">
+      <UniqueIdentifier>{c7513aed-952f-41f5-9cba-f5664eb44e6f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ai\CityManagement">
+      <UniqueIdentifier>{bfa2894b-cb55-4a1d-b8ca-85c5ac3a1fa2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ai\strategy\squads">
+      <UniqueIdentifier>{0ed86032-acee-461c-aec0-04262f23ab25}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ai\strategy\scheduler">
+      <UniqueIdentifier>{fa0822b3-9c3a-44dc-a491-3b86630e846f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ai\strategy\goals">
+      <UniqueIdentifier>{c3269ba3-3638-45b6-b5ed-db40fc5e359c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ai\strategy\agents">
+      <UniqueIdentifier>{4e622d62-59ac-49fd-9da8-c45ee21d8d49}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ai\diplomacy_test\diptest">
+      <UniqueIdentifier>{016b58b1-f265-49d6-8295-739dcb7dac33}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -3178,6 +5821,948 @@
     <None Include="libs\freetype-1.3.1\po\POTFILES.in">
       <Filter>libs\freetype-1.3.1\po</Filter>
     </None>
+    <None Include="libs\freetype-1.3.1\pascal\lib\freetype.pas">
+      <Filter>libs\freetype-1.3.1\pascal\lib</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\pascal\lib\ttcache.pas">
+      <Filter>libs\freetype-1.3.1\pascal\lib</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\pascal\lib\ttcalc.pas">
+      <Filter>libs\freetype-1.3.1\pascal\lib</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\pascal\lib\ttcalc1.inc">
+      <Filter>libs\freetype-1.3.1\pascal\lib</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\pascal\lib\ttcalc2.inc">
+      <Filter>libs\freetype-1.3.1\pascal\lib</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\pascal\lib\ttcalc3.inc">
+      <Filter>libs\freetype-1.3.1\pascal\lib</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\pascal\lib\ttcalc4.inc">
+      <Filter>libs\freetype-1.3.1\pascal\lib</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\pascal\lib\ttcmap.pas">
+      <Filter>libs\freetype-1.3.1\pascal\lib</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\pascal\lib\ttconfig.inc">
+      <Filter>libs\freetype-1.3.1\pascal\lib</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\pascal\lib\ttdebug.pas">
+      <Filter>libs\freetype-1.3.1\pascal\lib</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\pascal\lib\tterror.pas">
+      <Filter>libs\freetype-1.3.1\pascal\lib</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\pascal\lib\ttfile.pas">
+      <Filter>libs\freetype-1.3.1\pascal\lib</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\pascal\lib\ttgload.pas">
+      <Filter>libs\freetype-1.3.1\pascal\lib</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\pascal\lib\ttinterp.pas">
+      <Filter>libs\freetype-1.3.1\pascal\lib</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\pascal\lib\ttload.pas">
+      <Filter>libs\freetype-1.3.1\pascal\lib</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\pascal\lib\ttmemory.pas">
+      <Filter>libs\freetype-1.3.1\pascal\lib</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\pascal\lib\ttobjs.pas">
+      <Filter>libs\freetype-1.3.1\pascal\lib</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\pascal\lib\ttraster.pas">
+      <Filter>libs\freetype-1.3.1\pascal\lib</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\pascal\lib\tttables.pas">
+      <Filter>libs\freetype-1.3.1\pascal\lib</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\pascal\lib\tttypes.pas">
+      <Filter>libs\freetype-1.3.1\pascal\lib</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\pascal\test\codetv.pas">
+      <Filter>libs\freetype-1.3.1\pascal\test</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\pascal\test\common.pas">
+      <Filter>libs\freetype-1.3.1\pascal\test</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\pascal\test\debugger.inc">
+      <Filter>libs\freetype-1.3.1\pascal\test</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\pascal\test\debugger.pas">
+      <Filter>libs\freetype-1.3.1\pascal\test</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\pascal\test\dump.pas">
+      <Filter>libs\freetype-1.3.1\pascal\test</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\pascal\test\gdriver.pas">
+      <Filter>libs\freetype-1.3.1\pascal\test</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\pascal\test\gdrv_dos.inc">
+      <Filter>libs\freetype-1.3.1\pascal\test</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\pascal\test\gdrv_os2.inc">
+      <Filter>libs\freetype-1.3.1\pascal\test</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\pascal\test\gevents.pas">
+      <Filter>libs\freetype-1.3.1\pascal\test</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\pascal\test\gmain.pas">
+      <Filter>libs\freetype-1.3.1\pascal\test</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\pascal\test\lint.pas">
+      <Filter>libs\freetype-1.3.1\pascal\test</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\pascal\test\stacktv.pas">
+      <Filter>libs\freetype-1.3.1\pascal\test</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\pascal\test\statetv.pas">
+      <Filter>libs\freetype-1.3.1\pascal\test</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\pascal\test\timer.pas">
+      <Filter>libs\freetype-1.3.1\pascal\test</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\pascal\test\view.pas">
+      <Filter>libs\freetype-1.3.1\pascal\test</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\pascal\test\zonetv.pas">
+      <Filter>libs\freetype-1.3.1\pascal\test</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\lib\.cvsignore">
+      <Filter>libs\freetype-1.3.1\lib</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\lib\extend\readme.1st">
+      <Filter>libs\freetype-1.3.1\lib\extend</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\lib\arch\win16\depend.win">
+      <Filter>libs\freetype-1.3.1\lib\arch\win16</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\lib\arch\win16\makedef">
+      <Filter>libs\freetype-1.3.1\lib\arch\win16</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\lib\arch\win16\makedep">
+      <Filter>libs\freetype-1.3.1\lib\arch\win16</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\lib\arch\win16\Makefile.BC">
+      <Filter>libs\freetype-1.3.1\lib\arch\win16</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\lib\arch\win16\Makefile.MS">
+      <Filter>libs\freetype-1.3.1\lib\arch\win16</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\lib\arch\win16\Makefile.VC">
+      <Filter>libs\freetype-1.3.1\lib\arch\win16</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\lib\arch\win16\ttf.def">
+      <Filter>libs\freetype-1.3.1\lib\arch\win16</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\docs\credits">
+      <Filter>libs\freetype-1.3.1\docs</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\docs\FAQ">
+      <Filter>libs\freetype-1.3.1\docs</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\docs\freetype.lsm">
+      <Filter>libs\freetype-1.3.1\docs</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\docs\glyphs.htm">
+      <Filter>libs\freetype-1.3.1\docs</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\docs\TODO">
+      <Filter>libs\freetype-1.3.1\docs</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\contrib\win32\testw32.dsp">
+      <Filter>libs\freetype-1.3.1\contrib\win32</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\contrib\win32\testw32.dsw">
+      <Filter>libs\freetype-1.3.1\contrib\win32</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\contrib\win32\testw32.mak">
+      <Filter>libs\freetype-1.3.1\contrib\win32</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\contrib\win32\testw32.mdp">
+      <Filter>libs\freetype-1.3.1\contrib\win32</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\contrib\win32\res\testw32.rc2">
+      <Filter>libs\freetype-1.3.1\contrib\win32\res</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\contrib\ttfbanner\.cvsignore">
+      <Filter>libs\freetype-1.3.1\contrib\ttfbanner</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\contrib\ttfbanner\configure">
+      <Filter>libs\freetype-1.3.1\contrib\ttfbanner</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\contrib\ttfbanner\configure.in">
+      <Filter>libs\freetype-1.3.1\contrib\ttfbanner</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\contrib\ttfbanner\Makefile.emx">
+      <Filter>libs\freetype-1.3.1\contrib\ttfbanner</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\contrib\ttfbanner\Makefile.in">
+      <Filter>libs\freetype-1.3.1\contrib\ttfbanner</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\contrib\ttfbanner\README">
+      <Filter>libs\freetype-1.3.1\contrib\ttfbanner</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\contrib\ttf2pk\data\Big5.sfd">
+      <Filter>libs\freetype-1.3.1\contrib\ttf2pk\data</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\contrib\ttf2pk\data\ET5.enc">
+      <Filter>libs\freetype-1.3.1\contrib\ttf2pk\data</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\contrib\ttf2pk\data\EUC.sfd">
+      <Filter>libs\freetype-1.3.1\contrib\ttf2pk\data</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\contrib\ttf2pk\data\SJIS.sfd">
+      <Filter>libs\freetype-1.3.1\contrib\ttf2pk\data</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\contrib\ttf2pk\data\T1-WGL4.enc">
+      <Filter>libs\freetype-1.3.1\contrib\ttf2pk\data</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\contrib\ttf2pk\data\ttfonts.map">
+      <Filter>libs\freetype-1.3.1\contrib\ttf2pk\data</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\contrib\ttf2pk\data\UBg5plus.sfd">
+      <Filter>libs\freetype-1.3.1\contrib\ttf2pk\data</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\contrib\ttf2pk\data\UBig5.sfd">
+      <Filter>libs\freetype-1.3.1\contrib\ttf2pk\data</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\contrib\ttf2pk\data\UGB.sfd">
+      <Filter>libs\freetype-1.3.1\contrib\ttf2pk\data</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\contrib\ttf2pk\data\UGBK.sfd">
+      <Filter>libs\freetype-1.3.1\contrib\ttf2pk\data</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\contrib\ttf2pk\data\UJIS.sfd">
+      <Filter>libs\freetype-1.3.1\contrib\ttf2pk\data</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\contrib\ttf2pk\data\UKS.sfd">
+      <Filter>libs\freetype-1.3.1\contrib\ttf2pk\data</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\contrib\ttf2pk\data\Unicode.sfd">
+      <Filter>libs\freetype-1.3.1\contrib\ttf2pk\data</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\contrib\ttf2pk\data\VPS.rpl">
+      <Filter>libs\freetype-1.3.1\contrib\ttf2pk\data</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\contrib\ttf2pk\.cvsignore">
+      <Filter>libs\freetype-1.3.1\contrib\ttf2pk</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\contrib\ttf2pk\BUGS">
+      <Filter>libs\freetype-1.3.1\contrib\ttf2pk</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\contrib\ttf2pk\configure">
+      <Filter>libs\freetype-1.3.1\contrib\ttf2pk</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\contrib\ttf2pk\configure.in">
+      <Filter>libs\freetype-1.3.1\contrib\ttf2pk</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\contrib\ttf2pk\dvidrv.btm">
+      <Filter>libs\freetype-1.3.1\contrib\ttf2pk</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\contrib\ttf2pk\dvidrv.doc">
+      <Filter>libs\freetype-1.3.1\contrib\ttf2pk</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\contrib\ttf2pk\Makefile.dm">
+      <Filter>libs\freetype-1.3.1\contrib\ttf2pk</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\contrib\ttf2pk\Makefile.in">
+      <Filter>libs\freetype-1.3.1\contrib\ttf2pk</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\contrib\ttf2pk\MakeSub.in">
+      <Filter>libs\freetype-1.3.1\contrib\ttf2pk</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\contrib\ttf2pk\README">
+      <Filter>libs\freetype-1.3.1\contrib\ttf2pk</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\contrib\ttf2pk\TODO">
+      <Filter>libs\freetype-1.3.1\contrib\ttf2pk</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\contrib\ttf2pk\ttf2pk.1">
+      <Filter>libs\freetype-1.3.1\contrib\ttf2pk</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\contrib\ttf2pk\ttf2pk.doc">
+      <Filter>libs\freetype-1.3.1\contrib\ttf2pk</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\contrib\ttf2pk\ttf2tfm.1">
+      <Filter>libs\freetype-1.3.1\contrib\ttf2pk</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\contrib\ttf2pk\scripts\README">
+      <Filter>libs\freetype-1.3.1\contrib\ttf2pk\scripts</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\contrib\ttf2pk\scripts\web2c-7.2\mktexpk.diff">
+      <Filter>libs\freetype-1.3.1\contrib\ttf2pk\scripts\web2c-7.2</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\contrib\ttf2pk\scripts\web2c-7.1\README">
+      <Filter>libs\freetype-1.3.1\contrib\ttf2pk\scripts\web2c-7.1</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\contrib\ttf2pk\scripts\web2c-7.1\MakeTeXPK.diff">
+      <Filter>libs\freetype-1.3.1\contrib\ttf2pk\scripts\web2c-7.1</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\contrib\ttf2pk\scripts\web2c-7.0\MakeTeXPK.diff">
+      <Filter>libs\freetype-1.3.1\contrib\ttf2pk\scripts\web2c-7.0</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\contrib\ttf2pk\scripts\web2c-6.1\README">
+      <Filter>libs\freetype-1.3.1\contrib\ttf2pk\scripts\web2c-6.1</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\contrib\ttf2pk\scripts\web2c-6.1\MakeTeXPK.diff">
+      <Filter>libs\freetype-1.3.1\contrib\ttf2pk\scripts\web2c-6.1</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\contrib\ttf2pk\scripts\teTeX-0.4\MakeTeXPK.diff">
+      <Filter>libs\freetype-1.3.1\contrib\ttf2pk\scripts\teTeX-0.4</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\contrib\ttf2pfb\Uni-T1.enc">
+      <Filter>libs\freetype-1.3.1\contrib\ttf2pfb</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\contrib\ttf2pfb\TODO">
+      <Filter>libs\freetype-1.3.1\contrib\ttf2pfb</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\contrib\ttf2pfb\Makefile.in">
+      <Filter>libs\freetype-1.3.1\contrib\ttf2pfb</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\contrib\ttf2pfb\Makefile.emx">
+      <Filter>libs\freetype-1.3.1\contrib\ttf2pfb</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\contrib\ttf2pfb\getafm">
+      <Filter>libs\freetype-1.3.1\contrib\ttf2pfb</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\contrib\ttf2pfb\configure.in">
+      <Filter>libs\freetype-1.3.1\contrib\ttf2pfb</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\contrib\ttf2pfb\configure">
+      <Filter>libs\freetype-1.3.1\contrib\ttf2pfb</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\contrib\ttf2pfb\.cvsignore">
+      <Filter>libs\freetype-1.3.1\contrib\ttf2pfb</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\contrib\ttf2bdf\ttf2bdf.man">
+      <Filter>libs\freetype-1.3.1\contrib\ttf2bdf</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\contrib\ttf2bdf\README">
+      <Filter>libs\freetype-1.3.1\contrib\ttf2bdf</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\contrib\ttf2bdf\Makefile.in">
+      <Filter>libs\freetype-1.3.1\contrib\ttf2bdf</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\contrib\ttf2bdf\configure.in">
+      <Filter>libs\freetype-1.3.1\contrib\ttf2bdf</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\contrib\ttf2bdf\configure">
+      <Filter>libs\freetype-1.3.1\contrib\ttf2bdf</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\contrib\ttf2bdf\.cvsignore">
+      <Filter>libs\freetype-1.3.1\contrib\ttf2bdf</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\contrib\ttf2bdf\maps\windows.1251">
+      <Filter>libs\freetype-1.3.1\contrib\ttf2bdf\maps</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\contrib\ttf2bdf\maps\koi8.r">
+      <Filter>libs\freetype-1.3.1\contrib\ttf2bdf\maps</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\contrib\ttf2bdf\maps\iso8859.5">
+      <Filter>libs\freetype-1.3.1\contrib\ttf2bdf\maps</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\contrib\ttf2bdf\maps\iso8859.3">
+      <Filter>libs\freetype-1.3.1\contrib\ttf2bdf\maps</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\contrib\ttf2bdf\maps\iso8859.2">
+      <Filter>libs\freetype-1.3.1\contrib\ttf2bdf\maps</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\contrib\ttf2bdf\maps\iso8859.1">
+      <Filter>libs\freetype-1.3.1\contrib\ttf2bdf\maps</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\contrib\ttf2bdf\contrib\KOI2iso_pcf">
+      <Filter>libs\freetype-1.3.1\contrib\ttf2bdf\contrib</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\contrib\ttf2bdf\contrib\creatett.m">
+      <Filter>libs\freetype-1.3.1\contrib\ttf2bdf\contrib</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\contrib\ttf2bdf\contrib\creatett">
+      <Filter>libs\freetype-1.3.1\contrib\ttf2bdf\contrib</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\contrib\ftos2\uninstall.cmd">
+      <Filter>libs\freetype-1.3.1\contrib\ftos2</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\contrib\ftos2\readme.1st">
+      <Filter>libs\freetype-1.3.1\contrib\ftos2</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\contrib\ftos2\query.cmd">
+      <Filter>libs\freetype-1.3.1\contrib\ftos2</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\contrib\ftos2\limit.cmd">
+      <Filter>libs\freetype-1.3.1\contrib\ftos2</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\contrib\ftos2\install.cmd">
+      <Filter>libs\freetype-1.3.1\contrib\ftos2</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\contrib\ftos2\FAQ">
+      <Filter>libs\freetype-1.3.1\contrib\ftos2</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\contrib\ftos2\DEVELFAQ">
+      <Filter>libs\freetype-1.3.1\contrib\ftos2</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\contrib\ftos2\ifi\test.wat">
+      <Filter>libs\freetype-1.3.1\contrib\ftos2\ifi</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\contrib\ftos2\ifi\test.icc">
+      <Filter>libs\freetype-1.3.1\contrib\ftos2\ifi</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\contrib\ftos2\ifi\ftmem.icc">
+      <Filter>libs\freetype-1.3.1\contrib\ftos2\ifi</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\contrib\ftos2\ifi\FreeType.wat">
+      <Filter>libs\freetype-1.3.1\contrib\ftos2\ifi</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\contrib\ftos2\ifi\FreeType.icc">
+      <Filter>libs\freetype-1.3.1\contrib\ftos2\ifi</Filter>
+    </None>
+    <None Include="libs\freetype-1.3.1\contrib\ftos2\ifi\FreeType.def">
+      <Filter>libs\freetype-1.3.1\contrib\ftos2\ifi</Filter>
+    </None>
+    <None Include="libs\anet\configure.in">
+      <Filter>libs\anet</Filter>
+    </None>
+    <None Include="libs\anet\default.htm">
+      <Filter>libs\anet</Filter>
+    </None>
+    <None Include="libs\anet\GNUmakefile.am">
+      <Filter>libs\anet</Filter>
+    </None>
+    <None Include="libs\anet\index.html">
+      <Filter>libs\anet</Filter>
+    </None>
+    <None Include="libs\anet\INSTALL">
+      <Filter>libs\anet</Filter>
+    </None>
+    <None Include="libs\anet\LICENSE">
+      <Filter>libs\anet</Filter>
+    </None>
+    <None Include="libs\anet\Makefile">
+      <Filter>libs\anet</Filter>
+    </None>
+    <None Include="libs\anet\meson.build">
+      <Filter>libs\anet</Filter>
+    </None>
+    <None Include="libs\anet\README">
+      <Filter>libs\anet</Filter>
+    </None>
+    <None Include="libs\anet\README.modifications">
+      <Filter>libs\anet</Filter>
+    </None>
+    <None Include="libs\anet\win\dll\anet2.dll">
+      <Filter>libs\anet\win\dll</Filter>
+    </None>
+    <None Include="libs\anet\win\dll\anet2.map">
+      <Filter>libs\anet\win\dll</Filter>
+    </None>
+    <None Include="libs\anet\win\dll\anet2d.dll">
+      <Filter>libs\anet\win\dll</Filter>
+    </None>
+    <None Include="libs\anet\win\dll\anet2d.map">
+      <Filter>libs\anet\win\dll</Filter>
+    </None>
+    <None Include="libs\anet\win\dll\ANetj2.dll">
+      <Filter>libs\anet\win\dll</Filter>
+    </None>
+    <None Include="libs\anet\win\dll\ANetj2d.dll">
+      <Filter>libs\anet\win\dll</Filter>
+    </None>
+    <None Include="libs\anet\win\dll\dkupddll.dll">
+      <Filter>libs\anet\win\dll</Filter>
+    </None>
+    <None Include="libs\anet\win\dll\dkupddlld.dll">
+      <Filter>libs\anet\win\dll</Filter>
+    </None>
+    <None Include="libs\anet\win\dll\imagehlp.dll">
+      <Filter>libs\anet\win\dll</Filter>
+    </None>
+    <None Include="libs\anet\win\dll\msvcrt.dll">
+      <Filter>libs\anet\win\dll</Filter>
+    </None>
+    <None Include="libs\anet\win\dll\Updatej.dll">
+      <Filter>libs\anet\win\dll</Filter>
+    </None>
+    <None Include="libs\anet\win\dll\wdwango.dll">
+      <Filter>libs\anet\win\dll</Filter>
+    </None>
+    <None Include="libs\anet\win\dll\wdwangod.dll">
+      <Filter>libs\anet\win\dll</Filter>
+    </None>
+    <None Include="libs\anet\win\dll\wheat2.dll">
+      <Filter>libs\anet\win\dll</Filter>
+    </None>
+    <None Include="libs\anet\win\dll\wheat2d.dll">
+      <Filter>libs\anet\win\dll</Filter>
+    </None>
+    <None Include="libs\anet\win\dll\winet2.dll">
+      <Filter>libs\anet\win\dll</Filter>
+    </None>
+    <None Include="libs\anet\win\dll\winet2d.dll">
+      <Filter>libs\anet\win\dll</Filter>
+    </None>
+    <None Include="libs\anet\win\dll\winets2.dll">
+      <Filter>libs\anet\win\dll</Filter>
+    </None>
+    <None Include="libs\anet\win\dll\winets2.map">
+      <Filter>libs\anet\win\dll</Filter>
+    </None>
+    <None Include="libs\anet\win\dll\winets2d.dll">
+      <Filter>libs\anet\win\dll</Filter>
+    </None>
+    <None Include="libs\anet\win\dll\winets2d.map">
+      <Filter>libs\anet\win\dll</Filter>
+    </None>
+    <None Include="libs\anet\win\dll\wipx2.dll">
+      <Filter>libs\anet\win\dll</Filter>
+    </None>
+    <None Include="libs\anet\win\dll\wipx2d.dll">
+      <Filter>libs\anet\win\dll</Filter>
+    </None>
+    <None Include="libs\anet\win\dll\wloop2.dll">
+      <Filter>libs\anet\win\dll</Filter>
+    </None>
+    <None Include="libs\anet\win\dll\wloop2d.dll">
+      <Filter>libs\anet\win\dll</Filter>
+    </None>
+    <None Include="libs\anet\win\dll\wmodem2.dll">
+      <Filter>libs\anet\win\dll</Filter>
+    </None>
+    <None Include="libs\anet\win\dll\wmodem2d.dll">
+      <Filter>libs\anet\win\dll</Filter>
+    </None>
+    <None Include="libs\anet\win\dll\wmpath2.dll">
+      <Filter>libs\anet\win\dll</Filter>
+    </None>
+    <None Include="libs\anet\win\dll\wmpath2d.dll">
+      <Filter>libs\anet\win\dll</Filter>
+    </None>
+    <None Include="libs\anet\win\dll\wserial2.dll">
+      <Filter>libs\anet\win\dll</Filter>
+    </None>
+    <None Include="libs\anet\win\dll\wserial2d.dll">
+      <Filter>libs\anet\win\dll</Filter>
+    </None>
+    <None Include="libs\anet\win\dll\wudplan.dll">
+      <Filter>libs\anet\win\dll</Filter>
+    </None>
+    <None Include="libs\anet\win\dll\wudplan.map">
+      <Filter>libs\anet\win\dll</Filter>
+    </None>
+    <None Include="libs\anet\win\dll\wudpland.dll">
+      <Filter>libs\anet\win\dll</Filter>
+    </None>
+    <None Include="libs\anet\win\dll\wudpland.map">
+      <Filter>libs\anet\win\dll</Filter>
+    </None>
+    <None Include="libs\anet\win\bin\analcrsh.exe">
+      <Filter>libs\anet\win\bin</Filter>
+    </None>
+    <None Include="libs\anet\win\bin\analcrshd.exe">
+      <Filter>libs\anet\win\bin</Filter>
+    </None>
+    <None Include="libs\anet\win\bin\anetdrop.exe">
+      <Filter>libs\anet\win\bin</Filter>
+    </None>
+    <None Include="libs\anet\win\bin\anetdrop.map">
+      <Filter>libs\anet\win\bin</Filter>
+    </None>
+    <None Include="libs\anet\win\bin\anetdropd.exe">
+      <Filter>libs\anet\win\bin</Filter>
+    </None>
+    <None Include="libs\anet\win\bin\anetdropd.map">
+      <Filter>libs\anet\win\bin</Filter>
+    </None>
+    <None Include="libs\anet\win\bin\gtest2d.exe">
+      <Filter>libs\anet\win\bin</Filter>
+    </None>
+    <None Include="libs\anet\win\bin\gtest2d.map">
+      <Filter>libs\anet\win\bin</Filter>
+    </None>
+    <None Include="libs\anet\win\bin\gtest2dd.exe">
+      <Filter>libs\anet\win\bin</Filter>
+    </None>
+    <None Include="libs\anet\win\bin\gtest2dd.map">
+      <Filter>libs\anet\win\bin</Filter>
+    </None>
+    <None Include="libs\anet\win\bin\gtest2dr.exe">
+      <Filter>libs\anet\win\bin</Filter>
+    </None>
+    <None Include="libs\anet\win\bin\gtest2dr.map">
+      <Filter>libs\anet\win\bin</Filter>
+    </None>
+    <None Include="libs\anet\win\bin\gtest2r.exe">
+      <Filter>libs\anet\win\bin</Filter>
+    </None>
+    <None Include="libs\anet\win\bin\gtest2r.map">
+      <Filter>libs\anet\win\bin</Filter>
+    </None>
+    <None Include="libs\anet\win\bin\modcrc.exe">
+      <Filter>libs\anet\win\bin</Filter>
+    </None>
+    <None Include="libs\anet\win\bin\modcrcd.exe">
+      <Filter>libs\anet\win\bin</Filter>
+    </None>
+    <None Include="libs\anet\win\bin\procserv.exe">
+      <Filter>libs\anet\win\bin</Filter>
+    </None>
+    <None Include="libs\anet\win\bin\procservd.exe">
+      <Filter>libs\anet\win\bin</Filter>
+    </None>
+    <None Include="libs\anet\win\bin\chat\anet.inf">
+      <Filter>libs\anet\win\bin\chat</Filter>
+    </None>
+    <None Include="libs\anet\win\bin\chat\chat.exe">
+      <Filter>libs\anet\win\bin\chat</Filter>
+    </None>
+    <None Include="libs\anet\win\bin\chat\chat.map">
+      <Filter>libs\anet\win\bin\chat</Filter>
+    </None>
+    <None Include="libs\anet\win\bin\chat\chatd.exe">
+      <Filter>libs\anet\win\bin\chat</Filter>
+    </None>
+    <None Include="libs\anet\win\bin\chat\chatd.map">
+      <Filter>libs\anet\win\bin\chat</Filter>
+    </None>
+    <None Include="libs\anet\src\build.bat">
+      <Filter>libs\anet\src</Filter>
+    </None>
+    <None Include="libs\anet\src\eksclude">
+      <Filter>libs\anet\src</Filter>
+    </None>
+    <None Include="libs\anet\src\GNUmakefile.am">
+      <Filter>libs\anet\src</Filter>
+    </None>
+    <None Include="libs\anet\src\index.html">
+      <Filter>libs\anet\src</Filter>
+    </None>
+    <None Include="libs\anet\src\makefile">
+      <Filter>libs\anet\src</Filter>
+    </None>
+    <None Include="libs\anet\src\mkzip.bat">
+      <Filter>libs\anet\src</Filter>
+    </None>
+    <None Include="libs\anet\src\readme">
+      <Filter>libs\anet\src</Filter>
+    </None>
+    <None Include="libs\anet\macros\anet_internal.m4">
+      <Filter>libs\anet\macros</Filter>
+    </None>
+    <None Include="libs\anet\h\adoc.pl">
+      <Filter>libs\anet\h</Filter>
+    </None>
+    <None Include="libs\anet\doc\aeh.htm">
+      <Filter>libs\anet\doc</Filter>
+    </None>
+    <None Include="libs\anet\doc\anet_inf.htm">
+      <Filter>libs\anet\doc</Filter>
+    </None>
+    <None Include="libs\anet\doc\commdll.htm">
+      <Filter>libs\anet\doc</Filter>
+    </None>
+    <None Include="libs\anet\doc\dp.htm">
+      <Filter>libs\anet\doc</Filter>
+    </None>
+    <None Include="libs\anet\doc\dpio.htm">
+      <Filter>libs\anet\doc</Filter>
+    </None>
+    <None Include="libs\anet\doc\gtest.htm">
+      <Filter>libs\anet\doc</Filter>
+    </None>
+    <None Include="libs\anet\doc\index.html">
+      <Filter>libs\anet\doc</Filter>
+    </None>
+    <None Include="libs\anet\doc\notes.htm">
+      <Filter>libs\anet\doc</Filter>
+    </None>
+    <None Include="libs\anet\doc\overview.htm">
+      <Filter>libs\anet\doc</Filter>
+    </None>
+    <None Include="libs\anet\doc\ppp1.htm">
+      <Filter>libs\anet\doc</Filter>
+    </None>
+    <None Include="libs\anet\doc\server.htm">
+      <Filter>libs\anet\doc</Filter>
+    </None>
+    <None Include="libs\anet\doc\services.htm">
+      <Filter>libs\anet\doc</Filter>
+    </None>
+    <None Include="libs\anet\doc\shell.htm">
+      <Filter>libs\anet\doc</Filter>
+    </None>
+    <None Include="libs\anet\doc\testing.htm">
+      <Filter>libs\anet\doc</Filter>
+    </None>
+    <None Include="libs\anet\demo\clean.bat">
+      <Filter>libs\anet\demo</Filter>
+    </None>
+    <None Include="libs\anet\demo\index.html">
+      <Filter>libs\anet\demo</Filter>
+    </None>
+    <None Include="libs\anet\demo\macbuild.sit">
+      <Filter>libs\anet\demo</Filter>
+    </None>
+    <None Include="gs\database\Makefile.am">
+      <Filter>gs\database</Filter>
+    </None>
+    <None Include="gs\dbgen\ctpdb.l">
+      <Filter>gs\dbgen</Filter>
+    </None>
+    <None Include="gs\dbgen\ctpdb.y">
+      <Filter>gs\dbgen</Filter>
+    </None>
+    <None Include="gs\dbgen\dbgen.dsp">
+      <Filter>gs\dbgen</Filter>
+    </None>
+    <None Include="gs\dbgen\dbgen.vcxproj">
+      <Filter>gs\dbgen</Filter>
+    </None>
+    <None Include="gs\dbgen\Makefile.am">
+      <Filter>gs\dbgen</Filter>
+    </None>
+    <None Include="gs\dbgen\records.cdb">
+      <Filter>gs\dbgen</Filter>
+    </None>
+    <None Include="gs\events\Makefile.am">
+      <Filter>gs\events</Filter>
+    </None>
+    <None Include="gs\fileio\Makefile.am">
+      <Filter>gs\fileio</Filter>
+    </None>
+    <None Include="gs\gameobj\Makefile.am">
+      <Filter>gs\gameobj</Filter>
+    </None>
+    <None Include="gs\newdb\advance.cdb">
+      <Filter>gs\newdb</Filter>
+    </None>
+    <None Include="gs\newdb\age.cdb">
+      <Filter>gs\newdb</Filter>
+    </None>
+    <None Include="gs\newdb\building.cdb">
+      <Filter>gs\newdb</Filter>
+    </None>
+    <None Include="gs\newdb\citysize.cdb">
+      <Filter>gs\newdb</Filter>
+    </None>
+    <None Include="gs\newdb\citystyle.cdb">
+      <Filter>gs\newdb</Filter>
+    </None>
+    <None Include="gs\newdb\Civilisation.cdb">
+      <Filter>gs\newdb</Filter>
+    </None>
+    <None Include="gs\newdb\Concept.cdb">
+      <Filter>gs\newdb</Filter>
+    </None>
+    <None Include="gs\newdb\Const.cdb">
+      <Filter>gs\newdb</Filter>
+    </None>
+    <None Include="gs\newdb\culture.cdb">
+      <Filter>gs\newdb</Filter>
+    </None>
+    <None Include="gs\newdb\DBLexer.l">
+      <Filter>gs\newdb</Filter>
+    </None>
+    <None Include="gs\newdb\Difficulty.cdb">
+      <Filter>gs\newdb</Filter>
+    </None>
+    <None Include="gs\newdb\diplomacy.cdb">
+      <Filter>gs\newdb</Filter>
+    </None>
+    <None Include="gs\newdb\DiplomacyProposal.cdb">
+      <Filter>gs\newdb</Filter>
+    </None>
+    <None Include="gs\newdb\DiplomacyThreat.cdb">
+      <Filter>gs\newdb</Filter>
+    </None>
+    <None Include="gs\newdb\EndGameObject.cdb">
+      <Filter>gs\newdb</Filter>
+    </None>
+    <None Include="gs\newdb\feat.cdb">
+      <Filter>gs\newdb</Filter>
+    </None>
+    <None Include="gs\newdb\GlobalWarming.cdb">
+      <Filter>gs\newdb</Filter>
+    </None>
+    <None Include="gs\newdb\goal.cdb">
+      <Filter>gs\newdb</Filter>
+    </None>
+    <None Include="gs\newdb\government.cdb">
+      <Filter>gs\newdb</Filter>
+    </None>
+    <None Include="gs\newdb\icon.cdb">
+      <Filter>gs\newdb</Filter>
+    </None>
+    <None Include="gs\newdb\Leader.cdb">
+      <Filter>gs\newdb</Filter>
+    </None>
+    <None Include="gs\newdb\Makefile.am">
+      <Filter>gs\newdb</Filter>
+    </None>
+    <None Include="gs\newdb\Map.cdb">
+      <Filter>gs\newdb</Filter>
+    </None>
+    <None Include="gs\newdb\order.cdb">
+      <Filter>gs\newdb</Filter>
+    </None>
+    <None Include="gs\newdb\personality.cdb">
+      <Filter>gs\newdb</Filter>
+    </None>
+    <None Include="gs\newdb\Pollution.cdb">
+      <Filter>gs\newdb</Filter>
+    </None>
+    <None Include="gs\newdb\pop.cdb">
+      <Filter>gs\newdb</Filter>
+    </None>
+    <None Include="gs\newdb\religion.cdb">
+      <Filter>gs\newdb</Filter>
+    </None>
+    <None Include="gs\newdb\Risk.cdb">
+      <Filter>gs\newdb</Filter>
+    </None>
+    <None Include="gs\newdb\strategy.cdb">
+      <Filter>gs\newdb</Filter>
+    </None>
+    <None Include="gs\newdb\terrain.cdb">
+      <Filter>gs\newdb</Filter>
+    </None>
+    <None Include="gs\newdb\TerrainImprovement.cdb">
+      <Filter>gs\newdb</Filter>
+    </None>
+    <None Include="gs\newdb\unit.cdb">
+      <Filter>gs\newdb</Filter>
+    </None>
+    <None Include="gs\newdb\unitpromotion.cdb">
+      <Filter>gs\newdb</Filter>
+    </None>
+    <None Include="gs\newdb\wonder.cdb">
+      <Filter>gs\newdb</Filter>
+    </None>
+    <None Include="gs\outcom\Makefile.am">
+      <Filter>gs\outcom</Filter>
+    </None>
+    <None Include="gs\slic\Makefile.am">
+      <Filter>gs\slic</Filter>
+    </None>
+    <None Include="gs\slic\slic.l">
+      <Filter>gs\slic</Filter>
+    </None>
+    <None Include="gs\slic\slic.y">
+      <Filter>gs\slic</Filter>
+    </None>
+    <None Include="gs\slic\sliccmd.l">
+      <Filter>gs\slic</Filter>
+    </None>
+    <None Include="gs\slic\sliccmd.y">
+      <Filter>gs\slic</Filter>
+    </None>
+    <None Include="gs\utility\Makefile.am">
+      <Filter>gs\utility</Filter>
+    </None>
+    <None Include="gs\world\Makefile.am">
+      <Filter>gs\world</Filter>
+    </None>
+    <None Include="gfx\gfx_utils\Makefile.am">
+      <Filter>gfx\gfx_utils</Filter>
+    </None>
+    <None Include="gfx\layers\Makefile.am">
+      <Filter>gfx\layers</Filter>
+    </None>
+    <None Include="gfx\spritesys\Makefile.am">
+      <Filter>gfx\spritesys</Filter>
+    </None>
+    <None Include="gfx\tilesys\Makefile.am">
+      <Filter>gfx\tilesys</Filter>
+    </None>
+    <None Include="ctp\anet2.dll">
+      <Filter>ctp</Filter>
+    </None>
+    <None Include="ctp\anet2d.dll">
+      <Filter>ctp</Filter>
+    </None>
+    <None Include="ctp\gamewatch.dll">
+      <Filter>ctp</Filter>
+    </None>
+    <None Include="ctp\gwciv.dll">
+      <Filter>ctp</Filter>
+    </None>
+    <None Include="ctp\gwfile.dll">
+      <Filter>ctp</Filter>
+    </None>
+    <None Include="ctp\jpeg62.dll">
+      <Filter>ctp</Filter>
+    </None>
+    <None Include="ctp\libtiff3.dll">
+      <Filter>ctp</Filter>
+    </None>
+    <None Include="ctp\zlib1.dll">
+      <Filter>ctp</Filter>
+    </None>
+    <None Include="ctp\civctp.dsp">
+      <Filter>ctp</Filter>
+    </None>
+    <None Include="ctp\civctp.dsw">
+      <Filter>ctp</Filter>
+    </None>
+    <None Include="ctp\anet.inf">
+      <Filter>ctp</Filter>
+    </None>
+    <None Include="ctp\anet2.map">
+      <Filter>ctp</Filter>
+    </None>
+    <None Include="ctp\anet2d.map">
+      <Filter>ctp</Filter>
+    </None>
+    <None Include="ctp\debugtools\Timer.dev">
+      <Filter>ctp\debugtools</Filter>
+    </None>
+    <None Include="ctp\debugtools\Makefile.win">
+      <Filter>ctp\debugtools</Filter>
+    </None>
+    <None Include="ctp\dll\net\wudpland.map">
+      <Filter>ctp\dll\net</Filter>
+    </None>
+    <None Include="ctp\dll\net\wudpland.dll">
+      <Filter>ctp\dll\net</Filter>
+    </None>
+    <None Include="ctp\dll\net\wudplan.map">
+      <Filter>ctp\dll\net</Filter>
+    </None>
+    <None Include="ctp\dll\net\wudplan.dll">
+      <Filter>ctp\dll\net</Filter>
+    </None>
+    <None Include="ctp\dll\net\wipx2d.dll">
+      <Filter>ctp\dll\net</Filter>
+    </None>
+    <None Include="ctp\dll\net\wipx2.dll">
+      <Filter>ctp\dll\net</Filter>
+    </None>
+    <None Include="ctp\dll\net\winets2d.map">
+      <Filter>ctp\dll\net</Filter>
+    </None>
+    <None Include="ctp\dll\net\winets2d.dll">
+      <Filter>ctp\dll\net</Filter>
+    </None>
+    <None Include="ctp\dll\net\winets2.map">
+      <Filter>ctp\dll\net</Filter>
+    </None>
+    <None Include="ctp\dll\net\winets2.dll">
+      <Filter>ctp\dll\net</Filter>
+    </None>
+    <None Include="ctp\dll\util\dxver.dll">
+      <Filter>ctp\dll\util</Filter>
+    </None>
+    <None Include="ctp\dll\util\cpuinf32.dll">
+      <Filter>ctp\dll\util</Filter>
+    </None>
+    <None Include="ctp\fingerprint\listmod.exe">
+      <Filter>ctp\fingerprint</Filter>
+    </None>
+    <None Include="ctp\fingerprint\default.apl">
+      <Filter>ctp\fingerprint</Filter>
+    </None>
+    <None Include="ai\diplomacy_test\diptest\diptest.dsp">
+      <Filter>ai\diplomacy_test\diptest</Filter>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <Library Include="ui\freetype\freetype.lib">
@@ -3195,6 +6780,24 @@
     <Library Include="libs\miles\mss32.lib">
       <Filter>libs\miles</Filter>
     </Library>
+    <Library Include="libs\anet\win\lib\anet2.lib">
+      <Filter>libs\anet\win\lib</Filter>
+    </Library>
+    <Library Include="libs\anet\win\lib\anet2d.lib">
+      <Filter>libs\anet\win\lib</Filter>
+    </Library>
+    <Library Include="libs\anet\win\lib\dkupddll.lib">
+      <Filter>libs\anet\win\lib</Filter>
+    </Library>
+    <Library Include="libs\anet\win\lib\dkupddlld.lib">
+      <Filter>libs\anet\win\lib</Filter>
+    </Library>
+    <Library Include="libs\anet\win\lib\dp2.lib">
+      <Filter>libs\anet\win\lib</Filter>
+    </Library>
+    <Library Include="libs\anet\win\lib\dp2d.lib">
+      <Filter>libs\anet\win\lib</Filter>
+    </Library>
   </ItemGroup>
   <ItemGroup>
     <Text Include="ui\freetype\license.txt">
@@ -3203,5 +6806,177 @@
     <Text Include="libs\freetype-1.3.1\license.txt">
       <Filter>libs\freetype-1.3.1</Filter>
     </Text>
+    <Text Include="libs\freetype-1.3.1\howto\mac.txt">
+      <Filter>libs\freetype-1.3.1\howto</Filter>
+    </Text>
+    <Text Include="libs\freetype-1.3.1\howto\msdos.txt">
+      <Filter>libs\freetype-1.3.1\howto</Filter>
+    </Text>
+    <Text Include="libs\freetype-1.3.1\howto\os2.txt">
+      <Filter>libs\freetype-1.3.1\howto</Filter>
+    </Text>
+    <Text Include="libs\freetype-1.3.1\howto\unix.txt">
+      <Filter>libs\freetype-1.3.1\howto</Filter>
+    </Text>
+    <Text Include="libs\freetype-1.3.1\howto\windows.txt">
+      <Filter>libs\freetype-1.3.1\howto</Filter>
+    </Text>
+    <Text Include="libs\freetype-1.3.1\docs\apiref.txt">
+      <Filter>libs\freetype-1.3.1\docs</Filter>
+    </Text>
+    <Text Include="libs\freetype-1.3.1\docs\apirefx.txt">
+      <Filter>libs\freetype-1.3.1\docs</Filter>
+    </Text>
+    <Text Include="libs\freetype-1.3.1\docs\bitmaps.txt">
+      <Filter>libs\freetype-1.3.1\docs</Filter>
+    </Text>
+    <Text Include="libs\freetype-1.3.1\docs\changes.txt">
+      <Filter>libs\freetype-1.3.1\docs</Filter>
+    </Text>
+    <Text Include="libs\freetype-1.3.1\docs\convntns.txt">
+      <Filter>libs\freetype-1.3.1\docs</Filter>
+    </Text>
+    <Text Include="libs\freetype-1.3.1\docs\glyphs.txt">
+      <Filter>libs\freetype-1.3.1\docs</Filter>
+    </Text>
+    <Text Include="libs\freetype-1.3.1\docs\i18n.txt">
+      <Filter>libs\freetype-1.3.1\docs</Filter>
+    </Text>
+    <Text Include="libs\freetype-1.3.1\docs\optimize.txt">
+      <Filter>libs\freetype-1.3.1\docs</Filter>
+    </Text>
+    <Text Include="libs\freetype-1.3.1\docs\porting.txt">
+      <Filter>libs\freetype-1.3.1\docs</Filter>
+    </Text>
+    <Text Include="libs\freetype-1.3.1\docs\raster.txt">
+      <Filter>libs\freetype-1.3.1\docs</Filter>
+    </Text>
+    <Text Include="libs\freetype-1.3.1\docs\readme.txt">
+      <Filter>libs\freetype-1.3.1\docs</Filter>
+    </Text>
+    <Text Include="libs\freetype-1.3.1\docs\threads.txt">
+      <Filter>libs\freetype-1.3.1\docs</Filter>
+    </Text>
+    <Text Include="libs\freetype-1.3.1\docs\user.txt">
+      <Filter>libs\freetype-1.3.1\docs</Filter>
+    </Text>
+    <Text Include="libs\freetype-1.3.1\contrib\win32\readme.txt">
+      <Filter>libs\freetype-1.3.1\contrib\win32</Filter>
+    </Text>
+    <Text Include="libs\freetype-1.3.1\contrib\ftos2\readme.txt">
+      <Filter>libs\freetype-1.3.1\contrib\ftos2</Filter>
+    </Text>
+    <Text Include="libs\anet\win\dll\update.txt">
+      <Filter>libs\anet\win\dll</Filter>
+    </Text>
+    <Text Include="libs\anet\doc\bootserv.txt">
+      <Filter>libs\anet\doc</Filter>
+    </Text>
+    <Text Include="ctp\appstr.txt">
+      <Filter>ctp</Filter>
+    </Text>
+    <Text Include="ctp\bootserv.txt">
+      <Filter>ctp</Filter>
+    </Text>
+    <Text Include="ctp\civpaths.txt">
+      <Filter>ctp</Filter>
+    </Text>
+    <Text Include="ctp\disclaimer.txt">
+      <Filter>ctp</Filter>
+    </Text>
+    <Text Include="ctp\fingerprint\readme.txt">
+      <Filter>ctp\fingerprint</Filter>
+    </Text>
+    <Text Include="ai\strategy\scheduler\Scheduler.txt">
+      <Filter>ai\strategy\scheduler</Filter>
+    </Text>
+    <Text Include="ai\strategy\scheduler\README.txt">
+      <Filter>ai\strategy\scheduler</Filter>
+    </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="libs\freetype-1.3.1\docs\image\baselin2.gif">
+      <Filter>libs\freetype-1.3.1\docs\image</Filter>
+    </Image>
+    <Image Include="libs\freetype-1.3.1\docs\image\baseline.gif">
+      <Filter>libs\freetype-1.3.1\docs\image</Filter>
+    </Image>
+    <Image Include="libs\freetype-1.3.1\docs\image\emsquare.gif">
+      <Filter>libs\freetype-1.3.1\docs\image</Filter>
+    </Image>
+    <Image Include="libs\freetype-1.3.1\docs\image\freetype.gif">
+      <Filter>libs\freetype-1.3.1\docs\image</Filter>
+    </Image>
+    <Image Include="libs\freetype-1.3.1\docs\image\freetype.png">
+      <Filter>libs\freetype-1.3.1\docs\image</Filter>
+    </Image>
+    <Image Include="libs\freetype-1.3.1\docs\image\grid1.gif">
+      <Filter>libs\freetype-1.3.1\docs\image</Filter>
+    </Image>
+    <Image Include="libs\freetype-1.3.1\docs\image\grid2.gif">
+      <Filter>libs\freetype-1.3.1\docs\image</Filter>
+    </Image>
+    <Image Include="libs\freetype-1.3.1\docs\image\grid3.gif">
+      <Filter>libs\freetype-1.3.1\docs\image</Filter>
+    </Image>
+    <Image Include="libs\freetype-1.3.1\docs\image\metrics.gif">
+      <Filter>libs\freetype-1.3.1\docs\image</Filter>
+    </Image>
+    <Image Include="libs\freetype-1.3.1\docs\image\metrics2.gif">
+      <Filter>libs\freetype-1.3.1\docs\image</Filter>
+    </Image>
+    <Image Include="libs\freetype-1.3.1\docs\image\small2.gif">
+      <Filter>libs\freetype-1.3.1\docs\image</Filter>
+    </Image>
+    <Image Include="libs\freetype-1.3.1\docs\image\tfp-back.png">
+      <Filter>libs\freetype-1.3.1\docs\image</Filter>
+    </Image>
+    <Image Include="libs\freetype-1.3.1\contrib\win32\res\testw32.ico">
+      <Filter>libs\freetype-1.3.1\contrib\win32\res</Filter>
+    </Image>
+    <Image Include="libs\freetype-1.3.1\contrib\ftos2\ft2.gif">
+      <Filter>libs\freetype-1.3.1\contrib\ftos2</Filter>
+    </Image>
+    <Image Include="libs\freetype-1.3.1\contrib\ftos2\ifi\ftmem.ico">
+      <Filter>libs\freetype-1.3.1\contrib\ftos2\ifi</Filter>
+    </Image>
+    <Image Include="libs\anet\doc\dosmod1.gif">
+      <Filter>libs\anet\doc</Filter>
+    </Image>
+    <Image Include="libs\anet\doc\dosmod2.gif">
+      <Filter>libs\anet\doc</Filter>
+    </Image>
+    <Image Include="libs\anet\doc\dosmod3.gif">
+      <Filter>libs\anet\doc</Filter>
+    </Image>
+    <Image Include="libs\anet\doc\i76mod2.gif">
+      <Filter>libs\anet\doc</Filter>
+    </Image>
+    <Image Include="libs\anet\doc\net1.gif">
+      <Filter>libs\anet\doc</Filter>
+    </Image>
+    <Image Include="libs\anet\doc\net2.gif">
+      <Filter>libs\anet\doc</Filter>
+    </Image>
+    <Image Include="libs\anet\doc\net3.gif">
+      <Filter>libs\anet\doc</Filter>
+    </Image>
+    <Image Include="libs\anet\doc\net4.gif">
+      <Filter>libs\anet\doc</Filter>
+    </Image>
+    <Image Include="libs\anet\doc\net5.gif">
+      <Filter>libs\anet\doc</Filter>
+    </Image>
+    <Image Include="ctp\ctp2_rsrc\icon1.ico">
+      <Filter>ctp\ctp2_rsrc</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="libs\freetype-1.3.1\contrib\win32\testw32.rc">
+      <Filter>libs\freetype-1.3.1\contrib\win32</Filter>
+    </ResourceCompile>
+    <ResourceCompile Include="ctp\ctp2_rsrc\civ3.rc">
+      <Filter>ctp\ctp2_rsrc</Filter>
+    </ResourceCompile>
   </ItemGroup>
 </Project>

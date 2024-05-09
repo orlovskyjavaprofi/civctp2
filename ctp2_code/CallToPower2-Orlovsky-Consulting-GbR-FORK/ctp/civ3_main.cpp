@@ -68,18 +68,21 @@
 #include "civ3_main.h"  // Own declarations: consistency check
 
 #include "AdvanceRecord.h"
-#include <algorithm>                    // std::fill
-#include "ancientwindows.h"
-#include "appstrings.h"
-#include "aui.h"
-#include "aui_Factory.h"
-#include "aui_ldl.h"
-#include "background.h"
-#include "backgroundwin.h"
-#include "bevellesswindow.h"
 #include "BuildingRecord.h"
-#include "c3_button.h"
-#include "c3_dropdown.h"
+
+#include <algorithm>                    // std::fill
+#include "../ui/interface/ancientwindows.h"
+#include "../ctp/ctp2_utils/appstrings.h"
+
+#include "../ui/aui_common/aui.h"
+#include "../ui/aui_common/aui_Factory.h"
+#include "../ui/aui_common/aui_ldl.h"
+#include "../ui/aui_ctp2/background.h"
+#include "../ui/interface/backgroundwin.h"
+#include "../ui/aui_ctp2/bevellesswindow.h"
+
+#include "../ui/aui_ctp2/c3_button.h"
+#include "../ui/aui_ctp2/c3_dropdown.h"
 #include "c3_static.h"
 #include "c3blitter.h"
 #include "c3cmdline.h"
@@ -159,11 +162,7 @@
 #include "videoutils.h"
 #endif
 
-#ifdef LINUX
-#include <sys/types.h>
-#include <sys/stat.h>
-#include <time.h>
-#endif
+
 #ifdef HAVE_UNISTD_H
 #include <unistd.h>
 #endif
@@ -362,18 +361,6 @@ namespace Os
 
 			CloseHandle(fileHandle);
 		}
-#elif defined(LINUX)
-		struct stat st = { 0 };
-		int rc = stat(Os::GetExeName().c_str(), &st);
-		if (rc == -1)
-			return exeVersion.str();
-
-		struct tm *t = localtime(&st.st_mtime);
-		exeVersion << std::setfill('0')
-		           << std::setw(4) << (t->tm_year + 1900)  << '-'
-		           << std::setw(2) << (t->tm_mon + 1)    << '-'
-		           << std::setw(2) << (t->tm_mday);
-#endif  // WIN32
 
 		return exeVersion.str();
 	}
