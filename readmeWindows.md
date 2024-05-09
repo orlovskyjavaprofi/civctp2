@@ -27,6 +27,7 @@ shell> for i in `ls /media/cdrom/Setup/data/Max/ctp2_data/default/videos/`; do m
 This will also copy the videos to that directory.
 
 **NOTICE FOR DEVELOPERS**
+
 CTP2 was originally built on Windows with Visual Studio 6. Today, the code compiles on Visual Studio 2017 and 2019 and probably also later. The code has not been compiled on Windows with any other compiler than the Visual Studio compiler. Beside a version of Visual Studio you need:
 
     The Windows SDK installed on your computer for DirectX support
