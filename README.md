@@ -4,7 +4,7 @@
 ## We take donations!
 **If you like this project , consider to donate https://github.com/orlovskyjavaprofi/civctp2/blob/master/funding.md**
 
-#### This special fork of CivCTP2 maintained by Alexander Orlovsky CEO of Orlovsky Consulting GbR www.javaprofide.de
+#### This special fork of CivCTP2 maintained by Alexander Orlovsky CEO of Orlovsky Consulting GbR www.orlovskyconsulting.de
 
 ## Orlovsky Consulting GbR goals for this project
 **Read more about our goals for the maintenance of this codebase** -> https://orlovskyjavaprofi.github.io/civctp2/
