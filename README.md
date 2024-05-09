@@ -33,6 +33,7 @@ This is **a fork** , which maintained by **Orlovsky Consulting GbR www.orlovskyc
 
 ## Building the game from sourcecode
 **This version of Call to Power 2 Apolyton, works only on Windows!**
+**You need for this version of Call to Power 2 a **Visual Studio Community edition** up from 2022 and **Microsoft DirectX SDK (June 2010)**  lib **(See section Windows build)**
 
 ## How to get videos and music from original game and copy it to the apolyton version
 https://github.com/orlovskyjavaprofi/civctp2/blob/master/how_to_get_content_original_game.md
@@ -48,6 +49,9 @@ Simple use the installer, or if its all prepackaged you run you game where give 
 
 ## Bugs reporting
 As it has been said here, my company Orlovsky Consulting GbR does the maintaince of this project fork, but if you at some point **try original apolyton version** and find bugs , **well you should consider to contact them first : https://github.com/civctp2/civctp2/issues**
+
+## Feature request
+First we need to make sure, that game runs stable, if you really think about feature, well you can file a github issue , **but dont expect that we implement it** , the game is old and we only interested in maintaining of it.
 
 **We try to stay in sync with the upstream**, but if we decide to do something differently and on our side the quality improve and well if you find bugs in our version of the game then you can report it via our **issues:** **https://github.com/orlovskyjavaprofi/civctp2/issues**
 
