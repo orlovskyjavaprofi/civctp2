@@ -1210,6 +1210,42 @@
     <ClInclude Include="robot\pathing\UnitAstar.h">
       <Filter>robot\pathing</Filter>
     </ClInclude>
+    <ClInclude Include="robot\aibackdoor\avl.h">
+      <Filter>robot\aibackdoor</Filter>
+    </ClInclude>
+    <ClInclude Include="robot\aibackdoor\bit_table.h">
+      <Filter>robot\aibackdoor</Filter>
+    </ClInclude>
+    <ClInclude Include="robot\aibackdoor\bset.h">
+      <Filter>robot\aibackdoor</Filter>
+    </ClInclude>
+    <ClInclude Include="robot\aibackdoor\civarchive.h">
+      <Filter>robot\aibackdoor</Filter>
+    </ClInclude>
+    <ClInclude Include="robot\aibackdoor\common.h">
+      <Filter>robot\aibackdoor</Filter>
+    </ClInclude>
+    <ClInclude Include="robot\aibackdoor\dynarr.h">
+      <Filter>robot\aibackdoor</Filter>
+    </ClInclude>
+    <ClInclude Include="robot\aibackdoor\list_array.h">
+      <Filter>robot\aibackdoor</Filter>
+    </ClInclude>
+    <ClInclude Include="robot\aibackdoor\pool.h">
+      <Filter>robot\aibackdoor</Filter>
+    </ClInclude>
+    <ClInclude Include="robot\aibackdoor\priorityqueue.h">
+      <Filter>robot\aibackdoor</Filter>
+    </ClInclude>
+    <ClInclude Include="robot\aibackdoor\sdl_endian.h">
+      <Filter>robot\aibackdoor</Filter>
+    </ClInclude>
+    <ClInclude Include="robot\aibackdoor\semi_dynamic_array.h">
+      <Filter>robot\aibackdoor</Filter>
+    </ClInclude>
+    <ClInclude Include="os\nowin32\windows.h">
+      <Filter>os\nowin32</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="ui\aui_common\aui_action.cpp">
@@ -2391,6 +2427,15 @@
     <ClCompile Include="robot\pathing\unitastar.cpp">
       <Filter>robot\pathing</Filter>
     </ClCompile>
+    <ClCompile Include="robot\aibackdoor\bset.cpp">
+      <Filter>robot\aibackdoor</Filter>
+    </ClCompile>
+    <ClCompile Include="robot\aibackdoor\civarchive.cpp">
+      <Filter>robot\aibackdoor</Filter>
+    </ClCompile>
+    <ClCompile Include="os\nowin32\nowin32.cpp">
+      <Filter>os\nowin32</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="ui">
@@ -2437,6 +2482,15 @@
     </Filter>
     <Filter Include="robot\pathing">
       <UniqueIdentifier>{a811947e-af46-4719-a2a4-5e1db6b0fef8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="robot\aibackdoor">
+      <UniqueIdentifier>{e32e7b4e-e04c-4e1c-a4eb-8311e6ec107a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="os">
+      <UniqueIdentifier>{3ca8bcc8-dedb-4a83-be38-191e4ce1c6b0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="os\nowin32">
+      <UniqueIdentifier>{6cc60201-42b6-47b5-98b2-bf9484b7558c}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>

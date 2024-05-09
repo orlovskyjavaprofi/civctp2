@@ -130,6 +130,18 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="os\nowin32\windows.h" />
+    <ClInclude Include="robot\aibackdoor\avl.h" />
+    <ClInclude Include="robot\aibackdoor\bit_table.h" />
+    <ClInclude Include="robot\aibackdoor\bset.h" />
+    <ClInclude Include="robot\aibackdoor\civarchive.h" />
+    <ClInclude Include="robot\aibackdoor\common.h" />
+    <ClInclude Include="robot\aibackdoor\dynarr.h" />
+    <ClInclude Include="robot\aibackdoor\list_array.h" />
+    <ClInclude Include="robot\aibackdoor\pool.h" />
+    <ClInclude Include="robot\aibackdoor\priorityqueue.h" />
+    <ClInclude Include="robot\aibackdoor\sdl_endian.h" />
+    <ClInclude Include="robot\aibackdoor\semi_dynamic_array.h" />
     <ClInclude Include="robot\pathing\Astar.h" />
     <ClInclude Include="robot\pathing\astarpnt.h" />
     <ClInclude Include="robot\pathing\AstarQ.h" />
@@ -535,6 +547,9 @@
     <ClInclude Include="ui\slic_debug\watchlist.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="os\nowin32\nowin32.cpp" />
+    <ClCompile Include="robot\aibackdoor\bset.cpp" />
+    <ClCompile Include="robot\aibackdoor\civarchive.cpp" />
     <ClCompile Include="robot\pathing\astar.cpp" />
     <ClCompile Include="robot\pathing\AstarPnt.cpp" />
     <ClCompile Include="robot\pathing\AstarQ.cpp" />
