@@ -32,7 +32,7 @@ Currently this fork is maintained by **Orlovsky Consulting GbR www.orlovskyconsu
 ![Call to Power 2 Apolyton version](https://github.com/orlovskyjavaprofi/civctp2/blob/master/ctp2start-scr.png)
 
 ## Building the game from sourcecode
-**This version builds on Linux (i386 and x86_64), Ubuntu, Pandora, and Pyra.**
+**This version of Call to Power 2 Apolyton, works only on Windows!**
 
 ## How to get videos and music from original game and copy it to the apolyton version
 https://github.com/orlovskyjavaprofi/civctp2/blob/master/how_to_get_content_original_game.md
