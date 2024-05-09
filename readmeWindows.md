@@ -1,3 +1,5 @@
+## Our Version is FORK!! This means we do develop our own branch with goal and target platform Windows only!
+
 ## Copy movies and music to your windows directory
 The Windows version supports CD audio music, and the Linux version supports ripped CD music files compressed as ogg (like found in the GoG version). The Audio tracks in the GoG version are named `Track02.ogg` to `Track11.ogg`.
 
@@ -35,29 +37,24 @@ CTP2 was originally built on Windows with Visual Studio 6. Today, the code compi
 ## IF you need h and cpp files generated use meson!
 **pip install meson its php command after that , you should be able to get all those special h files!**
 
+## Very important setup for Visual Studio:
+**1. Set civctp2 as startup project**
+
+2. Add  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include in Additional Include Directories
+of the ctp2 project!
+
+This step must be done for all running profiles!
+
+4. Download the package from here https://www.microsoft.com/en-us/download/details.aspx?id=6812
+this must be add in include for the ctp2 project: C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include
+
+## DirectX
     The Windows SDK installed on your computer for DirectX support
     An environment variable named CDKDIR on your computer. In Windows XP/2000, go to Control Panel->System->Environment Variables, and add it, with it's value set to [your source path]/ctp2/bin, the directory with bison, flex, and other tools in it. On Windows 10 it is Control Panel->System->Advanced System Settings->Environment Variables or PC Settings->Info->Advanced System Settings->Environment Variables or press Windows+Pause ->Advanced System Settings->Environment Variables
     A tmp directory in the root directory of the hard drive where the code is. If your source code working copy is on drive C: then create C:\tmp. If you have the code on another drive such as E: than it is E:\tmp.
 
-Once all these are in place, open the Visual Studio project file [your source path]/ctp2_code/ctp/civctp.sln in Visual Studio. The project comes with several configurations. The most important ones are:
+## Historic reference about the original project
 
-    Debug: Unoptimized debug build, with logging, asserts, and a memory leak detector. The leak detector makes it actually slow.
-    Final: The build that was shipped with the game.
-    Final with Logging: Like Final but with logging, which is very useful for AI debugging.
-    Release: Not needed for us, it is close to the Final version but does not include the CD check that the Final version originally included.
-    Debug Browse: Like Debug but seems allow also to browse the stack external Microsoft code. So far untested. It requires MSVCRTD.dll, which needs to placed into the folder ctp_code/ctp/ folder. It might be included in your copy of Visual Studio, but it can also be downloded from the internet, if you search for it.
-
-The executables these configurations generate are in [your source path]/ctp2_code/ctp/ and called:
-
-    CivCTP_dbg.exe for Debug
-    ctp2.exe for Final
-    ctp2log.exe for Final with Logging
-    ctp2r.exe for Release
-    CivCTP_dbg_browse.exe
-
-CTP2 can directly be run from Visual Studio, to do so press F5 if you want to run it on the debugger, which will be slow and does not make sense for a Final version. To run without debugging, press Ctrl F5. If necessary, CTP2 will be built, first. Some of the map plugins may fail to build the first time in a clean project. Just try compile those again.
-
-## DirectX
 I am not sure where you are now in this list. And keep in mind I don't follow these instructions too often, ether.
 
     Make sure you add the Include and Lib and BaseClasses directories from this SDK to Tools->Options->Directories from Visual Studio, if they are not there already. If you installed them to default locations, that means you need to add e.g. for DirectX 9.0:
@@ -105,19 +102,6 @@ And also this.
 I assume you have done this. Bit unrelated, what is DevStudio.
 
 Well, for the rest VS2019 may still refuse to compile something, usually when I upgraded from one version to another there was always some stuff that did not compile, but that can also be fixed. I only used VS2017, even so I have VS2019 installed.
-
-## Very important setup for Visual Studio:
-**1. Set civctp2 as startup project**
-
-2. Add  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include in Additional Include Directories
-of the ctp2 project!
-
-This step must be done for all running profiles!
-
-4. Download the package from here https://www.microsoft.com/en-us/download/details.aspx?id=6812
-this must be add in include for the ctp2 project: C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include
-
-## Our Version is FORK!! This means we do develop our own branch with goal and target platform Windows!
 
 
 Continue with installation -> https://github.com/orlovskyjavaprofi/civctp2/blob/master/README.md
