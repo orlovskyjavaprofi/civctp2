@@ -5639,6 +5639,9 @@
     <Filter Include="ai\diplomacy_test\diptest">
       <UniqueIdentifier>{016b58b1-f265-49d6-8295-739dcb7dac33}</UniqueIdentifier>
     </Filter>
+    <Filter Include="ctp\custom_records">
+      <UniqueIdentifier>{79cc1068-c703-4abe-9381-f6da44c1a165}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <None Include="ui\freetype\announce">
