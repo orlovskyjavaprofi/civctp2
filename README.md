@@ -1,5 +1,5 @@
 ## This is a fork of opensource project CivCTP2 our codebase basicly "Remaded" for Windows
-**Origin:** https://github.com/civctp2/civctp2 
+## [**You can find original version of CTP2 Apolyton here**] (https://github.com/civctp2/civctp2) 
 
 ## We take donations!
 **If you like this project , consider to donate https://github.com/orlovskyjavaprofi/civctp2/blob/master/funding.md**
