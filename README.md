@@ -54,7 +54,7 @@ Simple **use the installer**, or if its all already prepackaged you run you game
 Steam or GOG, well ok then, there game would **be available for free**, but this would be done only if **Microsoft\Activision** sign theirs permission for such realease, we dont violate theirs copyright rights, especially when the original game is sold on the GOG and Steam platform, but i hope they realize , that ***there even more possibilites!**
 
 ## Bugs reporting
-As it has been said here, my company Orlovsky Consulting GbR does only the maintaince of this project fork, but if you at some point **try original apolyton version** and find bugs , **well you should then contact them first : https://github.com/civctp2/civctp2/issues** . At the momene our codebase different  we at Orlovsky Consulting GbR concentrate for doing **windows only version**, and other original devs they do mostly Linux, **which is not bad**, but different from our goals.
+As it has been said here, my company Orlovsky Consulting GbR does only the maintaince of this project fork, but if you at some point **try original apolyton version** and find bugs , **well you should then contact them first : https://github.com/civctp2/civctp2/issues** . At the moment our codebase different  we at Orlovsky Consulting GbR concentrate for doing **windows only version**, and other original devs they do mostly Linux, **which is not bad**, but different from our goals.
 
 ## Feature request
 First we need to make sure, **that game runs stable**, if you really think about new features, well you can file a github issue , **but dont expect that we implement it** , **the game is old** and we only interested in **maintaining of it, so it can be played on newer windows**.
