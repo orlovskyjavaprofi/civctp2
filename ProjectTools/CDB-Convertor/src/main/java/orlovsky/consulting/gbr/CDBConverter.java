@@ -11,96 +11,111 @@ import java.util.List;
 
 public class CDBConverter {
 
-    public static void main(String[] args) {
-        if (args.length != 2) {
-            System.err.println("Usage: java CDBConverter <input_cdb_file> <output_directory>");
-            System.exit(1);
-        }
+	private static String filename;
 
-        String inputFilePath = args[0];
-        String outputDirectory = args[1];
+	public static void main(String[] args) {
+		if (args.length != 2) {
+			System.err.println("Usage: java CDBConverter <input_cdb_file> <output_directory>");
+			System.exit(1);
+		}
 
-        try {
-            List<String> cdbContents = readCDBFile(inputFilePath);
+		String inputFilePath = args[0];
+		String outputDirectory = args[1];
 
-            String headerContent = generateHeader(cdbContents);
-            String sourceContent = generateSource(cdbContents);
+		try {
+			List<String> cdbContents = readCDBFile(inputFilePath);
 
-            writeToFile(outputDirectory, "output.h", headerContent);
-            writeToFile(outputDirectory, "output.cpp", sourceContent);
+			String headerContent = generateHeader(cdbContents);
+			String sourceContent = generateSource(cdbContents);
 
-            System.out.println("Header and source files generated successfully.");
-        } catch (IOException e) {
-            System.err.println("Error: " + e.getMessage());
-            e.printStackTrace();
-        }
-    }
+			writeToFile(outputDirectory, filename + ".h", headerContent);
+			writeToFile(outputDirectory, filename + ".cpp", sourceContent);
 
-    private static List<String> readCDBFile(String filePath) throws IOException {
-        List<String> lines = new ArrayList<>();
-        try (BufferedReader reader = new BufferedReader(new FileReader(filePath))) {
-            String line;
-            while ((line = reader.readLine()) != null) {
-                lines.add(line);
-            }
-            reader.close();
-        }
-        return lines;
-    }
+			System.out.println("Header and source files generated successfully.");
+		} catch (IOException e) {
+			System.err.println("Error: " + e.getMessage());
+			e.printStackTrace();
+		}
+	}
 
-    private static String generateHeader(List<String> cdbContents) {
-        StringBuilder header = new StringBuilder();
-        header.append("/* Generated Header */\n\n");
+	private static List<String> readCDBFile(String filePath) throws IOException {
+		List<String> lines = new ArrayList<>();
+		try (BufferedReader reader = new BufferedReader(new FileReader(filePath))) {
+			String line;
+			while ((line = reader.readLine()) != null) {
+				lines.add(line);
+			}
+			reader.close();
+			extractAndSetFilename(filePath);
+		}
+		return lines;
+	}
 
-        // Iterate over the cdbContents and process each line to generate header content
-        for (String line : cdbContents) {
-            // Assuming each line in the CDB file represents a record or data
-            String[] parts = line.split("\\s+"); // Split the line into parts based on whitespace
-            if (parts.length > 0) {
-                String recordName = parts[0]; // Assuming the first part represents the record name
-                header.append("class ").append(recordName).append(" {\n");
+	private static void extractAndSetFilename(String filePath) {
+		File file = new File(filePath);
+		String currentFileName = file.getName();
+		int dotIndex = currentFileName.lastIndexOf('.');
+		if (dotIndex > 0) {
+			currentFileName = currentFileName.substring(0, dotIndex);
+		}
+		// Set the filename without extension to the global filename field
+		filename = currentFileName;
+	}
 
-                // Add member variables based on the remaining parts of the line
-                for (int i = 1; i < parts.length; i++) {
-                    header.append("    private ").append(parts[i]).append(";\n");
-                }
+	private static String generateHeader(List<String> cdbContents) {
+		StringBuilder header = new StringBuilder();
+		header.append("/* Generated Header */\n\n");
 
-                header.append("};\n\n");
-            }
-        }
+		// Iterate over the cdbContents and process each line to generate header content
+		for (String line : cdbContents) {
+			// Assuming each line in the CDB file represents a record or data
+			String[] parts = line.split("\\s+"); // Split the line into parts based on whitespace
+			if (parts.length > 0) {
+				String recordName = parts[0]; // Assuming the first part represents the record name
+				header.append("class ").append(recordName).append(" {\n");
 
-        return header.toString();
-    }
+				// Add member variables based on the remaining parts of the line
+				for (int i = 1; i < parts.length; i++) {
+					header.append("    private ").append(parts[i]).append(";\n");
+				}
 
-    private static String generateSource(List<String> cdbContents) {
-        StringBuilder source = new StringBuilder();
-        source.append("/* Generated Source */\n\n");
+				header.append("};\n\n");
+			}
+		}
 
-        // Iterate over the cdbContents and process each line to generate source content
-        for (String line : cdbContents) {
-            // Assuming each line in the CDB file represents a record or data
-            String[] parts = line.split("\\s+"); // Split the line into parts based on whitespace
-            if (parts.length > 0) {
-                String recordName = parts[0]; // Assuming the first part represents the record name
-                source.append(recordName).append("::").append(recordName).append("() {\n");
-                
-                // Add initialization of member variables based on the remaining parts of the line
-                for (int i = 1; i < parts.length; i++) {
-                    source.append("    // Initialize ").append(parts[i]).append("\n");
-                }
+		return header.toString();
+	}
 
-                source.append("}\n\n");
-            }
-        }
+	private static String generateSource(List<String> cdbContents) {
+		StringBuilder source = new StringBuilder();
+		source.append("/* Generated Source */\n\n");
 
-        return source.toString();
-    }
+		// Iterate over the cdbContents and process each line to generate source content
+		for (String line : cdbContents) {
+			// Assuming each line in the CDB file represents a record or data
+			String[] parts = line.split("\\s+"); // Split the line into parts based on whitespace
+			if (parts.length > 0) {
+				String recordName = parts[0]; // Assuming the first part represents the record name
+				source.append(recordName).append("::").append(recordName).append("() {\n");
 
-    private static void writeToFile(String outputDirectory, String fileName, String content) throws IOException {
-        File outputFile = new File(outputDirectory, fileName);
-        try (BufferedWriter writer = new BufferedWriter(new FileWriter(outputFile))) {
-            writer.write(content);
-            writer.close();
-        }
-    }
+				// Add initialization of member variables based on the remaining parts of the
+				// line
+				for (int i = 1; i < parts.length; i++) {
+					source.append("    // Initialize ").append(parts[i]).append("\n");
+				}
+
+				source.append("}\n\n");
+			}
+		}
+
+		return source.toString();
+	}
+
+	private static void writeToFile(String outputDirectory, String fileName, String content) throws IOException {
+		File outputFile = new File(outputDirectory, fileName);
+		try (BufferedWriter writer = new BufferedWriter(new FileWriter(outputFile))) {
+			writer.write(content);
+			writer.close();
+		}
+	}
 }
